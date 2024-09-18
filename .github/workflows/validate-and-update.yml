@@ -1,0 +1,109 @@
+name: validate-and-update
+
+on:
+  pull_request:
+  push:
+    branches: [1.0.x, 2.0.x]
+
+jobs:
+  json-schema-validation:
+    runs-on: ubuntu-latest
+    name: JSON Schema validation through pre-commit
+    steps:
+      - uses: actions/checkout@v3
+      - uses: pre-commit/action@v3.0.0
+        with:
+          extra_args: --all -c .pre-commit-config.yaml
+  generate-charts:
+    runs-on: ubuntu-latest
+    name: Generate graphical representations of the schemas
+    needs:
+      - json-schema-validation
+    strategy:
+      matrix:
+        schema-version: [ "0.4.x", "1.0.x" ]
+    steps:
+      - uses: actions/checkout@v3
+        with:
+          fetch-depth: 100
+      - uses: ts-graphviz/setup-graphviz@v1
+      - uses: actions/setup-python@v4
+        with:
+          python-version: "3.8"
+          cache: 'pip'
+          architecture: x64
+          cache-dependency-path: 'dev-requirements.txt'
+      - name: Install chart generator dependencies (development)
+        run: |
+          pip install --upgrade pip wheel
+          pip install -r dev-requirements.txt
+      - name: Changes at ${{ matrix.schema-version }} schemas
+        id: changed
+        run: |
+          dotfile="json-schemas/openebench-bdm-${{ matrix.schema-version }}.dot"
+          if [ -f "$dotfile" ] ; then
+            at="$(git --no-pager log -p -1 "--format=tformat:%at" --no-patch -- "$dotfile")"
+            dat="$at"
+            for schema in json-schemas/"${{ matrix.schema-version }}"/*.json ; do
+              dat="$(git --no-pager log -p -1 "--format=tformat:%at" --no-patch -- "$schema")"
+              if [ "$at" -lt "$dat" ] ; then
+                break
+              fi
+            done
+            
+            if [ "$at" -lt "$dat" ] ; then
+              echo "any_changed=true" >> "$GITHUB_OUTPUT"
+            else
+              echo "any_changed=false" >> "$GITHUB_OUTPUT"
+            fi
+          else
+            echo "any_changed=true" >> "$GITHUB_OUTPUT"
+          fi
+      - name: Generated ${{ matrix.schema-version }} schema
+        id: generate-if-changed
+        if: steps.changed.outputs.any_changed == 'true'
+        run: |
+          ext-json-validate --dot-report openebench-bdm-${{ matrix.schema-version }}.dot "OpenEBench Benchmarking Data Model ${{ matrix.schema-version }}" json-schemas/${{ matrix.schema-version }}
+          dot -Tpng openebench-bdm-${{ matrix.schema-version }}.dot -o openebench-bdm-${{ matrix.schema-version }}.dot.png
+          dot -Tpdf openebench-bdm-${{ matrix.schema-version }}.dot -o openebench-bdm-${{ matrix.schema-version }}.dot.pdf
+          dot -Tsvg openebench-bdm-${{ matrix.schema-version }}.dot -o openebench-bdm-${{ matrix.schema-version }}.dot.svg
+      - uses: actions/upload-artifact@v3
+        if: steps.generate-if-changed.outcome == 'success'
+        with:
+          retention-days: 2
+          path: openebench-bdm-${{ matrix.schema-version }}.dot*
+
+  push-charts:
+    runs-on: ubuntu-latest
+    name: Store newly generated charts
+    needs:
+      - generate-charts
+    steps:
+      - uses: actions/checkout@v3
+      - id: download
+        uses: actions/download-artifact@v3
+        with:
+          path: charts-dir
+      - id: move
+        name: Move charts to their right place
+        run: |
+          skip=true
+          if [ -d "${{steps.download.outputs.download-path}}" ] ; then
+            mv "${{steps.download.outputs.download-path}}"/artifact/* json-schemas/
+            skip=false
+          fi
+          echo "skip=$skip" >> "$GITHUB_OUTPUT"
+      - name: Create Pull Request
+        id: cpr
+        uses: peter-evans/create-pull-request@v5
+        if: steps.move.outputs.skip == 'false'
+        with:
+          title: Updated schemas documentation (triggered by ${{ github.sha }})
+          branch: create-pull-request/patch-schema-docs
+          delete-branch: true
+          commit-message: "[create-pull-request] Automatically commit updated contents (generated schemas documentation)"
+      - name: Check outputs
+        if: ${{ steps.cpr.outputs.pull-request-number }}
+        run: |
+          echo "Pull Request Number - ${{ steps.cpr.outputs.pull-request-number }}"
+          echo "Pull Request URL - ${{ steps.cpr.outputs.pull-request-url }}"

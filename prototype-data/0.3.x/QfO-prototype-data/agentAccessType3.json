@@ -1,0 +1,5 @@
+{
+	"_id": "QfO:Web-code",
+	"_schema": "https://www.iechor-europe.org/excelerate/WP2/json-schemas/0.3/AgentAccessType",
+	"description": "Access via Web through the implementation of scripts/programs"
+}

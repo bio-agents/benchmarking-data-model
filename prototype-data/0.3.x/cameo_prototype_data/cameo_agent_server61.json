@@ -1,0 +1,26 @@
+{
+    "_id": "CAMEO-3D:server61",
+    "_schema": "https://www.iechor-europe.org/excelerate/WP2/json-schemas/0.3/Agent",
+    "bioAgents_id": "",
+    "name": "PRIMO",
+    "description": "PRotein Interactive MOdeling",
+    "is_automated": true,
+    "community_id":
+      [
+        "CAMEO-3D" 
+      ],
+    "agent_contact_id": [
+      "help-cameo3d@unibas.ch"
+    ],
+    "status_id": "active",
+    "references": [
+      "10.1371/journal.pone.0166698"
+    ],
+    "agent_access": 
+      [
+        {
+          "agent_access_type_id":"REST/API",
+          "link":"http://swissmodel.expasy.org://primo.rubi.ru.ac.za/"
+        }
+      ]
+}

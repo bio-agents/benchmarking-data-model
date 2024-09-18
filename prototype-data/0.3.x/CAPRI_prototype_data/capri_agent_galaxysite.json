@@ -1,0 +1,26 @@
+{
+    "_id": "GalaxySite",
+    "_schema": "https://www.iechor-europe.org/excelerate/WP2/json-schemas/0.3/Agent",
+    "bioAgents_id": "GalaxySite",
+    "name": "GalaxySite",
+    "description": "GalaxySite is a web server for ligand-binding site prediction by using molecular docking.",
+    "is_automated": true,
+    "community_id":
+      [
+        "CAPRI" 
+      ],
+    "agent_contact_id": [
+      "Chaok.Seok"
+    ],
+    "status_id": "active",
+    "references": [
+      "10.1093/nar/gku321"
+    ],
+    "agent_access": 
+      [
+        {
+          "agent_access_type_id":"Web/API",
+          "link":"http://galaxy.seoklab.org/cgi-bin/submit.cgi?type=SITE"
+        }
+      ]
+}

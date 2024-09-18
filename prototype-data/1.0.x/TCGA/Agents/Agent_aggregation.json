@@ -1,0 +1,24 @@
+{
+    "_id":"TCGA:aggregate_benchmark",  
+    "_schema": "https://www.iechor-europe.org/excelerate/WP2/json-schemas/1.0/Agent",
+    "activation": "2018-04-05T00:00:00Z",
+    "description": "Docker container gathers benchmarking data for a TCGA challenge",
+    "is_automated": true,
+    "name": "TCGA benchmark consolidation",
+    "references": [
+        "doi:10.1016/j.cell.2018.02.060"
+    ],
+    "status": "unknown",
+    "agent_access": [
+        {
+            "agent_access_type": "other",
+	    "link": "https://github.com/inab/TCGA_visualizer/tree/master/tcga_assessment"
+        }
+    ],
+    "agent_contact_ids": [
+        "Matthew.Bailey",
+        "Eduard.Porta",
+        "Collin.Tokheim"
+    ],
+    "community_ids": ["OEBC001"]
+}

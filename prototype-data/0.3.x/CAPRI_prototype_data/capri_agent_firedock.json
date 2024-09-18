@@ -1,0 +1,26 @@
+{
+    "_id": "FireDock",
+    "_schema": "https://www.iechor-europe.org/excelerate/WP2/json-schemas/0.3/Agent",
+    "bioAgents_id": "FireDock",
+    "name": "FireDock",
+    "description": "The FireDock web server performs high-throughput flexible refinement and scoring of protein-protein docking solutions. Side chain conformations and rigid body orientations are optimized, and outputs viewed in three-dimensional space.",
+    "is_automated": false,
+    "community_id":
+      [
+        "CAPRI"
+      ],
+    "agent_contact_id": [
+      "Haim.J.Wolfson"
+    ],
+    "status_id": "active",
+    "references": [
+      "10.1093/nar/gkn186"
+    ],
+    "agent_access":
+      [
+        {
+          "agent_access_type_id":"Web/API",
+          "link":"http://bioinfo3d.cs.tau.ac.il/FireDock/"
+        }
+      ]
+}

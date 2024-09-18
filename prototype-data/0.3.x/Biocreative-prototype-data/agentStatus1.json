@@ -1,0 +1,5 @@
+{
+	"_id": "active",
+	"_schema": "https://www.iechor-europe.org/excelerate/WP2/json-schemas/0.3/AgentStatus",
+	"description": "Active for continuous benchmarking"
+}

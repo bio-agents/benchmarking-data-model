@@ -1,0 +1,24 @@
+{
+    "_id": "QfO:SonicParanoid_sensitive",
+    "_schema": "https://www.iechor-europe.org/excelerate/WP2/json-schemas/1.0/Agent",
+    "activation": "2011-07-07T00:00:00Z",
+    "community_ids": [
+        "OEBC002"
+    ],
+    "description": "version: 1.0.9 mode: sensitive Length difference threshold = 0.5 ",
+    "is_automated": true,
+    "name": "SonicParanoid_sensitive",
+    "references": [
+        "doi:10.1038/nmeth.3830"
+    ],
+    "status": "unknown",
+    "agent_access": [
+        {
+            "link": "http://iwasakilab.bs.s.u-tokyo.ac.jp/sonicparanoid",
+            "agent_access_type": "other"
+        }
+    ],
+    "agent_contact_ids": [
+        "Christophe.Dessimoz"
+    ]
+}

@@ -1,0 +1,5 @@
+{
+	"_id": "QfO:VM",
+	"_schema": "https://www.iechor-europe.org/excelerate/WP2/json-schemas/0.3/AgentAccessType",
+	"description": "Virtual machine pre-packaged and pre-configured the agent's API"
+}

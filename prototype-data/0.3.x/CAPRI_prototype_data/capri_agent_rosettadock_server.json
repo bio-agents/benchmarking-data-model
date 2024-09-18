@@ -1,0 +1,26 @@
+{
+    "_id": "rosettadock_server",
+    "_schema": "https://www.iechor-europe.org/excelerate/WP2/json-schemas/0.3/Agent",
+    "bioAgents_id": "rosettadock_server",
+    "name": "RosettaDock Server",
+    "description": "Structure prediction program that searches the rigid body and side chain conformational space of two interacting proteins to find a minimum free-energy complex for the protein-protein interaction structure.",
+    "is_automated": true,
+    "community_id":
+      [
+        "CAPRI" 
+      ],
+    "agent_contact_id": [
+      "Jeffrey.Gray"
+    ],
+    "status_id": "active",
+    "references": [
+      "10.1093/nar/gkn216"
+    ],
+    "agent_access": 
+      [
+        {
+          "agent_access_type_id":"Web/API",
+          "link":"http://rosie.graylab.jhu.edu/"
+        }
+      ]
+}

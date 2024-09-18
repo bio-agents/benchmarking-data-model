@@ -1,0 +1,26 @@
+{
+    "_id": "CAMEO-3D:server4",
+    "_schema": "https://www.iechor-europe.org/excelerate/WP2/json-schemas/0.3/Agent",
+    "bioAgents_id": "",
+    "name": "HHpred",
+    "description": "Comparative Structure Prediction",
+    "is_automated": true,
+    "community_id":
+      [
+        "CAMEO-3D" 
+      ],
+    "agent_contact_id": [
+      "help-cameo3d@unibas.ch"
+    ],
+    "status_id": "active",
+    "references": [
+      "10.1016/j.jmb.2017.12.007"
+    ],
+    "agent_access": 
+      [
+        {
+          "agent_access_type_id":"REST/API",
+          "link":"https://agentkit.tuebingen.mpg.de/"
+        }
+      ]
+}

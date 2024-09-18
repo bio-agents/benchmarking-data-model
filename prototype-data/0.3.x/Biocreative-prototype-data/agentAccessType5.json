@@ -1,0 +1,5 @@
+{
+	"_id": "Standalone-application",
+	"_schema": "https://www.iechor-europe.org/excelerate/WP2/json-schemas/0.3/AgentAccessType",
+	"description": "Software package to install the application and run it locally"
+}

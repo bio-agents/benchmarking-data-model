@@ -1,0 +1,5 @@
+{
+	"_id": "QfO:Database",
+	"_schema": "https://www.iechor-europe.org/excelerate/WP2/json-schemas/0.3/AgentAccessType",
+	"description": "Direct access to download the current release of the database"
+}
