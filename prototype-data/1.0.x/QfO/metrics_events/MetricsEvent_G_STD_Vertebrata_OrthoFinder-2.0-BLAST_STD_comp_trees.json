@@ -1,31 +1,3 @@
-{
-    "_id": "QfO:2011-07-07_G_STD_Vertebrata_metricsEvent_OrthoFinder-2.0-BLAST_STD_comp_trees",
-    "_schema": "https://www.iechor-europe.org/excelerate/WP2/json-schemas/1.0/TestAction",
-    "action_type": "MetricsEvent",
-    "challenge_id": "QfO:2011-07-07_G_STD_Vertebrata",
-    "dates": {
-        "creation": "2011-07-07T00:00:00Z",
-        "reception": "2011-07-07T00:00:00Z"
-    },
-    "involved_datasets": [
-        {
-            "dataset_id": "QfO:2011-07-07_G_STD_Vertebrata_M",
-            "role": "incoming"
-        },
-        {
-            "dataset_id": "QfO:2011-07-07_P_OrthoFinder-2.0-BLAST",
-            "role": "incoming"
-        },
-        {
-            "dataset_id": "QfO:2011-07-07_G_STD_Vertebrata_A_STD_comp_trees_OrthoFinder-2.0-BLAST",
-            "role": "outgoing"
-        }
-    ],
-    "test_contact_ids": [
-        "Christophe.Dessimoz",
-        "Paul.Thomas",
-        "Toni.Gabaldon",
-        "Erik.Sonnhammer"
-    ],
-    "agent_id": "QfO:OrthoFinder-2.0-BLAST"
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:d96465bd52b6a0d2d0051dbb84662a103df5771cc43008fe050a5097b6675856
+size 992

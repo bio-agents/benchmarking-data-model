@@ -1,26 +1,3 @@
-{
-    "_id": "CAMEO-3D:server11",
-    "_schema": "https://www.iechor-europe.org/excelerate/WP2/json-schemas/0.3/Agent",
-    "bioAgents_id": "JIID1",
-    "name": "Robetta",
-    "description": "full chain Protein Structure Prediction",
-    "is_automated": true,
-    "community_id":
-      [
-        "CAMEO-3D" 
-      ],
-    "agent_contact_id": [
-      "help-cameo3d@unibas.ch"
-    ],
-    "status_id": "active",
-    "references": [
-      "10.1093/nar/gkh468"
-    ],
-    "agent_access": 
-      [
-        {
-          "agent_access_type_id":"REST/API",
-          "link":"https://robetta.bakerlab.org/"
-        }
-      ]
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:099af9473eb2bed3fa73dcc7387230e7a172bf118e8745c2ae7a037b55c05144
+size 615

@@ -1,23 +1,3 @@
-{
-    "_id": "TCGA:ActiveDriver",
-    "_schema": "https://www.iechor-europe.org/excelerate/WP2/json-schemas/0.4/Agent",
-    "activation": "2018-04-05T00:00:00.000+0000",
-    "community_id": [
-        "TCGA"
-    ],
-    "description": "Cancer Driver Genes prediction",
-    "is_automated": true,
-    "name": "ActiveDriver",
-    "references": [
-        "10.1016/j.cell.2018.02.060"
-    ],
-    "status": "unknown",
-    "agent_access": [
-        {
-            "agent_access_type_id": "other"
-        }
-    ],
-    "agent_contact_id": [
-        "Eduard.Porta"
-    ]
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:140e771596ca945ca928ec3a91dff12ea778df39a54f7d0b94d60eeab0041eff
+size 559

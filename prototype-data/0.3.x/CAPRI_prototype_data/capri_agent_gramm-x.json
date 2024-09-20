@@ -1,27 +1,3 @@
-{
-    "_id": "GRAMM-X",
-    "_schema": "https://www.iechor-europe.org/excelerate/WP2/json-schemas/0.3/Agent",
-    "bioAgents_id": "GRAMM-X",
-    "name": "GRAMM-X",
-    "description": "GRAMM-X is a protein docking server.",
-    "is_automated": false,
-    "community_id":
-      [
-        "CAPRI" 
-      ],
-    "agent_contact_id": [
-      "Ilya.Vakser"
-    ],
-    "status_id": "active",
-    "references": [
-      "10.1093/nar/gkl206",
-      "10.1002/prot.20573"
-    ],
-    "agent_access": 
-      [
-        {
-          "agent_access_type_id":"Web/API",
-          "link":"http://vakser.bioinformatics.ku.edu/resources/gramm/grammx"
-        }
-      ]
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:a202e97f66918ca1d85b380f4dcb04b5a72969e76a2a777f02f672963c031d62
+size 647

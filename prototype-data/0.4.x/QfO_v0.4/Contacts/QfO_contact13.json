@@ -1,10 +1,3 @@
-{
-	"_id": "Inparanoid.MailingList",
-	"_schema": "https://www.iechor-europe.org/excelerate/WP2/json-schemas/0.4/Contact",
-	"contact_type": "other",
-	"givenName": "Mailing List",
-	"email": [
-		"inparanoid@sbc.su.se"
-	],
-	"notes": "Mailing list"
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:73bdef98ba7142061aca721f31889240d31934e1d90994a8ee7dc216651e221c
+size 245

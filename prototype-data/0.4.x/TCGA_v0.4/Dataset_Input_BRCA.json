@@ -1,26 +1,3 @@
-{
-    "_id": "TCGA:2018-04-05_BRCA_I",
-    "_schema": "https://www.iechor-europe.org/excelerate/WP2/json-schemas/0.4/Dataset",
-    "community_id": "TCGA",
-    "datalink": {
-        "attrs": [
-            "archive"
-        ],
-        "status": "ok",
-        "uri": "https://portal.gdc.cancer.gov/",
-        "validation_date": "2018-04-05T00:00:00Z"
-    },
-    "dataset_contact_ids": [
-        "Matthew.Bailey",
-        "Eduard.Porta",
-        "Collin.Tokheim"
-    ],
-    "dates": {
-        "creation": "2018-04-05T00:00:00Z",
-        "modification": "2018-04-05T14:00:00Z"
-    },
-    "description": "Input dataset for BRCA cancer benchmark",
-    "name": "Sequencing data from Breast Invasive Carcinoma (BRCA) samples",
-    "type": "input",
-    "version": "v12.0"
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:5b322008afac3758c388899473b8d101926de31ee17c287120527307cfe17c70
+size 763

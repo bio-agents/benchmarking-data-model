@@ -1,25 +1,3 @@
-{
-    "_id":"QfO:aggregate_benchmark",  
-    "_schema": "https://www.iechor-europe.org/excelerate/WP2/json-schemas/1.0/Agent",
-    "activation": "2011-07-07T00:00:00Z",
-    "description": "Docker container that gathers benchmarking data for a QfO challenge",
-    "is_automated": true,
-    "name": "QfO benchmark consolidation",
-    "references": [
-        "doi:10.1038/nmeth.3830"
-    ],
-    "status": "unknown",
-    "agent_access": [
-        {
-            "agent_access_type": "other",
-	    "link": "https://github.com/qfo/benchmark-webservice/tree/iechor"
-        }
-    ],
-    "agent_contact_ids": [
-        "Christophe.Dessimoz",
-      "Paul.Thomas",
-      "Toni.Gabaldon",
-      "Erik.Sonnhammer"
-    ],
-    "community_ids": ["OEBC002"]
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:23f0ada1b009f478cdd56d9829dc5a8888b34523120500a12b71c6e8867d0343
+size 743

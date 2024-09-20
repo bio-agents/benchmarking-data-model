@@ -1,22 +1,3 @@
-{
-	"_id": "QfO:QfO4_input_FASTA",
-	"_schema": "https://www.iechor-europe.org/excelerate/WP2/json-schemas/0.3/Dataset",
-	"name": "2011_04_reference_proteomes_FASTA-EBI",
-	"version": "version 5; 2011_04",
-	"description": "Reference Proteome data sets in FASTA format: collection of data providing a representative protein for each gene in the genome of selected species that have been generated annually from the uniProt Knowledgebase (UniProtKB) for the past five years",
-	"dates": {
-		"creation": "2011-04-01T00:00:00Z",
-		"modification": "2011-04-01T00:00:00Z"
-	},
-	"type": "Input",
-	"datalink": "ftp://ftp.ebi.ac.uk/pub/databases/reference_proteomes/previous_releases/qfo_release-2011_04/",
-	"dataset_contact_id": [
-		"Toni.Gabaldon",
-		"Erik.Sonnhammer",
-		"Christophe.Dessimoz",
-		"Paul.Thomas"
-	],
-	"references": [
-		"https://www.ncbi.nlm.nih.gov/pubmed/22102590"
-	]
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:90011fd1e3265c69decce4639ea44469d3fe71f31e14ca17703bfd72aaa2a138
+size 874

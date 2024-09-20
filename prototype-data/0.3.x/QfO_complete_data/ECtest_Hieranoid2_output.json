@@ -1,35 +1,3 @@
-{
-    "_id": "QfO:QfO4_ECtest_Hieranoid2_output",
-    "_schema": "https://www.iechor-europe.org/excelerate/WP2/json-schemas/0.3/Dataset",
-    "dataset_contact_id": [
-        "unknown"
-    ],
-    "dates": {
-        "creation": "2015-01-01T00:00:01Z",
-        "modification": "2015-01-01T00:00:01Z"
-    },
-    "description": "Output dataset for the Hieranoid2 agent in the 'Enzyme Classification Conservation Test' benchmark event with the correspondent metrics generated from it",
-    "metrics": [
-        {
-            "metrics_id": "QfO:ECConservationTest-recall",
-            "result": {
-                "value": 92636
-            }
-        },
-        {
-            "metrics_id": "QfO:ECConservationTest-precision",
-            "result": {
-                "value": 0.95871
-            }
-        },
-        {
-            "metrics_id": "QfO:precision_error",
-            "result": {
-                "value": 0.00088
-            }
-        }
-    ],
-    "name": "Hieranoid2.tar.gz",
-    "type": "Output",
-    "version": "unknown"
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:9c9c7dfc8b7d024e0ca25318328833bdaa0e12b54f2ab6ef5ca0b2a0d0cdfafb
+size 1028

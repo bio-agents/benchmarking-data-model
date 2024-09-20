@@ -1,35 +1,3 @@
-{
-    "_id": "QfO:QfO4_STD_Fungi_InParanoidCore_output",
-    "_schema": "https://www.iechor-europe.org/excelerate/WP2/json-schemas/0.3/Dataset",
-    "dataset_contact_id": [
-        "unknown"
-    ],
-    "dates": {
-        "creation": "2015-01-01T00:00:01Z",
-        "modification": "2015-01-01T00:00:01Z"
-    },
-    "description": "Output dataset for the InParanoidCore agent in the 'Species Tree Discordance' benchmark event with the correspondent metrics generated from it",
-    "metrics": [
-        {
-            "metrics_id": "QfO:STD-recall1",
-            "result": {
-                "value": 1673
-            }
-        },
-        {
-            "metrics_id": "QfO:STD-precision",
-            "result": {
-                "value": 0.217
-            }
-        },
-        {
-            "metrics_id": "QfO:precision_error",
-            "result": {
-                "value": 0.014
-            }
-        }
-    ],
-    "name": "InParanoidCore.tar.gz",
-    "type": "Output",
-    "version": "Fungi"
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:1034541ea39124b64aaef092cb8b4a2c937c4bd54ba1d1441349eeb02f668db6
+size 992

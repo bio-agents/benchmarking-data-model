@@ -1,5 +1,3 @@
-{
-        "_id": "Web/API",
-        "_schema": "https://www.iechor-europe.org/excelerate/WP2/json-schemas/0.3/AgentAccessType",
-        "description": "http://www.ebi.ac.uk/msd-srv/capri/capri.html"
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:0c155b2f8f3a59e26e70e61bf1f3eba5faa334743bce5df241fdb5eac1626885
+size 201

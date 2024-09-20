@@ -1,31 +1,3 @@
-{
-    "_id": "TCGA:2018-04-05_CHOL_metricsEvent_2020plus_TPR",
-    "_schema": "https://www.iechor-europe.org/excelerate/WP2/json-schemas/0.4/TestAction",
-    "action_type": "MetricsEvent",
-    "challenge_id": "TCGA:2018-04-05_CHOL",
-    "dates": {
-        "creation": "2018-04-05T00:00:00Z",
-        "reception": "2018-04-05T00:00:00Z"
-    },
-    "metrics_id": "TCGA:TPR",
-    "received_datasets": [
-        {
-            "dataset_id": "TCGA:2018-04-05_CHOL_M",
-            "role": "metrics_reference"
-        },
-        {
-            "dataset_id": "TCGA:2018-04-05_CHOL_P_2020plus",
-            "role": "participant"
-        },
-        {
-            "dataset_id": "TCGA:2018-04-05_CHOL_A_TPR_2020plus",
-            "role": "assessment"
-        }
-    ],
-    "test_contact_ids": [
-        "Matthew.Bailey",
-        "Eduard.Porta",
-        "Collin.Tokheim"
-    ],
-    "agent_id": "TCGA:2020plus"
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:3544515798acbd66adf25748565ed589407f1ab39df2d161f6a467c4283e0bdf
+size 895

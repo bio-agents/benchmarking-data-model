@@ -1,11 +1,3 @@
-{
-	"_id": "QfO:QfO4_EggNOG",
-	"_schema": "https://www.iechor-europe.org/excelerate/WP2/json-schemas/0.3/TestEvent",
-	"agent_id": "QfO:EggNOG",
-	"input_dataset_id": "QfO:QfO4_input_seqXML",
-	"output_dataset_id": "QfO:QfO4_output_EggNOG",
-	"benchmarking_event_id": "QfO:QfO4",
-	"dates": {
-		"creation": "2015-04-14T23:59:59Z"
-	}
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:971970fb7dba1de7bac1264a76098603659c0d12987ebeb7b021fb33e4fa86f3
+size 329

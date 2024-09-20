@@ -1,27 +1,3 @@
-{
-    "_id": "QfO:2011-07-07_testEvent_TreeFam-A_SonicParanoid",
-    "_schema": "https://www.iechor-europe.org/excelerate/WP2/json-schemas/1.0/TestAction",
-    "action_type": "TestEvent",
-    "challenge_id": "QfO:2011-07-07_TreeFam-A",
-    "dates": {
-        "creation": "2011-07-07T00:00:00Z",
-        "reception": "2011-07-07T00:00:00Z"
-    },
-    "involved_datasets": [
-        {
-            "dataset_id": "QfO:2011-07-07_I",
-            "role": "incoming"
-        },
-        {
-            "dataset_id": "QfO:2011-07-07_P_SonicParanoid",
-            "role": "outgoing"
-        }
-    ],
-    "test_contact_ids": [
-        "Christophe.Dessimoz",
-        "Paul.Thomas",
-        "Toni.Gabaldon",
-        "Erik.Sonnhammer"
-    ],
-    "agent_id": "QfO:SonicParanoid"
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:12e707bd98b3b692d5b5f4f3263cfca9b3c99aadc12a5fc4b46bdeebd57b2775
+size 764

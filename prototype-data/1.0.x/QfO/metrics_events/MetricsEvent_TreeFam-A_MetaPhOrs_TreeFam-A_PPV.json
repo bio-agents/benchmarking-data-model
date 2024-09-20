@@ -1,31 +1,3 @@
-{
-    "_id": "QfO:2011-07-07_TreeFam-A_metricsEvent_MetaPhOrs_TreeFam-A_PPV",
-    "_schema": "https://www.iechor-europe.org/excelerate/WP2/json-schemas/1.0/TestAction",
-    "action_type": "MetricsEvent",
-    "challenge_id": "QfO:2011-07-07_TreeFam-A",
-    "dates": {
-        "creation": "2011-07-07T00:00:00Z",
-        "reception": "2011-07-07T00:00:00Z"
-    },
-    "involved_datasets": [
-        {
-            "dataset_id": "QfO:2011-07-07_TreeFam-A_M",
-            "role": "incoming"
-        },
-        {
-            "dataset_id": "QfO:2011-07-07_P_MetaPhOrs",
-            "role": "incoming"
-        },
-        {
-            "dataset_id": "QfO:2011-07-07_TreeFam-A_A_TreeFam-A_PPV_MetaPhOrs",
-            "role": "outgoing"
-        }
-    ],
-    "test_contact_ids": [
-        "Christophe.Dessimoz",
-        "Paul.Thomas",
-        "Toni.Gabaldon",
-        "Erik.Sonnhammer"
-    ],
-    "agent_id": "QfO:MetaPhOrs"
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:9d344288fc9df39f4b94f41cb2aef71f8634b05680178c7dfc2a24ed770ace99
+size 914

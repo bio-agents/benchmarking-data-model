@@ -1,26 +1,3 @@
-{
-    "_id": "CAMEO-3D:server22",
-    "_schema": "https://www.iechor-europe.org/excelerate/WP2/json-schemas/0.3/Agent",
-    "bioAgents_id": "RaptorX",
-    "name": "RaptorX",
-    "description": "Protein Structure Prediction",
-    "is_automated": true,
-    "community_id":
-      [
-        "CAMEO-3D" 
-      ],
-    "agent_contact_id": [
-      "help-cameo3d@unibas.ch"
-    ],
-    "status_id": "active",
-    "references": [
-      "10.1007/978-1-4939-0366-5_2"
-    ],
-    "agent_access": 
-      [
-        {
-          "agent_access_type_id":"REST/API",
-          "link":"http://raptorx.uchicago.edu/"
-        }
-      ]
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:9cc701e900b0e2be772571e40c771aa09884e94a87ab6ce5628346461c8c8d29
+size 614

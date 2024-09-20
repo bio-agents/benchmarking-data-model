@@ -1,24 +1,3 @@
-{
-    "_id":"TCGA:compute_TPR",  
-    "_schema": "https://www.iechor-europe.org/excelerate/WP2/json-schemas/1.0/Agent",
-    "activation": "2018-04-05T00:00:00Z",
-    "description": "Docker container that computes the True Positive Rate for a list of predicted cancer driver genes",
-    "is_automated": true,
-    "name": "compute_TPR_driver_genes",
-    "references": [
-        "doi:10.1016/j.cell.2018.02.060"
-    ],
-    "status": "unknown",
-    "agent_access": [
-        {
-            "agent_access_type": "other",
-	    "link": "https://github.com/inab/TCGA_visualizer/tree/master/tcga_metrics"
-        }
-    ],
-    "agent_contact_ids": [
-        "Matthew.Bailey",
-        "Eduard.Porta",
-        "Collin.Tokheim"
-    ],
-    "community_ids": ["OEBC001"]
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:e27772803a044b946972879b146ea0bfcdef36327eabcd5938809f4732c70c33
+size 756

@@ -1,11 +1,3 @@
-{
-	"_id": "Graciela.Gonzalez",
-	"_schema": "https://www.iechor-europe.org/excelerate/WP2/json-schemas/0.3/Contact",
-	"contact_type": "person",
-	"givenName": "Graciela",
-	"surname": "Gonzalez",
-	"email": [
-		"graciela.gonzalez@asu.edu"
-	],
-	"notes": "Support contact / Maintainer for BANNER agent"
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:2a54b27e39e73723ed69b6beabcac705278230fe43235119dae41504db3ab894
+size 299

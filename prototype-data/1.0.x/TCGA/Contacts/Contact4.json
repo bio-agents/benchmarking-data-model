@@ -1,12 +1,3 @@
-{
-   "_id":"Juri.Reimand",
-   "givenName":"Jüri",
-   "surname":"Reimand",
-   "email":[
-      "juri.reimand@utoronto.ca"
-   ],
-   "notes":"Unknown",
-   "_schema":"https://www.iechor-europe.org/excelerate/WP2/json-schemas/1.0/Contact",
-   "contact_type":"person",
-   "community_id": "OEBC001"
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:26f169a3e931c677464bb04a180f107d79a9eb28b4656c1e97150fdf5f23acaf
+size 294

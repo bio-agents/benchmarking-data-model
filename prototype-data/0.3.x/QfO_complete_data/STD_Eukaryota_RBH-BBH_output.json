@@ -1,35 +1,3 @@
-{
-    "_id": "QfO:QfO4_STD_Eukaryota_RBH-BBH_output",
-    "_schema": "https://www.iechor-europe.org/excelerate/WP2/json-schemas/0.3/Dataset",
-    "dataset_contact_id": [
-        "unknown"
-    ],
-    "dates": {
-        "creation": "2015-01-01T00:00:01Z",
-        "modification": "2015-01-01T00:00:01Z"
-    },
-    "description": "Output dataset for the RBH-BBH agent in the 'Species Tree Discordance' benchmark event with the correspondent metrics generated from it",
-    "metrics": [
-        {
-            "metrics_id": "QfO:STD-recall1",
-            "result": {
-                "value": 9234
-            }
-        },
-        {
-            "metrics_id": "QfO:STD-precision",
-            "result": {
-                "value": 0.0672
-            }
-        },
-        {
-            "metrics_id": "QfO:precision_error",
-            "result": {
-                "value": 0.0036
-            }
-        }
-    ],
-    "name": "RBH-BBH.tar.gz",
-    "type": "Output",
-    "version": "Eukaryota"
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:e0bb539e5ba16bcc09a10891a2bed6e18d4b20df1eb71e1bd2a94bad321f53f3
+size 981

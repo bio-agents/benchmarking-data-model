@@ -1,35 +1,3 @@
-{
-    "_id": "TCGA:2018-04-05_ACC_P_OncodriveCLUST",
-    "_schema": "https://www.iechor-europe.org/excelerate/WP2/json-schemas/0.4/Dataset",
-    "access": "unknown",
-    "community_id": "TCGA",
-    "datalink": {
-        "attrs": [
-            "archive"
-        ],
-        "status": "ok",
-        "uri": "https://portal.gdc.cancer.gov/",
-        "validation_date": "2018-04-05T00:00:00Z"
-    },
-    "dataset_contact_ids": [
-        "Matthew.Bailey",
-        "Eduard.Porta",
-        "Collin.Tokheim"
-    ],
-    "dates": {
-        "creation": "2018-04-05T00:00:00Z",
-        "modification": "2018-04-05T14:00:00Z"
-    },
-    "depends_on": {
-        "rel_dataset_ids": [
-            {
-                "dataset_id": "TCGA:2018-04-05_ACC_I"
-            }
-        ],
-        "agent_id": "TCGA:OncodriveCLUST"
-    },
-    "description": "List of Cancer Driver Genes predicted by agent OncodriveCLUST in Adrenocortical Carcinoma",
-    "name": "Cancer Driver Genes in Adrenocortical Carcinoma",
-    "type": "participant",
-    "version": "unknown"
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:4a7aceaed0ed41268c1eb4916bc1b6299eaad479c9de2e19b9b2029e93743cc7
+size 1037

@@ -1,31 +1,3 @@
-{
-    "_id": "QfO:2011-07-07_ECtest_metricsEvent_EggNOG_ECTest_ortholog_relations",
-    "_schema": "https://www.iechor-europe.org/excelerate/WP2/json-schemas/1.0/TestAction",
-    "action_type": "MetricsEvent",
-    "challenge_id": "QfO:2011-07-07_ECtest",
-    "dates": {
-        "creation": "2011-07-07T00:00:00Z",
-        "reception": "2011-07-07T00:00:00Z"
-    },
-    "involved_datasets": [
-        {
-            "dataset_id": "QfO:2011-07-07_ECtest_M",
-            "role": "incoming"
-        },
-        {
-            "dataset_id": "QfO:2011-07-07_P_EggNOG",
-            "role": "incoming"
-        },
-        {
-            "dataset_id": "QfO:2011-07-07_ECtest_A_ECTest_ortholog_relations_EggNOG",
-            "role": "outgoing"
-        }
-    ],
-    "test_contact_ids": [
-        "Christophe.Dessimoz",
-        "Paul.Thomas",
-        "Toni.Gabaldon",
-        "Erik.Sonnhammer"
-    ],
-    "agent_id": "QfO:EggNOG"
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:de2b3b2e436b5463696c025494d48c85800df183483bb5765b24ecf1928477a5
+size 914

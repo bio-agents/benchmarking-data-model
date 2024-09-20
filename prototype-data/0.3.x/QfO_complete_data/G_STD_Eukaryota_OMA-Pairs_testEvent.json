@@ -1,11 +1,3 @@
-{
-    "_id": "QfO:QfO4_G_STD_Eukaryota_OMA-Pairs",
-    "_schema": "https://www.iechor-europe.org/excelerate/WP2/json-schemas/0.3/TestEvent",
-    "benchmarking_event_id": "QfO:QfO4_G_STD",
-    "dates": {
-        "creation": "2015-04-14T23:59:59Z"
-    },
-    "input_dataset_id": "QfO:QfO4_input_seqXML",
-    "output_dataset_id": "QfO:QfO4_G_STD_Eukaryota_OMA-Pairs_output",
-    "agent_id": "QfO:OMA-Pairs"
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:1039ca6092ea3b7e67d56f432556f1db74fe41549c04afc618a61c01314a4a4f
+size 405

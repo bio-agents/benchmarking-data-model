@@ -1,26 +1,3 @@
-{
-    "_id": "TCGA:2018-04-05_BLCA_I",
-    "_schema": "https://www.iechor-europe.org/excelerate/WP2/json-schemas/0.4/Dataset",
-    "community_id": "TCGA",
-    "datalink": {
-        "attrs": [
-            "archive"
-        ],
-        "status": "ok",
-        "uri": "https://portal.gdc.cancer.gov/",
-        "validation_date": "2018-04-05T00:00:00Z"
-    },
-    "dataset_contact_ids": [
-        "Matthew.Bailey",
-        "Eduard.Porta",
-        "Collin.Tokheim"
-    ],
-    "dates": {
-        "creation": "2018-04-05T00:00:00Z",
-        "modification": "2018-04-05T14:00:00Z"
-    },
-    "description": "Input dataset for BLCA cancer benchmark",
-    "name": "Sequencing data from Bladder Urothelial Carcinoma (BLCA) samples",
-    "type": "input",
-    "version": "v12.0"
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:1767c19df114e0aca94b2c9b001997a5f06d4fa87314eb9724a247ca6afcaff9
+size 766

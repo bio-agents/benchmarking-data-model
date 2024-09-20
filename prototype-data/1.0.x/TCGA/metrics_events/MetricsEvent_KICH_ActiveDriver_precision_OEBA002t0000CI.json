@@ -1,30 +1,3 @@
-{
-    "_id": "TCGA:2018-04-05_KICH_metricsEvent_ActiveDriver_precision",
-    "_schema": "https://www.iechor-europe.org/excelerate/WP2/json-schemas/1.0/TestAction",
-    "action_type": "MetricsEvent",
-    "challenge_id": "TCGA:2018-04-05_KICH",
-    "dates": {
-        "creation": "2018-04-05T00:00:00Z",
-        "reception": "2018-04-05T00:00:00Z"
-    },
-    "involved_datasets": [
-        {
-            "dataset_id": "TCGA:2018-04-05_KICH_M",
-            "role": "incoming"
-        },
-        {
-            "dataset_id": "TCGA:2018-04-05_KICH_P_ActiveDriver",
-            "role": "incoming"
-        },
-        {
-            "dataset_id": "TCGA:2018-04-05_KICH_A_precision_ActiveDriver",
-            "role": "outgoing"
-        }
-    ],
-    "test_contact_ids": [
-        "Matthew.Bailey",
-        "Eduard.Porta",
-        "Collin.Tokheim"
-    ],
-    "agent_id": "TCGA:ActiveDriver"
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:18da304a8843a0ab3a09c53884f8b4a7463a57ca47b17f1a5eabb4cfaa9ed4cb
+size 879

@@ -1,11 +1,3 @@
-{
-    "_id": "QfO:QfO4_STD_Eukaryota_EnsemblCompara",
-    "_schema": "https://www.iechor-europe.org/excelerate/WP2/json-schemas/0.3/TestEvent",
-    "benchmarking_event_id": "QfO:QfO4_STD",
-    "dates": {
-        "creation": "2015-04-14T23:59:59Z"
-    },
-    "input_dataset_id": "QfO:QfO4_input_seqXML",
-    "output_dataset_id": "QfO:QfO4_STD_Eukaryota_EnsemblCompara_output",
-    "agent_id": "QfO:EnsemblCompara"
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:50ca27e5a1d32c1646a1270225f99cc438443a7a6ed6e146128f8334230bc963
+size 414

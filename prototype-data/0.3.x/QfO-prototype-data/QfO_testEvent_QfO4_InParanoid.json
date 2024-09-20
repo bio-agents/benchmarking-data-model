@@ -1,11 +1,3 @@
-{
-	"_id": "QfO:QfO4_InParanoid",
-	"_schema": "https://www.iechor-europe.org/excelerate/WP2/json-schemas/0.3/TestEvent",
-	"agent_id": "QfO:InParanoid",
-	"input_dataset_id": "QfO:QfO4_input_seqXML",
-	"output_dataset_id": "QfO:QfO4_output_InParanoid",
-	"benchmarking_event_id": "QfO:QfO4",
-	"dates": {
-		"creation": "2015-04-14T23:59:59Z"
-	}
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:b03911148d26ae858a1c9020ab2b41848fb0e00699b100cdfb8a1cf9a8c0ee85
+size 341

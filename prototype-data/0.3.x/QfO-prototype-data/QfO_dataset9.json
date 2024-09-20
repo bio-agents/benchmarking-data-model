@@ -1,16 +1,3 @@
-{
-	"_id": "QfO:QfO4_output_PhylomeDB",
-	"_schema": "https://www.iechor-europe.org/excelerate/WP2/json-schemas/0.3/Dataset",
-	"name": "phylomeDB-.389.rels",
-	"version": "v1.0",
-	"description": "Output data set (pairwise orthologs predictions) for PhylomeDB agent",
-	"dates": {
-		"creation": "2013-06-06T11:51:18Z",
-		"modification": "2013-06-06T11:51:18Z"
-	},
-	"type": "Output",
-	"datalink": "http://orthology.benchmarkservice.org/raw/phylomeDB-.389.rels.raw.gz",
-	"dataset_contact_id": [
-		"Toni.Gabaldon"
-	]
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:fdea2b92cb796c8859eedacb830fb4b89500ba1d51c23e2715522f585ce8943b
+size 511

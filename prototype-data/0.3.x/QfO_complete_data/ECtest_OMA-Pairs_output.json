@@ -1,35 +1,3 @@
-{
-    "_id": "QfO:QfO4_ECtest_OMA-Pairs_output",
-    "_schema": "https://www.iechor-europe.org/excelerate/WP2/json-schemas/0.3/Dataset",
-    "dataset_contact_id": [
-        "unknown"
-    ],
-    "dates": {
-        "creation": "2015-01-01T00:00:01Z",
-        "modification": "2015-01-01T00:00:01Z"
-    },
-    "description": "Output dataset for the OMA-Pairs agent in the 'Enzyme Classification Conservation Test' benchmark event with the correspondent metrics generated from it",
-    "metrics": [
-        {
-            "metrics_id": "QfO:ECConservationTest-recall",
-            "result": {
-                "value": 79193
-            }
-        },
-        {
-            "metrics_id": "QfO:ECConservationTest-precision",
-            "result": {
-                "value": 0.97378
-            }
-        },
-        {
-            "metrics_id": "QfO:precision_error",
-            "result": {
-                "value": 0.00079
-            }
-        }
-    ],
-    "name": "OMA-Pairs.tar.gz",
-    "type": "Output",
-    "version": "unknown"
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:0afb167cd306d234a52d746e19fff3fcc3db3ae345fb7f0bfd0605ca9d48d330
+size 1025

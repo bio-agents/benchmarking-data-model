@@ -1,26 +1,3 @@
-{
-    "_id": "HexServer",
-    "_schema": "https://www.iechor-europe.org/excelerate/WP2/json-schemas/0.3/Agent",
-    "bioAgents_id": "HexServer",
-    "name": "HexServer",
-    "description": "A FFT-based protein docking server powered by graphics processors, HexServer rapidly produces a ranked list of docking predictions for input PDB protein structures.",
-    "is_automated": true,
-    "community_id":
-      [
-        "CAPRI" 
-      ],
-    "agent_contact_id": [
-      "Dave.Ritchie"
-    ],
-    "status_id": "active",
-    "references": [
-      "10.1093/nar/gkq311"
-    ],
-    "agent_access": 
-      [
-        {
-          "agent_access_type_id":"Web/API",
-          "link":"http://hexserver.loria.fr/"
-        }
-      ]
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:425158c31397d6f31d2df175ec494529562f3cf12ae9ddba0a5545835641b745
+size 721

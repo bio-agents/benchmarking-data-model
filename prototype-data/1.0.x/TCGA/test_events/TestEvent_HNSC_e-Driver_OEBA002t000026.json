@@ -1,26 +1,3 @@
-{
-    "_id": "TCGA:2018-04-05_HNSC_testEvent_e-Driver",
-    "_schema": "https://www.iechor-europe.org/excelerate/WP2/json-schemas/1.0/TestAction",
-    "action_type": "TestEvent",
-    "challenge_id": "TCGA:2018-04-05_HNSC",
-    "dates": {
-        "creation": "2018-04-05T00:00:00Z",
-        "reception": "2018-04-05T00:00:00Z"
-    },
-    "involved_datasets": [
-        {
-            "dataset_id": "TCGA:2018-04-05_input",
-            "role": "incoming"
-        },
-        {
-            "dataset_id": "TCGA:2018-04-05_HNSC_P_e-Driver",
-            "role": "outgoing"
-        }
-    ],
-    "test_contact_ids": [
-        "Matthew.Bailey",
-        "Eduard.Porta",
-        "Collin.Tokheim"
-    ],
-    "agent_id": "TCGA:e-Driver"
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:cf2c9551646c826684780b424377e0e11dd0f2bb4c5b8b965415a4a4d48103d9
+size 723

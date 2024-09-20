@@ -1,21 +1,3 @@
-{
-    "_id":"TCGA:compositeDriver",
-    "_schema": "https://www.iechor-europe.org/excelerate/WP2/json-schemas/1.0/Agent",
-    "activation": "2018-04-05T00:00:00Z",
-    "description": "Cancer Driver Genes prediction",
-    "is_automated": true,
-    "name": "compositeDriver",
-    "references": [
-        "doi:10.1016/j.cell.2018.02.060"
-    ],
-    "status": "unknown",
-    "agent_access": [
-        {
-            "agent_access_type": "other"
-        }
-    ],
-    "agent_contact_ids": [
-        "Matthew.Bailey"
-    ],
-    "community_ids": ["OEBC001"]
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:bc34a6dab374291b5a1ee711c0bc0d5e85c761a2eeb14e1d081b929fff146a32
+size 551

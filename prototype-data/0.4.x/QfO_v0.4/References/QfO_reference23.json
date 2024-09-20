@@ -1,7 +1,3 @@
-{
-	"_id": "10.1093/bioinformatics/btr485",
-	"_schema": "https://www.iechor-europe.org/excelerate/WP2/json-schemas/0.4/Reference",
-	"title": "Detecting biological network organization and functional gene orthologs",
-	"bibliographic_ids":["https://www.ncbi.nlm.nih.gov/pubmed/21856738", "http://dx.doi.org/10.1093/bioinformatics/btr485"],
-	"abstract": "SUMMARY: We developed a package TripletSearch to compute relationships within triplets of genes based on Roundup, an orthologous gene database containing >1500 genomes. These relationships, derived from the coevolution of genes, provide valuable information in the detection of biological network organization from the local to the system level, in the inference of protein functions and in the identification of functional orthologs. To run the computation, users need to provide the GI IDs of the genes of interest. AVAILABILITY: http://wall.hms.harvard.edu/sites/default/files/tripletSearch.tar.gz. CONTACT: dpwall@hms.harvard.edu. SUPPLEMENTARY INFORMATION: Supplementary data are available at Bioinformatics online."
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:012668ad6c1f9145cf028674aa5007a56c1648030bc40210165cafd832082600
+size 1075

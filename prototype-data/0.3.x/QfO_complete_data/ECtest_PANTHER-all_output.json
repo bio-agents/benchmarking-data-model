@@ -1,35 +1,3 @@
-{
-    "_id": "QfO:QfO4_ECtest_PANTHER-all_output",
-    "_schema": "https://www.iechor-europe.org/excelerate/WP2/json-schemas/0.3/Dataset",
-    "dataset_contact_id": [
-        "unknown"
-    ],
-    "dates": {
-        "creation": "2015-01-01T00:00:01Z",
-        "modification": "2015-01-01T00:00:01Z"
-    },
-    "description": "Output dataset for the PANTHER-all agent in the 'Enzyme Classification Conservation Test' benchmark event with the correspondent metrics generated from it",
-    "metrics": [
-        {
-            "metrics_id": "QfO:ECConservationTest-recall",
-            "result": {
-                "value": 120204
-            }
-        },
-        {
-            "metrics_id": "QfO:ECConservationTest-precision",
-            "result": {
-                "value": 0.937
-            }
-        },
-        {
-            "metrics_id": "QfO:precision_error",
-            "result": {
-                "value": 0.001
-            }
-        }
-    ],
-    "name": "PANTHER-all.tar.gz",
-    "type": "Output",
-    "version": "unknown"
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:73e1da1b5ab56ab4cc2ce7ceef57df584e210d972e0be3d07b5b3cdbd0e4b3d5
+size 1028

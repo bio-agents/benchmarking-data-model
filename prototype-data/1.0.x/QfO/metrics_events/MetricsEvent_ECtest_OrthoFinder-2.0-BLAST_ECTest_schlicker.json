@@ -1,31 +1,3 @@
-{
-    "_id": "QfO:2011-07-07_ECtest_metricsEvent_OrthoFinder-2.0-BLAST_ECTest_schlicker",
-    "_schema": "https://www.iechor-europe.org/excelerate/WP2/json-schemas/1.0/TestAction",
-    "action_type": "MetricsEvent",
-    "challenge_id": "QfO:2011-07-07_ECtest",
-    "dates": {
-        "creation": "2011-07-07T00:00:00Z",
-        "reception": "2011-07-07T00:00:00Z"
-    },
-    "involved_datasets": [
-        {
-            "dataset_id": "QfO:2011-07-07_ECtest_M",
-            "role": "incoming"
-        },
-        {
-            "dataset_id": "QfO:2011-07-07_P_OrthoFinder-2.0-BLAST",
-            "role": "incoming"
-        },
-        {
-            "dataset_id": "QfO:2011-07-07_ECtest_A_ECTest_schlicker_OrthoFinder-2.0-BLAST",
-            "role": "outgoing"
-        }
-    ],
-    "test_contact_ids": [
-        "Christophe.Dessimoz",
-        "Paul.Thomas",
-        "Toni.Gabaldon",
-        "Erik.Sonnhammer"
-    ],
-    "agent_id": "QfO:OrthoFinder-2.0-BLAST"
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:69d66eec6a135cc3335651fd3afa552191d4d3903a484f218e91e5be6e57c2d3
+size 956

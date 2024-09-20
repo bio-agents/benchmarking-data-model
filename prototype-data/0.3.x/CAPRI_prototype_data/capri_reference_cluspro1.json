@@ -1,6 +1,3 @@
-{
-		"_id": "10.1093/nar/gkh354",
-		"_schema": "https://www.iechor-europe.org/excelerate/WP2/json-schemas/0.3/Reference",
-		"title": "ClusPro: a fully automated algorithm for protein-protein docking",
-		"pubmed_id": 15215358
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:bb76c22aa68c07f50c59fadca47a9fc035748f26f780fc1d2a66bffb97cb7be1
+size 226

@@ -1,14 +1,3 @@
-{
-	"_id": "QfO:GOTest_ortholog_relations",
-	"_schema": "https://www.iechor-europe.org/excelerate/WP2/json-schemas/1.0/Metrics",
-	"title": "Gene Ontology Conservation test - Recall",
-	"description": "Evaluation of orthology in terms of functional similarity using the Gene Ontology Conservation test. Functional similarity is assessed based on experimentally backed annotations from the UniProt-Gene Ontology Annotation (GOA) database. Recall is measured as the number of orthologous relationships predicted by the method.",
-	"metrics_contact_ids": ["Christophe.Dessimoz",
-            "Paul.Thomas",
-            "Toni.Gabaldon",
-            "Erik.Sonnhammer"],
-	"formal_definition": "Recall is measured in terms of the number of orthologous relationships predicted by the method",
-	"references": [
-		"doi:10.1371/journal.pcbi.1000262"
-	]
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:5402d49b2315a6b3cc89f431c8904c34750a6aa6c4e05781d1c704d581058b04
+size 839

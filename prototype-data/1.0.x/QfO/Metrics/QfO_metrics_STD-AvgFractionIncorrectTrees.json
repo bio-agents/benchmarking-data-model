@@ -1,13 +1,3 @@
-{
-	"_id": "QfO:STD_incorrect_trees",
-	"_schema": "https://www.iechor-europe.org/excelerate/WP2/json-schemas/1.0/Metrics",
-	"title": "Species Tree Discordance test / Average fraction of incorrect trees",
-	"description": "The species tree discordance test assesses the accuracy (precision) of orthologs in terms of the accuracy of the species tree that can be reconstructed from them. This metric represents the average fraction of incorrect trees",
-	"metrics_contact_ids": ["Christophe.Dessimoz",
-            "Paul.Thomas",
-            "Toni.Gabaldon",
-			"Erik.Sonnhammer"],
-	"references": [
-		"doi:10.1371/journal.pcbi.1000262"
-	]
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:5b346ac7d8515a16abfcd31269dfb41d3bda20459b556775ceeb981fb82d4902
+size 634

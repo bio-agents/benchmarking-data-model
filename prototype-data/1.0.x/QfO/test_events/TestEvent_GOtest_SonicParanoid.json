@@ -1,27 +1,3 @@
-{
-    "_id": "QfO:2011-07-07_testEvent_GOtest_SonicParanoid",
-    "_schema": "https://www.iechor-europe.org/excelerate/WP2/json-schemas/1.0/TestAction",
-    "action_type": "TestEvent",
-    "challenge_id": "QfO:2011-07-07_GOtest",
-    "dates": {
-        "creation": "2011-07-07T00:00:00Z",
-        "reception": "2011-07-07T00:00:00Z"
-    },
-    "involved_datasets": [
-        {
-            "dataset_id": "QfO:2011-07-07_I",
-            "role": "incoming"
-        },
-        {
-            "dataset_id": "QfO:2011-07-07_P_SonicParanoid",
-            "role": "outgoing"
-        }
-    ],
-    "test_contact_ids": [
-        "Christophe.Dessimoz",
-        "Paul.Thomas",
-        "Toni.Gabaldon",
-        "Erik.Sonnhammer"
-    ],
-    "agent_id": "QfO:SonicParanoid"
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:93dc3cb8cd0c7c2651916415375a4b66ac11a5972ab0f5ff8cd95c786fd34898
+size 758

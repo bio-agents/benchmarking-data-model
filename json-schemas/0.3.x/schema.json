@@ -1,8 +1,3 @@
-{
-	"id": "https://www.iechor-europe.org/excelerate/WP2/json-schemas/0.3/",
-	"$schema": "http://json-schema.org/draft-04/hyper-schema#",
-	"title": "IECHOR-EXCELERATE WP2 Benchmarking schemas",
-	"type": "object",
-	"properties": {
-	}
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:89e0c2ae2b1068308fccfca848c6dd015c7bc7c0a3f7b3f9c786da8a732496ef
+size 233

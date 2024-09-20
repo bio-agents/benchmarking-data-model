@@ -1,32 +1,3 @@
-{
-    "_id": "QfO:2015-01-01_G_STD_Eukaryota_metricsEvent_OMA-Pairs_recall",
-    "_schema": "https://www.iechor-europe.org/excelerate/WP2/json-schemas/0.4/TestAction",
-    "action_type": "MetricsEvent",
-    "challenge_id": "QfO:2015-01-01_G_STD_Eukaryota",
-    "dates": {
-        "creation": "2015-01-01T00:00:01Z",
-        "modification": "2015-01-01T00:00:01Z"
-    },
-    "metrics_id": "QfO:STD-recall1",
-    "received_datasets": [
-        {
-            "dataset_id": "QfO:2015-01-01_G_STD_Eukaryota_M",
-            "role": "metrics_reference"
-        },
-        {
-            "dataset_id": "QfO:2015-01-01_P_OMA-Pairs",
-            "role": "participant"
-        },
-        {
-            "dataset_id": "QfO:2015-01-01_G_STD_Eukaryota_A_recall_OMA-Pairs",
-            "role": "assessment"
-        }
-    ],
-    "test_contact_ids": [
-        "Christophe.Dessimoz",
-        "Paul.Thomas",
-        "Toni.Gabaldon",
-        "Erik.Sonnhammer"
-    ],
-    "agent_id": "QfO:OMA-Pairs"
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:e8aa1245c22a559f5a4512dccaa2e716e67e1a0cf5029f7d55a4d7613fbabc76
+size 978

@@ -1,22 +1,3 @@
-{
-  "_id": "CAMEO:2017-01-14_00000021_1_test_server20",
-  "_schema": "https://www.iechor-europe.org/excelerate/WP2/json-schemas/1.0/TestAction",
-  "action_type": "TestEvent",
-  "challenge_id": "CAMEO:CAMEO-3D_2017-01-14",
-  "agent_id": "CAMEO:server20",
-  "involved_datasets": [
-    {
-      "dataset_id": "CAMEO:2017-01-14_00000021_1_I",
-      "role": "incoming"
-    },
-    {
-      "dataset_id": "CAMEO:2017-01-14_00000021_1_P_server20",
-      "role": "outgoing"
-    }
-  ],
-  "dates": {
-    "creation": "2017-01-14T05:30:00Z",
-    "reception": "2017-01-14T05:45:00Z"
-  },
-  "test_contact_ids": ["Torsten.Schwede"]
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:cbbbbdf8d0fa5948c822d7b474ea68f38eb3f0732804b66d0f5be096fcc4fb7f
+size 616

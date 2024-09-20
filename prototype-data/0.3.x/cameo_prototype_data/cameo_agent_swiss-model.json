@@ -1,27 +1,3 @@
-{
-    "_id": "CAMEO-3D:server20",
-    "_schema": "https://www.iechor-europe.org/excelerate/WP2/json-schemas/0.3/Agent",
-    "bioAgents_id": "JIID1",
-    "name": "SWISS-MODEL",
-    "description": "Comparative Structure Prediction",
-    "is_automated": true,
-    "community_id":
-      [
-        "CAMEO-3D", 
-        "Structure Prediction"
-      ],
-    "agent_contact_id": [
-      "Torsten.Schwede"
-    ],
-    "status_id": "active",
-    "references": [
-      "10.1093/nar/gku340"
-    ],
-    "agent_access": 
-      [
-        {
-          "agent_access_type_id":"REST/API",
-          "link":"http://swissmodel.expasy.org"
-        }
-      ]
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:fc3c400347ffd85ae1a6e0a3dd82ea8f51de56140f1b902fb50f5d8b8c1c68d5
+size 636

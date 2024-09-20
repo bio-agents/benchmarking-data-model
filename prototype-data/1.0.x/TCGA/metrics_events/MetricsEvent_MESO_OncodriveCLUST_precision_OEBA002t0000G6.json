@@ -1,30 +1,3 @@
-{
-    "_id": "TCGA:2018-04-05_MESO_metricsEvent_OncodriveCLUST_precision",
-    "_schema": "https://www.iechor-europe.org/excelerate/WP2/json-schemas/1.0/TestAction",
-    "action_type": "MetricsEvent",
-    "challenge_id": "TCGA:2018-04-05_MESO",
-    "dates": {
-        "creation": "2018-04-05T00:00:00Z",
-        "reception": "2018-04-05T00:00:00Z"
-    },
-    "involved_datasets": [
-        {
-            "dataset_id": "TCGA:2018-04-05_MESO_M",
-            "role": "incoming"
-        },
-        {
-            "dataset_id": "TCGA:2018-04-05_MESO_P_OncodriveCLUST",
-            "role": "incoming"
-        },
-        {
-            "dataset_id": "TCGA:2018-04-05_MESO_A_precision_OncodriveCLUST",
-            "role": "outgoing"
-        }
-    ],
-    "test_contact_ids": [
-        "Matthew.Bailey",
-        "Eduard.Porta",
-        "Collin.Tokheim"
-    ],
-    "agent_id": "TCGA:OncodriveCLUST"
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:10a6b52983ddab1d0973498419b97d6482b7be96c3f46140395613d97903582b
+size 887

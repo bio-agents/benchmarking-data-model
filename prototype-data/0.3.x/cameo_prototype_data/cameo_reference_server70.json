@@ -1,7 +1,3 @@
-{
-		"_id": "10.1007/s10969-008-9044-9",
-		"_schema": "https://www.iechor-europe.org/excelerate/WP2/json-schemas/0.3/Reference",
-		"title": "Improved scoring function for comparative modeling using the M4T method.", 
-		"pubmed_id": 18985440
-
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:ef7220d2b2a50db7c341b63495805eff395ea9e49ce7255e7957bd218435f856
+size 243

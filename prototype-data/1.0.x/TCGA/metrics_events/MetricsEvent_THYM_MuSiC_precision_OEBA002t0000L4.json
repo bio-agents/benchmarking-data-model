@@ -1,30 +1,3 @@
-{
-    "_id": "TCGA:2018-04-05_THYM_metricsEvent_MuSiC_precision",
-    "_schema": "https://www.iechor-europe.org/excelerate/WP2/json-schemas/1.0/TestAction",
-    "action_type": "MetricsEvent",
-    "challenge_id": "TCGA:2018-04-05_THYM",
-    "dates": {
-        "creation": "2018-04-05T00:00:00Z",
-        "reception": "2018-04-05T00:00:00Z"
-    },
-    "involved_datasets": [
-        {
-            "dataset_id": "TCGA:2018-04-05_THYM_M",
-            "role": "incoming"
-        },
-        {
-            "dataset_id": "TCGA:2018-04-05_THYM_P_MuSiC",
-            "role": "incoming"
-        },
-        {
-            "dataset_id": "TCGA:2018-04-05_THYM_A_precision_MuSiC",
-            "role": "outgoing"
-        }
-    ],
-    "test_contact_ids": [
-        "Matthew.Bailey",
-        "Eduard.Porta",
-        "Collin.Tokheim"
-    ],
-    "agent_id": "TCGA:MuSiC"
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:b218e190b50db4546249cd77de995cb44259048d648ca2d120db6e398518571c
+size 851

@@ -1,11 +1,3 @@
-{
-    "_id": "QfO:QfO4_SwissTree_OMA-Groups",
-    "_schema": "https://www.iechor-europe.org/excelerate/WP2/json-schemas/0.3/TestEvent",
-    "benchmarking_event_id": "QfO:QfO4_SwissTree",
-    "dates": {
-        "creation": "2015-04-14T23:59:59Z"
-    },
-    "input_dataset_id": "QfO:QfO4_input_seqXML",
-    "output_dataset_id": "QfO:QfO4_SwissTree_OMA-Groups_output",
-    "agent_id": "QfO:OMA-Groups"
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:247a32677201d457152e741bcdf67b974654551c10dec8fc8ae4dbbab88d2a64
+size 400

@@ -1,5 +1,3 @@
-{
-	"_id": "Algorithm-implementation",
-	"_schema": "https://www.iechor-europe.org/excelerate/WP2/json-schemas/0.3/AgentAccessType",
-	"description": "Algorithm published in the scientific literature or in a public repository. The algorithm or method has been implemented, there is a package containing its source code and/or scripts to run it, but there is not a agent or service providing direct access to use it"
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:ecc3de968a42a5cd6c8975ae0a464ce995476bf66454fd8a4e6b4aeb7dc26a23
+size 415

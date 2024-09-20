@@ -1,31 +1,3 @@
-{
-    "_id": "TCGA:2018-04-05_BLCA_metricsEvent_MutSig2CV_TPR",
-    "_schema": "https://www.iechor-europe.org/excelerate/WP2/json-schemas/0.4/TestAction",
-    "action_type": "MetricsEvent",
-    "challenge_id": "TCGA:2018-04-05_BLCA",
-    "dates": {
-        "creation": "2018-04-05T00:00:00Z",
-        "reception": "2018-04-05T00:00:00Z"
-    },
-    "metrics_id": "TCGA:TPR",
-    "received_datasets": [
-        {
-            "dataset_id": "TCGA:2018-04-05_BLCA_M",
-            "role": "metrics_reference"
-        },
-        {
-            "dataset_id": "TCGA:2018-04-05_BLCA_P_MutSig2CV",
-            "role": "participant"
-        },
-        {
-            "dataset_id": "TCGA:2018-04-05_BLCA_A_TPR_MutSig2CV",
-            "role": "assessment"
-        }
-    ],
-    "test_contact_ids": [
-        "Matthew.Bailey",
-        "Eduard.Porta",
-        "Collin.Tokheim"
-    ],
-    "agent_id": "TCGA:MutSig2CV"
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:28ceb04932bfda37691a54a84422ec2f155651bdc7b746ec9be69d303ee04b2a
+size 899

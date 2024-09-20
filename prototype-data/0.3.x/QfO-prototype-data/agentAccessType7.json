@@ -1,5 +1,3 @@
-{
-	"_id": "QfO:Database",
-	"_schema": "https://www.iechor-europe.org/excelerate/WP2/json-schemas/0.3/AgentAccessType",
-	"description": "Direct access to download the current release of the database"
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:9c7c5fa271517e12bbf3345f83e53d696192c9a863c10454ecf9566af7397287
+size 201

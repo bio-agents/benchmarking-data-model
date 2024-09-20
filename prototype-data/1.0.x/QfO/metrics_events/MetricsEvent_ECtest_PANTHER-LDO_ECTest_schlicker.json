@@ -1,31 +1,3 @@
-{
-    "_id": "QfO:2011-07-07_ECtest_metricsEvent_PANTHER-LDO_ECTest_schlicker",
-    "_schema": "https://www.iechor-europe.org/excelerate/WP2/json-schemas/1.0/TestAction",
-    "action_type": "MetricsEvent",
-    "challenge_id": "QfO:2011-07-07_ECtest",
-    "dates": {
-        "creation": "2011-07-07T00:00:00Z",
-        "reception": "2011-07-07T00:00:00Z"
-    },
-    "involved_datasets": [
-        {
-            "dataset_id": "QfO:2011-07-07_ECtest_M",
-            "role": "incoming"
-        },
-        {
-            "dataset_id": "QfO:2011-07-07_P_PANTHER-LDO",
-            "role": "incoming"
-        },
-        {
-            "dataset_id": "QfO:2011-07-07_ECtest_A_ECTest_schlicker_PANTHER-LDO",
-            "role": "outgoing"
-        }
-    ],
-    "test_contact_ids": [
-        "Christophe.Dessimoz",
-        "Paul.Thomas",
-        "Toni.Gabaldon",
-        "Erik.Sonnhammer"
-    ],
-    "agent_id": "QfO:PANTHER-LDO"
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:ea932901848e37a214eb768490372d794b4daa754a058cd267d38eefdc2c89e3
+size 916

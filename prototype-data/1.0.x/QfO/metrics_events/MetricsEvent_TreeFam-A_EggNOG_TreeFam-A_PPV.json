@@ -1,31 +1,3 @@
-{
-    "_id": "QfO:2011-07-07_TreeFam-A_metricsEvent_EggNOG_TreeFam-A_PPV",
-    "_schema": "https://www.iechor-europe.org/excelerate/WP2/json-schemas/1.0/TestAction",
-    "action_type": "MetricsEvent",
-    "challenge_id": "QfO:2011-07-07_TreeFam-A",
-    "dates": {
-        "creation": "2011-07-07T00:00:00Z",
-        "reception": "2011-07-07T00:00:00Z"
-    },
-    "involved_datasets": [
-        {
-            "dataset_id": "QfO:2011-07-07_TreeFam-A_M",
-            "role": "incoming"
-        },
-        {
-            "dataset_id": "QfO:2011-07-07_P_EggNOG",
-            "role": "incoming"
-        },
-        {
-            "dataset_id": "QfO:2011-07-07_TreeFam-A_A_TreeFam-A_PPV_EggNOG",
-            "role": "outgoing"
-        }
-    ],
-    "test_contact_ids": [
-        "Christophe.Dessimoz",
-        "Paul.Thomas",
-        "Toni.Gabaldon",
-        "Erik.Sonnhammer"
-    ],
-    "agent_id": "QfO:EggNOG"
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:5d0d354f7684cd7692336054618c35be5ff14c53f3137003a40c6a966abf1000
+size 902

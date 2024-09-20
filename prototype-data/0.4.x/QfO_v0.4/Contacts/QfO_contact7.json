@@ -1,21 +1,3 @@
-{
-	"_id": "ToddF.DeLuca",
-	"_schema": "https://www.iechor-europe.org/excelerate/WP2/json-schemas/0.4/Contact",
-	"contact_type": "person",
-	"givenName": "Todd F.",
-	"surname": "DeLuca",
-	"email": [
-		"todd_deluca@hms.harvard.edu"
-	],
-	"notes": "Roundup contact",
-	"links": [
-		{
-			"label": "MainSite",
-			"uri": "http://www.todddeluca.com/"
-		},
-		{
-			"label": "Other",
-			"uri": "https://github.com/todddeluca"
-		}
-	]
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:97c8ffe3c14c0127de81ca778336d695956076d555d86573a6d1332f25467f84
+size 422

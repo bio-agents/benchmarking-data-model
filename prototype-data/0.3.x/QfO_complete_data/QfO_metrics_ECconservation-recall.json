@@ -1,8 +1,3 @@
-{
-	"_id": "QfO:ECConservationTest-recall",
-	"_schema": "https://www.iechor-europe.org/excelerate/WP2/json-schemas/0.3/Metrics",
-	"title": "Enzyme Commission (EC) Conservation  test - Recall",
-	"description": "Evaluation of orthology in terms of functional similarity using the Enzyme Commission (EC) Conservation test. Functional similarity is assessed based on experimentally backed annotations from the EC database. Recall is measured as the number of orthologous relationships predicted by the method",
-	"metrics_contact_id": ["unknown"],
-	"formal_definition": "Recall is measured as the number of orthologous relationships predicted by the method"
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:2c62d30c83347b9c3026cfe34491a9dea335cd6d1874d86df0570664136345e9
+size 654

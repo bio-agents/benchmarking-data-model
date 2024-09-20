@@ -1,10 +1,3 @@
-{
-    "_id" : "Alexandre.MJJ.Bonvin",
-    "surname" : "Alexandre MJJ",
-    "givenName" : "Bonvin",
-    "email" : ["a.m.j.j.bonvin@uu.nl"],
-    "notes" : "",
-    "links" : [],
-    "_schema" : "https://www.iechor-europe.org/excelerate/WP2/json-schemas/0.3/Contact",
-    "contact_type" : "person"
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:e5432611fbe5e9dc97034015888b697dd6f85e364721f2279e918453e1393a3d
+size 296

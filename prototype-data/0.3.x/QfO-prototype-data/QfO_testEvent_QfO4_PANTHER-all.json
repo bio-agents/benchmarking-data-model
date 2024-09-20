@@ -1,11 +1,3 @@
-{
-	"_id": "QfO:QfO4_PANTHER-all",
-	"_schema": "https://www.iechor-europe.org/excelerate/WP2/json-schemas/0.3/TestEvent",
-	"agent_id": "QfO:Orthoinspector",
-	"input_dataset_id": "QfO:QfO4_input_seqXML",
-	"output_dataset_id": "QfO:QfO4_output_PANTHER-all",
-	"benchmarking_event_id": "QfO:QfO4",
-	"dates": {
-		"creation": "2015-04-14T23:59:59Z"
-	}
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:173519de2cbc7b070270af8e15d42518052be01ceb5cb415aa78ba5cc2676ebb
+size 347

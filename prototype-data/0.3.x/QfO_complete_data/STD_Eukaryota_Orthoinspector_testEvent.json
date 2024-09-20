@@ -1,11 +1,3 @@
-{
-    "_id": "QfO:QfO4_STD_Eukaryota_Orthoinspector",
-    "_schema": "https://www.iechor-europe.org/excelerate/WP2/json-schemas/0.3/TestEvent",
-    "benchmarking_event_id": "QfO:QfO4_STD",
-    "dates": {
-        "creation": "2015-04-14T23:59:59Z"
-    },
-    "input_dataset_id": "QfO:QfO4_input_seqXML",
-    "output_dataset_id": "QfO:QfO4_STD_Eukaryota_Orthoinspector_output",
-    "agent_id": "QfO:Orthoinspector"
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:e792689aa10c9b29fcbca2a2844080c9c76c7ee327825cf679727eede7d9dccf
+size 414

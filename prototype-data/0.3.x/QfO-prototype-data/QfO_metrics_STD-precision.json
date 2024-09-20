@@ -1,12 +1,3 @@
-{
-	"_id": "QfO:STD-precision",
-	"_schema": "https://www.iechor-europe.org/excelerate/WP2/json-schemas/0.3/Metrics",
-	"title": "Species Tree Discordance test / Robinson-Foulds distance",
-	"description": "The species tree discordance test assesses the accuracy (precision) of orthologs in terms of the accuracy of the species tree that can be reconstructed from them. It is measured in terms of the average tree error, which is calculated by means of the mean Robinson-Foulds distance from reference species tree",
-	"metrics_contact_id": ["unknown"],
-	"formal_definition": "The Robinson-Foulds distance measure is defined as the normalized count of the bipartitions induces by one tree but not by the other",
-	"references": [
-		"10.1016/0025-5564(81)90043-2",
-		"10.1371/journal.pcbi.1000262"
-	]
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:d294e069137a3ed9ad7089770de9bff90c7f857e0153db5b1d1d9a4948b752be
+size 796

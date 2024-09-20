@@ -1,31 +1,3 @@
-{
-    "_id": "QfO:2011-07-07_SwissTree_metricsEvent_InParanoid_SwissTree_TPR",
-    "_schema": "https://www.iechor-europe.org/excelerate/WP2/json-schemas/1.0/TestAction",
-    "action_type": "MetricsEvent",
-    "challenge_id": "QfO:2011-07-07_SwissTree",
-    "dates": {
-        "creation": "2011-07-07T00:00:00Z",
-        "reception": "2011-07-07T00:00:00Z"
-    },
-    "involved_datasets": [
-        {
-            "dataset_id": "QfO:2011-07-07_SwissTree_M",
-            "role": "incoming"
-        },
-        {
-            "dataset_id": "QfO:2011-07-07_P_InParanoid",
-            "role": "incoming"
-        },
-        {
-            "dataset_id": "QfO:2011-07-07_SwissTree_A_SwissTree_TPR_InParanoid",
-            "role": "outgoing"
-        }
-    ],
-    "test_contact_ids": [
-        "Christophe.Dessimoz",
-        "Paul.Thomas",
-        "Toni.Gabaldon",
-        "Erik.Sonnhammer"
-    ],
-    "agent_id": "QfO:InParanoid"
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:2670f6a4ebd5b7002dc1177d543401bc7d03f6e7d6d804bf0ff8a5f7b1bd0cfa
+size 918

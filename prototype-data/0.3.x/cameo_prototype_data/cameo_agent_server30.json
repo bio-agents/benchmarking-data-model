@@ -1,26 +1,3 @@
-	{
-	    "_id": "CAMEO-3D:server30",
-	    "_schema": "https://www.iechor-europe.org/excelerate/WP2/json-schemas/0.3/Agent",
-	    "bioAgents_id": "",
-	    "name": "Sparks-X",
-	    "description": "Comparative Structure Prediction",
-	    "is_automated": true,
-	    "community_id":
-	      [
-		"CAMEO-3D" 
-	      ],
-	    "agent_contact_id": [
-	      "help-cameo3d@unibas.ch"
-	    ],
-	    "status_id": "active",
-	    "references": [
-	      "10.1093/bioinformatics/btr350"
-	    ],
-	    "agent_access": 
-	      [
-		{
-		  "agent_access_type_id":"REST/API",
-		  "link":"http://sparks-lab.org/yueyang/server/SPARKS-X/index.php"
-        }
-      ]
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:90ca472a00ea628737c731e58e49a558d790ab311c39dae86b0191e19ff1d8e0
+size 636

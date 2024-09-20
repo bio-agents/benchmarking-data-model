@@ -1,26 +1,3 @@
-{
-    "_id": "TCGA:2018-04-05_COAD_I",
-    "_schema": "https://www.iechor-europe.org/excelerate/WP2/json-schemas/0.4/Dataset",
-    "community_id": "TCGA",
-    "datalink": {
-        "attrs": [
-            "archive"
-        ],
-        "status": "ok",
-        "uri": "https://portal.gdc.cancer.gov/",
-        "validation_date": "2018-04-05T00:00:00Z"
-    },
-    "dataset_contact_ids": [
-        "Matthew.Bailey",
-        "Eduard.Porta",
-        "Collin.Tokheim"
-    ],
-    "dates": {
-        "creation": "2018-04-05T00:00:00Z",
-        "modification": "2018-04-05T14:00:00Z"
-    },
-    "description": "Input dataset for COAD cancer benchmark",
-    "name": "Sequencing data from Colon Adenocarcinoma (COAD) samples",
-    "type": "input",
-    "version": "v12.0"
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:2f5f0dfa0a4e30e59accb25b82ab3b8999666097a129fc2db416b0848bd21eed
+size 758

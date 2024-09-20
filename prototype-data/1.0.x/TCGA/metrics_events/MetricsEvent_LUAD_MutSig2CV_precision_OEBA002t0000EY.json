@@ -1,30 +1,3 @@
-{
-    "_id": "TCGA:2018-04-05_LUAD_metricsEvent_MutSig2CV_precision",
-    "_schema": "https://www.iechor-europe.org/excelerate/WP2/json-schemas/1.0/TestAction",
-    "action_type": "MetricsEvent",
-    "challenge_id": "TCGA:2018-04-05_LUAD",
-    "dates": {
-        "creation": "2018-04-05T00:00:00Z",
-        "reception": "2018-04-05T00:00:00Z"
-    },
-    "involved_datasets": [
-        {
-            "dataset_id": "TCGA:2018-04-05_LUAD_M",
-            "role": "incoming"
-        },
-        {
-            "dataset_id": "TCGA:2018-04-05_LUAD_P_MutSig2CV",
-            "role": "incoming"
-        },
-        {
-            "dataset_id": "TCGA:2018-04-05_LUAD_A_precision_MutSig2CV",
-            "role": "outgoing"
-        }
-    ],
-    "test_contact_ids": [
-        "Matthew.Bailey",
-        "Eduard.Porta",
-        "Collin.Tokheim"
-    ],
-    "agent_id": "TCGA:MutSig2CV"
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:b9c30117dfd573a03e4bf2027e96077c2e4d759aede2093c66cfa5e957f95ba9
+size 867

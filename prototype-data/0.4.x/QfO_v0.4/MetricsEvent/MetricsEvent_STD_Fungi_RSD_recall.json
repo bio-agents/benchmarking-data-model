@@ -1,32 +1,3 @@
-{
-    "_id": "QfO:2015-01-01_STD_Fungi_metricsEvent_RSD_recall",
-    "_schema": "https://www.iechor-europe.org/excelerate/WP2/json-schemas/0.4/TestAction",
-    "action_type": "MetricsEvent",
-    "challenge_id": "QfO:2015-01-01_STD_Fungi",
-    "dates": {
-        "creation": "2015-01-01T00:00:01Z",
-        "modification": "2015-01-01T00:00:01Z"
-    },
-    "metrics_id": "QfO:STD-recall1",
-    "received_datasets": [
-        {
-            "dataset_id": "QfO:2015-01-01_STD_Fungi_M",
-            "role": "metrics_reference"
-        },
-        {
-            "dataset_id": "QfO:2015-01-01_P_RSD",
-            "role": "participant"
-        },
-        {
-            "dataset_id": "QfO:2015-01-01_STD_Fungi_A_recall_RSD",
-            "role": "assessment"
-        }
-    ],
-    "test_contact_ids": [
-        "Christophe.Dessimoz",
-        "Paul.Thomas",
-        "Toni.Gabaldon",
-        "Erik.Sonnhammer"
-    ],
-    "agent_id": "QfO:RSD"
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:902fc0b77da770e313d8131353baf9de9e5c719df44b528817ebad3de05c0aa2
+size 930

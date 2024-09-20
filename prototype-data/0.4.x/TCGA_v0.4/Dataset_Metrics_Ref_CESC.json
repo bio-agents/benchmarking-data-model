@@ -1,33 +1,3 @@
-{
-    "_id": "TCGA:2018-04-05_CESC_M",
-    "_schema": "https://www.iechor-europe.org/excelerate/WP2/json-schemas/0.4/Dataset",
-    "community_id": "TCGA",
-    "datalink": {
-        "attrs": [
-            "archive"
-        ],
-        "status": "ok",
-        "uri": "https://portal.gdc.cancer.gov/",
-        "validation_date": "2018-04-05T00:00:00Z"
-    },
-    "dataset_contact_ids": [
-        "Matthew.Bailey",
-        "Eduard.Porta",
-        "Collin.Tokheim"
-    ],
-    "dates": {
-        "creation": "2018-04-05T00:00:00Z",
-        "modification": "2018-04-05T14:00:00Z"
-    },
-    "depends_on": {
-        "rel_dataset_ids": [
-            {
-                "dataset_id": "TCGA:2018-04-05_CESC_I"
-            }
-        ]
-    },
-    "description": "List of genes (described by TCGA community) that can be used as 'gold standard' in Cervical Squamous Cell Carcinoma and Endocervical Adenocarcinoma benchmark ",
-    "name": "Metrics Reference Dataset for Cervical Squamous Cell Carcinoma and Endocervical Adenocarcinoma",
-    "type": "metrics_reference",
-    "version": "unknown"
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:0bd470ded270edde6a05e581491ab971273bfce8a1a54e6b3d3ce9d43f7dfc58
+size 1078

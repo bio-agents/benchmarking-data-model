@@ -1,22 +1,3 @@
-{
-		"_id": "John.Moult",
-		"_schema": "https://www.iechor-europe.org/excelerate/WP2/json-schemas/0.3/Contact",
-		"contact_type": "person",
-		"givenName": "John",
-		"surname": "Moult",
-		"email": 
-			[
-				"jmoult@umd.edu"
-			],
-		"notes": "Initiator of Critical Assessments and Inspiration",
-		"links": [
-			{
-				"label":"MainSite",
-				"uri":"http://predictioncenter.org"
-			},
-			{
-				"label":"Other",
-				"uri":"https://dx.doi.org/10.1002/prot.25415"
-			}
-		]
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:8375434c887ccf47dba360c2da1cf7b8677e8f5e936da474d60492efc8ca1b12
+size 467

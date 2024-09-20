@@ -1,8 +1,3 @@
-{
-	"_id": "QfO:recall_error",
-	"_schema": "https://www.iechor-europe.org/excelerate/WP2/json-schemas/0.3/Metrics",
-	"title": "Recall error",
-	"description": "95% confidence interval for the recall metric",
-	"metrics_contact_id": ["unknown"]
-
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:eafd57bdf48dc99ec77090b338be70bab6399ecd803e4adb469c4edb43a4daae
+size 244

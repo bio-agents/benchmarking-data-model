@@ -1,15 +1,3 @@
-{
-	"_id": "QfO:TreeFam-A_PPV",
-	"_schema": "https://www.iechor-europe.org/excelerate/WP2/json-schemas/1.0/Metrics",
-	"title": "Positive Predictive Value rate for Reference Gene Phylogenies: TreeFam-A",
-	"description": "Agreement (specificity) with Reference Gene Phylogenies - TreeFam-A measured through the Positive Predictive Value (PPV) rate",
-	"metrics_contact_ids": ["Christophe.Dessimoz",
-            "Paul.Thomas",
-            "Toni.Gabaldon",
-            "Erik.Sonnhammer"],
-	"formal_definition": "PPV = TP / (TP + FP)",
-	"references": [
-		"doi:10.1093/bib/bbr034",
-		"doi:10.1093/nar/gkj118"
-	]
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:82d98df19367663b5aecb0af09657185e4151b51517e6f5764d0c23526ef0780
+size 606

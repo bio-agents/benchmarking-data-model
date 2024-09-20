@@ -1,32 +1,3 @@
-{
-    "_id": "QfO:2015-01-01_ECtest_metricsEvent_PhylomeDB_precision",
-    "_schema": "https://www.iechor-europe.org/excelerate/WP2/json-schemas/0.4/TestAction",
-    "action_type": "MetricsEvent",
-    "challenge_id": "QfO:2015-01-01_ECtest",
-    "dates": {
-        "creation": "2015-01-01T00:00:01Z",
-        "modification": "2015-01-01T00:00:01Z"
-    },
-    "metrics_id": "QfO:ECConservationTest-precision",
-    "received_datasets": [
-        {
-            "dataset_id": "QfO:2015-01-01_ECtest_M",
-            "role": "metrics_reference"
-        },
-        {
-            "dataset_id": "QfO:2015-01-01_P_PhylomeDB",
-            "role": "participant"
-        },
-        {
-            "dataset_id": "QfO:2015-01-01_ECtest_A_precision_PhylomeDB",
-            "role": "assessment"
-        }
-    ],
-    "test_contact_ids": [
-        "Christophe.Dessimoz",
-        "Paul.Thomas",
-        "Toni.Gabaldon",
-        "Erik.Sonnhammer"
-    ],
-    "agent_id": "QfO:PhylomeDB"
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:d99813f83fe263980d5dcee5071be7518389dbf928ca778b6a4ba457cd68dc01
+size 965

@@ -1,30 +1,3 @@
-{
-    "_id": "TCGA:2018-04-05_CESC_metricsEvent_2020plus_precision",
-    "_schema": "https://www.iechor-europe.org/excelerate/WP2/json-schemas/1.0/TestAction",
-    "action_type": "MetricsEvent",
-    "challenge_id": "TCGA:2018-04-05_CESC",
-    "dates": {
-        "creation": "2018-04-05T00:00:00Z",
-        "reception": "2018-04-05T00:00:00Z"
-    },
-    "involved_datasets": [
-        {
-            "dataset_id": "TCGA:2018-04-05_CESC_M",
-            "role": "incoming"
-        },
-        {
-            "dataset_id": "TCGA:2018-04-05_CESC_P_2020plus",
-            "role": "incoming"
-        },
-        {
-            "dataset_id": "TCGA:2018-04-05_CESC_A_precision_2020plus",
-            "role": "outgoing"
-        }
-    ],
-    "test_contact_ids": [
-        "Matthew.Bailey",
-        "Eduard.Porta",
-        "Collin.Tokheim"
-    ],
-    "agent_id": "TCGA:2020plus"
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:9a87edc8d60342e1dcd7b82792b1d67fffccccb2c0355687aed5b1179f398889
+size 863

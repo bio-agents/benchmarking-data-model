@@ -1,12 +1,3 @@
-{
-  "_id": "help.CAMEO-3D",
-  "_schema" : "https://www.iechor-europe.org/excelerate/WP2/json-schemas/1.0/Contact",
-  "community_id" : "OEBC008",
-  "contact_type": "helpdesk",
-  "givenName": "help",
-  "surname": "CAMEO-3D",
-  "email": [
-    "help-cameo3d@unibas.ch"
-  ],
-  "notes": "HelpDesk at CAMEO-3D"
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:f515e1470a71cb66ab1da4cace1ac57ce8659186839da222ceb42c488bde1415
+size 306

@@ -1,31 +1,3 @@
-{
-    "_id": "QfO:2011-07-07_G_STD_Eukaryota_metricsEvent_GETHOGs-2.0_STD_RF_distance",
-    "_schema": "https://www.iechor-europe.org/excelerate/WP2/json-schemas/1.0/TestAction",
-    "action_type": "MetricsEvent",
-    "challenge_id": "QfO:2011-07-07_G_STD_Eukaryota",
-    "dates": {
-        "creation": "2011-07-07T00:00:00Z",
-        "reception": "2011-07-07T00:00:00Z"
-    },
-    "involved_datasets": [
-        {
-            "dataset_id": "QfO:2011-07-07_G_STD_Eukaryota_M",
-            "role": "incoming"
-        },
-        {
-            "dataset_id": "QfO:2011-07-07_P_GETHOGs-2.0",
-            "role": "incoming"
-        },
-        {
-            "dataset_id": "QfO:2011-07-07_G_STD_Eukaryota_A_STD_RF_distance_GETHOGs-2.0",
-            "role": "outgoing"
-        }
-    ],
-    "test_contact_ids": [
-        "Christophe.Dessimoz",
-        "Paul.Thomas",
-        "Toni.Gabaldon",
-        "Erik.Sonnhammer"
-    ],
-    "agent_id": "QfO:GETHOGs-2.0"
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:9cfa543b2512e4e5da69983a20a71e688b3ff4205e6f9a8a872f1be5352f6f5c
+size 950

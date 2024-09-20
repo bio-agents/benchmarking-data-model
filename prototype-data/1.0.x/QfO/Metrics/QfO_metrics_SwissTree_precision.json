@@ -1,14 +1,3 @@
-{
-	"_id": "QfO:SwissTree_PPV",
-	"_schema": "https://www.iechor-europe.org/excelerate/WP2/json-schemas/1.0/Metrics",
-	"title": "Precision for Reference Gene Phylogenies: SwissTree",
-	"description": "Agreement (specificity) with Reference Gene Phylogenies - SwissTree measured through the Positive Predictive Value (PPV) rate",
-	"metrics_contact_ids": ["Christophe.Dessimoz",
-            "Paul.Thomas",
-            "Toni.Gabaldon",
-            "Erik.Sonnhammer"],
-	"formal_definition": "PPV = TP / (TP + FP)",
-	"references": [
-		"doi:10.1093/bib/bbr034"
-	]
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:6ecd567351001123863bf8612b4e5a20cca1e8a952ddb50114098aa076af8793
+size 557

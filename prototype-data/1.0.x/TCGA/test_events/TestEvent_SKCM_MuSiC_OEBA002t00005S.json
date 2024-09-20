@@ -1,26 +1,3 @@
-{
-    "_id": "TCGA:2018-04-05_SKCM_testEvent_MuSiC",
-    "_schema": "https://www.iechor-europe.org/excelerate/WP2/json-schemas/1.0/TestAction",
-    "action_type": "TestEvent",
-    "challenge_id": "TCGA:2018-04-05_SKCM",
-    "dates": {
-        "creation": "2018-04-05T00:00:00Z",
-        "reception": "2018-04-05T00:00:00Z"
-    },
-    "involved_datasets": [
-        {
-            "dataset_id": "TCGA:2018-04-05_input",
-            "role": "incoming"
-        },
-        {
-            "dataset_id": "TCGA:2018-04-05_SKCM_P_MuSiC",
-            "role": "outgoing"
-        }
-    ],
-    "test_contact_ids": [
-        "Matthew.Bailey",
-        "Eduard.Porta",
-        "Collin.Tokheim"
-    ],
-    "agent_id": "TCGA:MuSiC"
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:2c4e82d920a8142ee2aa340b6095bf8aaf002a678aa9e91e69f7cbabb4daba33
+size 714

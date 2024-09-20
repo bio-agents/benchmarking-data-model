@@ -1,27 +1,3 @@
-{
-	"_id": "CAMEO-3D",
-	"_schema": "https://www.iechor-europe.org/excelerate/WP2/json-schemas/0.3/Community",
-	"name": "Continuous Automated Model Evaluation Category: Protein Structure Prediction",
-	"acronym": "CAMEO Structure Prediction",
-	"status_id": [
-		"TBD"
-	],
-	"description": "Weekly Evaluation of Structure Prediction methods based on the PDB release cycle. Targets are protein sequences publically available four days ahead of the PDB release.",
-	"links":[
-		{
-			"label":"MainSite",
-			"uri":"http://cameo3d.org"
-		},
-		{
-			"label":"PublicationDOI",
-			"uri":"http://dx.doi.org/10.1093/database/bat031"
-		}
-	],
-	"community_contacts":
-		[
-				"Juergen.Haas",
-				"Torsten.Schwede"
-		]
-	
-	
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:bed7fb3ff309a327cfd471806cdf6d2ca33afabe92c9b1351930a24a3fd16aad
+size 702

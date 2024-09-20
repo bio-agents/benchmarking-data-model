@@ -1,6 +1,3 @@
-{
-		"_id": "10.1002/prot.20573",
-		"_schema": "https://www.iechor-europe.org/excelerate/WP2/json-schemas/0.3/Reference",
-		"title": "Development and testing of an automated approach to protein docking",
-		"pubmed_id": 15981259
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:8dd7caaf7eefb7c97bfd36d2515fda16efca145d5ef5826ec8ed34e019239127
+size 229

@@ -1,21 +1,3 @@
-{
-    "_id":"TCGA:MuSiC",  
-    "_schema": "https://www.iechor-europe.org/excelerate/WP2/json-schemas/1.0/Agent",
-    "activation": "2018-04-05T00:00:00Z",
-    "description": "Cancer Driver Genes prediction",
-    "is_automated": true,
-    "name": "MuSiC",
-    "references": [
-        "doi:10.1101/gr.134635.111"
-    ],
-    "status": "unknown",
-    "agent_access": [
-        {
-            "agent_access_type": "other"
-        }
-    ],
-    "agent_contact_ids": [
-        "Nathan.Dees"
-    ],
-    "community_ids": ["OEBC001"]
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:fd913445d51531d79efa909bbe60f83c89b3b9e5240097eb8d4248e887a69ec1
+size 525

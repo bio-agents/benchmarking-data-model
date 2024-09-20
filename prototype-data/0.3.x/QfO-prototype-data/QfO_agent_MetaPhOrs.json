@@ -1,25 +1,3 @@
-{
-	"_id": "QfO:MetaPhOrs",
-	"_schema": "https://www.iechor-europe.org/excelerate/WP2/json-schemas/0.3/Agent",
-	"name": "MethaPhOrs",
-	"description": "MetaPhOrs is a public repository of phylogeny-based orthologs and paralogs that were computed using phylogenetic trees available in twelve public repositories",
-	"is_automated": true,
-	"community_id": ["QfO:QfO"],
-	"agent_contact_id": [
-		"Toni.Gabaldon"
-	],
-	"status_id": "QfO:active",
-	"references": [
-		"10.1093/nar/gkq953"
-	],
-	"agent_access": [
-		{
-			"agent_access_type_id": "QfO:RESTful-Web-API",
-			"link": "http://betaorthology.phylomedb.org"
-		},
-		{
-			"agent_access_type_id": "QfO:Web-code",
-			"link": "http://betaorthology.phylomedb.org/wsgi/query.py/"
-		}
-	]
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:c6fd762994389b8d8e3ad1045fc623668923b0a7d280eb4393a03ce71c73e1c7
+size 726

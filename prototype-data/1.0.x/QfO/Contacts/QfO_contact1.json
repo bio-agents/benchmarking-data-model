@@ -1,12 +1,3 @@
-{ 
-    "_id" : "Javier.Garrayo", 
-    "surname" : "Garrayo", 
-    "givenName" : "Javier", 
-    "_schema" : "https://www.iechor-europe.org/excelerate/WP2/json-schemas/1.0/Contact", 
-    "contact_type" : "person", 
-    "email" : [
-        "javier.garrayo@bsc.es"
-    ], 
-    "notes" : "Contact for QfO datasets", 
-    "community_id" : "OEBC002"
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:fa1e09bd5b7ded9afa8da6f66755b4c572ef874d5c59dd4847670ac3ff0ec7ce
+size 345

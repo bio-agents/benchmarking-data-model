@@ -1,11 +1,3 @@
-{
-    "_id": "QfO:QfO4_TreeFam-A_PhylomeDB",
-    "_schema": "https://www.iechor-europe.org/excelerate/WP2/json-schemas/0.3/TestEvent",
-    "benchmarking_event_id": "QfO:QfO4_TreeFam-A",
-    "dates": {
-        "creation": "2015-04-14T23:59:59Z"
-    },
-    "input_dataset_id": "QfO:QfO4_input_seqXML",
-    "output_dataset_id": "QfO:QfO4_TreeFam-A_PhylomeDB_output",
-    "agent_id": "QfO:PhylomeDB"
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:5d07f4dac873018cbab2e0a0d321b51b35e59938b960340473419b04bbb70896
+size 397

@@ -1,21 +1,3 @@
-{
-	"_id": "DennisP.Wall",
-	"_schema": "https://www.iechor-europe.org/excelerate/WP2/json-schemas/0.3/Contact",
-	"contact_type": "person",
-	"givenName": "Dennis P.",
-	"surname": "Wall",
-	"email": [
-		"dpwall@stanford.edu"
-	],
-	"notes": "Roundup contact",
-	"links": [
-		{
-			"label": "MainSite",
-			"uri": "https://wall-lab.stanford.edu/"
-		},
-		{
-			"label": "Other",
-			"uri": "https://github.com/todddeluca"
-		}
-	]
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:06961fcacbfd7af4e05d9e7e865fc421a1232c7d5d13177a497d61d2000a14ee
+size 418

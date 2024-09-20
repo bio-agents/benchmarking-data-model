@@ -1,11 +1,3 @@
-{
-   "_id":"Eduard.Porta",
-   "givenName":"Eduard",
-   "surname":"Porta-Pardo",
-   "email":[
-      "eduard.porta@bsc.es"
-   ],
-   "notes":"Unknown",
-   "_schema":"https://www.iechor-europe.org/excelerate/WP2/json-schemas/0.4/Contact",
-   "contact_type":"person"
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:aaa1aae995bfbbae6a12da19a064615f3de5824ac5a49c7b98091acb97727c7c
+size 264

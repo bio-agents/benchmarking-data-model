@@ -1,11 +1,3 @@
-{
-    "_id": "QfO:QfO4_SwissTree_Orthoinspector",
-    "_schema": "https://www.iechor-europe.org/excelerate/WP2/json-schemas/0.3/TestEvent",
-    "benchmarking_event_id": "QfO:QfO4_SwissTree",
-    "dates": {
-        "creation": "2015-04-14T23:59:59Z"
-    },
-    "input_dataset_id": "QfO:QfO4_input_seqXML",
-    "output_dataset_id": "QfO:QfO4_SwissTree_Orthoinspector_output",
-    "agent_id": "QfO:Orthoinspector"
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:f807236abeb95e06915d9e8a361b91eccca54eaa2ec592b2c8ac1382de3d21a3
+size 412

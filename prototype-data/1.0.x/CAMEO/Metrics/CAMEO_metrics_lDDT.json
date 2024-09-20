@@ -1,13 +1,3 @@
-{
-  "_id": "CAMEO:lDDT",
-  "_schema": "https://www.iechor-europe.org/excelerate/WP2/json-schemas/1.0/Metrics",
-  "title": "local Difference Distance Test (lDDT)",
-  "description": "The local Difference Distance Test (lDDT) is a superposition-free score which evaluates local distance differences in a model compared to a reference structure.",
-  "metrics_contact_ids": [
-    "Torsten.Schwede"
-  ],
-  "formal_definition": "The Local Distance Difference Test (lDDT) is a superposition-free score that evaluates local distance differences of all atoms in a model, including validation of stereochemical plausibility.",
-  "references": [
-    "doi:10.1093/bioinformatics/btt473"
-  ]
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:b025be281be3091ba3b899ae567045d9024259a71212730c68d2211b6d7caa31
+size 680

@@ -1,6 +1,3 @@
-{
-		"_id": "10.1093/nar/gkl206",
-		"_schema": "https://www.iechor-europe.org/excelerate/WP2/json-schemas/0.3/Reference",
-		"title": "GRAMM-X public web server for protein–protein docking",
-		"pubmed_id": 16845016
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:ef0543f5c5fa4f25f94f93db318dc3e347c774b683754e1c3212a3e77ffc395c
+size 217

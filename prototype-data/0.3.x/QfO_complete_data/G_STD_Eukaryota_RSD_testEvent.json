@@ -1,11 +1,3 @@
-{
-    "_id": "QfO:QfO4_G_STD_Eukaryota_RSD",
-    "_schema": "https://www.iechor-europe.org/excelerate/WP2/json-schemas/0.3/TestEvent",
-    "benchmarking_event_id": "QfO:QfO4_G_STD",
-    "dates": {
-        "creation": "2015-04-14T23:59:59Z"
-    },
-    "input_dataset_id": "QfO:QfO4_input_seqXML",
-    "output_dataset_id": "QfO:QfO4_G_STD_Eukaryota_RSD_output",
-    "agent_id": "QfO:RSD"
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:1276effb56339d524747fe55f6834e7d7592fa844de6cd9c2641a8207dde8803
+size 387

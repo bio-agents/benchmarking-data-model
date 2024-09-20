@@ -1,21 +1,3 @@
-{
-	"_id": "BioCreative: AcroTagger",
-	"_schema": "https://www.iechor-europe.org/excelerate/WP2/json-schemas/0.3/Agent",
-	"name": "AcroTagger",
-	"description": "Agent to tag biomedical abbreviations in text using XML.",
-	"is_automated": false,
-	"community_id": ["BioCreative"],
-	"agent_contact_id": [
-		"Sylvain.Gaudan"
-	],
-	"status_id": "active",
-	"references": [
-		"10.1093/bioinformatics/bti586"
-	],
-	"agent_access": [
-		{
-			"agent_access_type_id": "Database",
-			"link": "ftp://ftp.ebi.ac.uk/pub/software/textmining/abbreviation_resolution/"
-		}
-	]
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:0d1124bfda88b1a1d09863efec9670bd32e30d7a389c19b4462800cf9c844219
+size 555

@@ -1,5 +1,3 @@
-{
-	"_id": "QfO:RESTful-Web-API",
-	"_schema": "https://www.iechor-europe.org/excelerate/WP2/json-schemas/0.3/AgentAccessType",
-	"description": "Programmatic access via Web through the use of REST services based on HTTP methods applied to URLs"
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:7002df7fb6e03159ab193665f29ab01108abd34e8ece20ae47045ebef1c6a10d
+size 245

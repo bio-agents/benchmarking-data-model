@@ -1,30 +1,3 @@
-{
-    "_id": "TCGA:2018-04-05_KIRP_metricsEvent_OncodriveCLUST_TPR",
-    "_schema": "https://www.iechor-europe.org/excelerate/WP2/json-schemas/1.0/TestAction",
-    "action_type": "MetricsEvent",
-    "challenge_id": "TCGA:2018-04-05_KIRP",
-    "dates": {
-        "creation": "2018-04-05T00:00:00Z",
-        "reception": "2018-04-05T00:00:00Z"
-    },
-    "involved_datasets": [
-        {
-            "dataset_id": "TCGA:2018-04-05_KIRP_M",
-            "role": "incoming"
-        },
-        {
-            "dataset_id": "TCGA:2018-04-05_KIRP_P_OncodriveCLUST",
-            "role": "incoming"
-        },
-        {
-            "dataset_id": "TCGA:2018-04-05_KIRP_A_TPR_OncodriveCLUST",
-            "role": "outgoing"
-        }
-    ],
-    "test_contact_ids": [
-        "Matthew.Bailey",
-        "Eduard.Porta",
-        "Collin.Tokheim"
-    ],
-    "agent_id": "TCGA:OncodriveCLUST"
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:ade12d4c8db08e4f72f0a6a703ed0e27e385acd60d55862ad0e8ee8d3681efe3
+size 875

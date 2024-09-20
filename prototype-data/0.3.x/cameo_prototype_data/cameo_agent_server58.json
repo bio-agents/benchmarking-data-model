@@ -1,26 +1,3 @@
-{
-    "_id": "CAMEO-3D:server58",
-    "_schema": "https://www.iechor-europe.org/excelerate/WP2/json-schemas/0.3/Agent",
-    "bioAgents_id": "",
-    "name": "IntFOLD4-TS",
-    "description": "Comparative Structure Prediction",
-    "is_automated": true,
-    "community_id":
-      [
-        "CAMEO-3D" 
-      ],
-    "agent_contact_id": [
-      "help-cameo3d@unibas.ch"
-    ],
-    "status_id": "active",
-    "references": [
-      "10.1007/978-1-4939-3145-3_23"
-    ],
-    "agent_access": 
-      [
-        {
-          "agent_access_type_id":"REST/API",
-          "link":"http://www.reading.ac.uk/bioinf/IntFOLD/index.html"
-        }
-      ]
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:8d1ef2a6a1edec644dab1e258847bb4edd8c06fcd1e7c3abbce318e0dac9e281
+size 638

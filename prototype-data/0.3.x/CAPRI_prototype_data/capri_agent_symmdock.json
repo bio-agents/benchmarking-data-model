@@ -1,26 +1,3 @@
-{
-    "_id": "SymmDock",
-    "_schema": "https://www.iechor-europe.org/excelerate/WP2/json-schemas/0.3/Agent",
-    "bioAgents_id": "SymmDock",
-    "name": "SymmDock",
-    "description": "SymmDock is an server for prediction of complexes with cyclically symmetry by geometry based molecular docking.",
-    "is_automated": true,
-    "community_id":
-      [
-        "CAPRI" 
-      ],
-    "agent_contact_id": [
-      "Dina.Schneidman-Duhovny"
-    ],
-    "status_id": "active",
-    "references": [
-      "10.1093/nar/gki481"
-    ],
-    "agent_access": 
-      [
-        {
-          "agent_access_type_id":"Web/API",
-          "link":"http://bioinfo3d.cs.tau.ac.il/SymmDock/"
-        }
-      ]
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:076d81ed5252436ab8afa8a0538f8fbe2b1fab56a9f1b2500c0451677d9bf7a7
+size 689

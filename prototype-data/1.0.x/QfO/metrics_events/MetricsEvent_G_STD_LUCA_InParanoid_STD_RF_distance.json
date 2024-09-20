@@ -1,31 +1,3 @@
-{
-    "_id": "QfO:2011-07-07_G_STD_LUCA_metricsEvent_InParanoid_STD_RF_distance",
-    "_schema": "https://www.iechor-europe.org/excelerate/WP2/json-schemas/1.0/TestAction",
-    "action_type": "MetricsEvent",
-    "challenge_id": "QfO:2011-07-07_G_STD_LUCA",
-    "dates": {
-        "creation": "2011-07-07T00:00:00Z",
-        "reception": "2011-07-07T00:00:00Z"
-    },
-    "involved_datasets": [
-        {
-            "dataset_id": "QfO:2011-07-07_G_STD_LUCA_M",
-            "role": "incoming"
-        },
-        {
-            "dataset_id": "QfO:2011-07-07_P_InParanoid",
-            "role": "incoming"
-        },
-        {
-            "dataset_id": "QfO:2011-07-07_G_STD_LUCA_A_STD_RF_distance_InParanoid",
-            "role": "outgoing"
-        }
-    ],
-    "test_contact_ids": [
-        "Christophe.Dessimoz",
-        "Paul.Thomas",
-        "Toni.Gabaldon",
-        "Erik.Sonnhammer"
-    ],
-    "agent_id": "QfO:InParanoid"
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:5dd1a3f0f650fccd81ba39a39dba890b23e27915cba6a5a72b98bfdb20fb7f33
+size 926

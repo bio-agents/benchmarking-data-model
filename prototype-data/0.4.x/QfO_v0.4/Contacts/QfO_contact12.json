@@ -1,17 +1,3 @@
-{
-	"_id": "Mateusz.Kaduk",
-	"_schema": "https://www.iechor-europe.org/excelerate/WP2/json-schemas/0.4/Contact",
-	"contact_type": "person",
-	"givenName": "Mateusz",
-	"surname": "Kaduk",
-	"email": [
-		"mateusz.kaduk@scilifelab.se"
-	],
-	"notes": "Contact for Hieranoid 2 agent",
-	"links": [
-		{
-			"label": "LinkedIn",
-			"uri": "https://www.linkedin.com/in/mateusz-kaduk-94240222/"
-		}
-	]
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:4f01a1063dd554b2c064a59a8de8b5fab68196193c86ef4edd1f51016ae2c64e
+size 389

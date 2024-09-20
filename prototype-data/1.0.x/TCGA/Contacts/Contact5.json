@@ -1,12 +1,3 @@
-{
-   "_id":"Nathan.Dees",
-   "givenName":"Nathan",
-   "surname":"Dees",
-   "email":[
-      "unknown@email.es"
-   ],
-   "notes":"Unknown",
-   "_schema":"https://www.iechor-europe.org/excelerate/WP2/json-schemas/1.0/Contact",
-   "contact_type":"person",
-   "community_id": "OEBC001"
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:bbc20cb5147ad9ad6a32671d891f81d506cdaef436e4c15b780e2af232f972c1
+size 283

@@ -1,6 +1,3 @@
-{
-		"_id": "10.1038/s41598-017-09654-8",
-		"_schema": "https://www.iechor-europe.org/excelerate/WP2/json-schemas/0.3/Reference",
-		"title": "Modeling protein quaternary structure of homo- and hetero-oligomers beyond binary interactions by homology",
-		"pubmed_id": 28874689
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:ef32af52a9d4fc7f47dd5a29a5d5211082d82e11179feb7e2fdbb6c8b1bef241
+size 276

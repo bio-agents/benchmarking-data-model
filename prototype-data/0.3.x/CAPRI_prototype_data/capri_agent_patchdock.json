@@ -1,26 +1,3 @@
-{
-    "_id": "PatchDock",
-    "_schema": "https://www.iechor-europe.org/excelerate/WP2/json-schemas/0.3/Agent",
-    "bioAgents_id": "PatchDock",
-    "name": "PatchDock",
-    "description": "PatchDock is an algorithm for molecular docking. The input is two molecules of any type: proteins, DNA, peptides, drugs. The output is a list of potential complexes sorted by shape complementarity criteria.",
-    "is_automated": true,
-    "community_id":
-      [
-        "CAPRI" 
-      ],
-    "agent_contact_id": [
-      "Dina.Schneidman-Duhovny"
-    ],
-    "status_id": "active",
-    "references": [
-      "10.1093/nar/gki481"
-    ],
-    "agent_access": 
-      [
-        {
-          "agent_access_type_id":"Web/API",
-          "link":"http://bioinfo3d.cs.tau.ac.il/PatchDock/"
-        }
-      ]
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:2e54f90b755f0d959dd68e6131c407369b5ab8b94ace7c768e97e672811f7dd8
+size 788

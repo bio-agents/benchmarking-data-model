@@ -1,27 +1,3 @@
-{
-    "_id": "QfO:2015-01-01_G_STD_Vertebrata_testEvent_OMA-GETHOGs",
-    "_schema": "https://www.iechor-europe.org/excelerate/WP2/json-schemas/0.4/TestAction",
-    "action_type": "TestEvent",
-    "challenge_id": "QfO:2015-01-01_G_STD_Vertebrata",
-    "dates": {
-        "creation": "2015-01-01T00:00:01Z",
-        "reception": "2015-01-01T00:00:01Z"
-    },
-    "received_datasets": [
-        {
-            "dataset_id": "QfO:2015-01-01_I",
-            "role": "input"
-        },
-        {
-            "dataset_id": "QfO:2015-01-01_P_OMA-GETHOGs",
-            "role": "participant"
-        }
-    ],
-    "test_contact_ids": [
-        "Christophe.Dessimoz",
-        "Paul.Thomas",
-        "Toni.Gabaldon",
-        "Erik.Sonnhammer"
-    ],
-    "agent_id": "QfO:OMA-GETHOGs"
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:314d427874a248d779b23da93312512831cb974f4b1f6f03967526059c61d44d
+size 772

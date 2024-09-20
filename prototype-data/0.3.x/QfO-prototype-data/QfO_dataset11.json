@@ -1,17 +1,3 @@
-{
-	"_id": "QfO:QfO4_output_Hieranoid2",
-	"_schema": "https://www.iechor-europe.org/excelerate/WP2/json-schemas/0.3/Dataset",
-	"name": "Hieranoid_2-.596.rels",
-	"version": "v1.0",
-	"description": "Output data set (pairwise orthologs predictions) for Hieranoid2 agent",
-	"dates": {
-		"creation": "2015-10-23T08:28:36Z",
-		"modification": "2015-10-23T08:28:36Z"
-	},
-	"type": "Output",
-	"datalink": "http://orthology.benchmarkservice.org/raw/Hieranoid_2-.596.rels.raw.gz",
-	"dataset_contact_id": [
-		"Erik.Sonnhammer",
-		"Mateusz.Kaduk"
-	]
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:8d13312a9cb42b6ddd715bcd4fa779e9c7278fd3b7dc7427b48160ab0a96350a
+size 538

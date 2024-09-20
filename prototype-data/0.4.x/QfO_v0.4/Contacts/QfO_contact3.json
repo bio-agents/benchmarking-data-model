@@ -1,21 +1,3 @@
-{
-	"_id": "Paul.Thomas",
-	"_schema": "https://www.iechor-europe.org/excelerate/WP2/json-schemas/0.4/Contact",
-	"contact_type": "person",
-	"givenName": "Paul",
-	"surname": "Thomas",
-	"email": [
-		"pdthomas@med.usc.edu"
-	],
-	"notes": "QfO4 organizer",
-	"links": [
-		{
-			"label": "MainSite",
-			"uri": "https://sites.google.com/usc.edu/thomaslab"
-		},
-		{
-			"label": "ORCID",
-			"uri": "https://orcid.org/0000-0002-0883-9068"
-		}
-	]
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:233185fd6e6e3c3b7aff24ee50c7930adf28619a7ccaee0e2fa2962100be752d
+size 434

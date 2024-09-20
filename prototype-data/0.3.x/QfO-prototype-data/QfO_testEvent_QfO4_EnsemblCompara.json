@@ -1,11 +1,3 @@
-{
-	"_id": "QfO:QfO4_EnsemblCompara",
-	"_schema": "https://www.iechor-europe.org/excelerate/WP2/json-schemas/0.3/TestEvent",
-	"agent_id": "QfO:EnsemblCompara",
-	"input_dataset_id": "QfO:QfO4_input_seqXML",
-	"output_dataset_id": "QfO:QfO4_output_EnsemblCompara",
-	"benchmarking_event_id": "QfO:QfO4",
-	"dates": {
-		"creation": "2015-04-14T23:59:59Z"
-	}
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:ff55cc3fb53ea51a66cbc5768d761424c7482133f1c7f8775121a38a6158c967
+size 353

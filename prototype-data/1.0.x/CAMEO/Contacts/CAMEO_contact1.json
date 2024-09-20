@@ -1,11 +1,3 @@
-{
-  "_id": "David.Baker",
-  "_schema" : "https://www.iechor-europe.org/excelerate/WP2/json-schemas/1.0/Contact",
-  "community_id" : "OEBC008",
-  "contact_type": "person",
-  "givenName": "David",
-  "surname": "Baker",
-  "email": [
-    "dabaker@u.washington.edu"
-  ]
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:f01248587f7d53895182f968c08bad11ffed5939d25f53ab0134a0d242594d6a
+size 267

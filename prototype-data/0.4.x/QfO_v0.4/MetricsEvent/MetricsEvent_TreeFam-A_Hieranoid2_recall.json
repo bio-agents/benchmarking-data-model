@@ -1,32 +1,3 @@
-{
-    "_id": "QfO:2015-01-01_TreeFam-A_metricsEvent_Hieranoid2_recall",
-    "_schema": "https://www.iechor-europe.org/excelerate/WP2/json-schemas/0.4/TestAction",
-    "action_type": "MetricsEvent",
-    "challenge_id": "QfO:2015-01-01_TreeFam-A",
-    "dates": {
-        "creation": "2015-01-01T00:00:01Z",
-        "modification": "2015-01-01T00:00:01Z"
-    },
-    "metrics_id": "QfO:referenceTreeFam-A_recall",
-    "received_datasets": [
-        {
-            "dataset_id": "QfO:2015-01-01_TreeFam-A_M",
-            "role": "metrics_reference"
-        },
-        {
-            "dataset_id": "QfO:2015-01-01_P_Hieranoid2",
-            "role": "participant"
-        },
-        {
-            "dataset_id": "QfO:2015-01-01_TreeFam-A_A_recall_Hieranoid2",
-            "role": "assessment"
-        }
-    ],
-    "test_contact_ids": [
-        "Christophe.Dessimoz",
-        "Paul.Thomas",
-        "Toni.Gabaldon",
-        "Erik.Sonnhammer"
-    ],
-    "agent_id": "QfO:Hieranoid2"
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:9d5eb253561fda486a5ead997ce843d4f950f8fa1b48a05dc5245a2e7d554436
+size 972

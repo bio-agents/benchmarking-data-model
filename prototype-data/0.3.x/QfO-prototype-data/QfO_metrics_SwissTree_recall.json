@@ -1,11 +1,3 @@
-{
-	"_id": "QfO:referenceSwissTree_recall",
-	"_schema": "https://www.iechor-europe.org/excelerate/WP2/json-schemas/0.3/Metrics",
-	"title": "Recall for Reference Gene Phylogenies: SwissTree",
-	"description": "Agreement (sensitivity) with Reference Gene Phylogenies - SwissTree measured through the True Positives Rate (TPR)",
-	"metrics_contact_id": ["unknown"],
-	"formal_definition": "TPR = TP / (TP + FN)",
-	"references": [
-		"10.1093/bib/bbr034"
-	]
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:88c48f014a0e94b38e3dd1d33cb060b31bd9957d334d2f6efa8a76a630688f01
+size 451

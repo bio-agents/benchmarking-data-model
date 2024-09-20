@@ -1,11 +1,3 @@
-{
-	"_id": "Gael.Perez-Rodriguez",
-	"_schema": "https://www.iechor-europe.org/excelerate/WP2/json-schemas/0.3/Contact",
-	"contact_type": "person",
-	"givenName": "Gael",
-	"surname": "Perez-Rodriguez",
-	"email": [
-		"gprodriguez2@esei.uvigo.es"
-	],
-	"notes": "Contact for BioCreativeV.5"
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:cdb6caac12aac8be793d86a63cf489c72349bad187d86d40a6e3174f862786ca
+size 287

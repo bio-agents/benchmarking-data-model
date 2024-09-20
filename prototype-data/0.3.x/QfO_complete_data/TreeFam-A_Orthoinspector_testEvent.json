@@ -1,11 +1,3 @@
-{
-    "_id": "QfO:QfO4_TreeFam-A_Orthoinspector",
-    "_schema": "https://www.iechor-europe.org/excelerate/WP2/json-schemas/0.3/TestEvent",
-    "benchmarking_event_id": "QfO:QfO4_TreeFam-A",
-    "dates": {
-        "creation": "2015-04-14T23:59:59Z"
-    },
-    "input_dataset_id": "QfO:QfO4_input_seqXML",
-    "output_dataset_id": "QfO:QfO4_TreeFam-A_Orthoinspector_output",
-    "agent_id": "QfO:Orthoinspector"
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:f40ad1efbd2e8dfba0d7c64d5d9eee85a29efdb87e347265ba4c7f4769e940c9
+size 412

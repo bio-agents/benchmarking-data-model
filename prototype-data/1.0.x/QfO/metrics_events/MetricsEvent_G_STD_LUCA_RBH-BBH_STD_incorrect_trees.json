@@ -1,31 +1,3 @@
-{
-    "_id": "QfO:2011-07-07_G_STD_LUCA_metricsEvent_RBH-BBH_STD_incorrect_trees",
-    "_schema": "https://www.iechor-europe.org/excelerate/WP2/json-schemas/1.0/TestAction",
-    "action_type": "MetricsEvent",
-    "challenge_id": "QfO:2011-07-07_G_STD_LUCA",
-    "dates": {
-        "creation": "2011-07-07T00:00:00Z",
-        "reception": "2011-07-07T00:00:00Z"
-    },
-    "involved_datasets": [
-        {
-            "dataset_id": "QfO:2011-07-07_G_STD_LUCA_M",
-            "role": "incoming"
-        },
-        {
-            "dataset_id": "QfO:2011-07-07_P_RBH-BBH",
-            "role": "incoming"
-        },
-        {
-            "dataset_id": "QfO:2011-07-07_G_STD_LUCA_A_STD_incorrect_trees_RBH-BBH",
-            "role": "outgoing"
-        }
-    ],
-    "test_contact_ids": [
-        "Christophe.Dessimoz",
-        "Paul.Thomas",
-        "Toni.Gabaldon",
-        "Erik.Sonnhammer"
-    ],
-    "agent_id": "QfO:RBH-BBH"
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:a94bdfcc949d01118ce6cb656952c725ed86b6ade3e2dc22f41ddf45c9443021
+size 922

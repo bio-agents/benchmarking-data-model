@@ -1,35 +1,3 @@
-{
-    "_id": "TCGA:2018-04-05_CHOL_P_e-Driver",
-    "_schema": "https://www.iechor-europe.org/excelerate/WP2/json-schemas/0.4/Dataset",
-    "access": "unknown",
-    "community_id": "TCGA",
-    "datalink": {
-        "attrs": [
-            "archive"
-        ],
-        "status": "ok",
-        "uri": "https://portal.gdc.cancer.gov/",
-        "validation_date": "2018-04-05T00:00:00Z"
-    },
-    "dataset_contact_ids": [
-        "Matthew.Bailey",
-        "Eduard.Porta",
-        "Collin.Tokheim"
-    ],
-    "dates": {
-        "creation": "2018-04-05T00:00:00Z",
-        "modification": "2018-04-05T14:00:00Z"
-    },
-    "depends_on": {
-        "rel_dataset_ids": [
-            {
-                "dataset_id": "TCGA:2018-04-05_CHOL_I"
-            }
-        ],
-        "agent_id": "TCGA:e-Driver"
-    },
-    "description": "List of Cancer Driver Genes predicted by agent e-Driver in Cholangiocarcinoma",
-    "name": "Cancer Driver Genes in Cholangiocarcinoma",
-    "type": "participant",
-    "version": "unknown"
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:b509282c8569a1f5fa80f39eb2e926c3c47d461145266cc09ec24bacf7a3e44b
+size 1009

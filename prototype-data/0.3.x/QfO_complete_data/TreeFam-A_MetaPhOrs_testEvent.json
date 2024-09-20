@@ -1,11 +1,3 @@
-{
-    "_id": "QfO:QfO4_TreeFam-A_MetaPhOrs",
-    "_schema": "https://www.iechor-europe.org/excelerate/WP2/json-schemas/0.3/TestEvent",
-    "benchmarking_event_id": "QfO:QfO4_TreeFam-A",
-    "dates": {
-        "creation": "2015-04-14T23:59:59Z"
-    },
-    "input_dataset_id": "QfO:QfO4_input_seqXML",
-    "output_dataset_id": "QfO:QfO4_TreeFam-A_MetaPhOrs_output",
-    "agent_id": "QfO:MetaPhOrs"
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:e8a80d67c71b26fc29f4f5b7210e62da9d3e5264fd41a18a5e80f686882feb09
+size 397

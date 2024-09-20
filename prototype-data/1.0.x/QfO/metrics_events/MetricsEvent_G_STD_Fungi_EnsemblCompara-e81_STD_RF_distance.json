@@ -1,31 +1,3 @@
-{
-    "_id": "QfO:2011-07-07_G_STD_Fungi_metricsEvent_EnsemblCompara-e81_STD_RF_distance",
-    "_schema": "https://www.iechor-europe.org/excelerate/WP2/json-schemas/1.0/TestAction",
-    "action_type": "MetricsEvent",
-    "challenge_id": "QfO:2011-07-07_G_STD_Fungi",
-    "dates": {
-        "creation": "2011-07-07T00:00:00Z",
-        "reception": "2011-07-07T00:00:00Z"
-    },
-    "involved_datasets": [
-        {
-            "dataset_id": "QfO:2011-07-07_G_STD_Fungi_M",
-            "role": "incoming"
-        },
-        {
-            "dataset_id": "QfO:2011-07-07_P_EnsemblCompara-e81",
-            "role": "incoming"
-        },
-        {
-            "dataset_id": "QfO:2011-07-07_G_STD_Fungi_A_STD_RF_distance_EnsemblCompara-e81",
-            "role": "outgoing"
-        }
-    ],
-    "test_contact_ids": [
-        "Christophe.Dessimoz",
-        "Paul.Thomas",
-        "Toni.Gabaldon",
-        "Erik.Sonnhammer"
-    ],
-    "agent_id": "QfO:EnsemblCompara-e81"
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:e0e507ed34134d2069cefc62810bbe89f5cfb64ecc0c7429bc2f296c58d6cce6
+size 962

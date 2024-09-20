@@ -1,31 +1,3 @@
-{
-    "_id": "QfO:2011-07-07_TreeFam-A_metricsEvent_InParanoid_TreeFam-A_TPR",
-    "_schema": "https://www.iechor-europe.org/excelerate/WP2/json-schemas/1.0/TestAction",
-    "action_type": "MetricsEvent",
-    "challenge_id": "QfO:2011-07-07_TreeFam-A",
-    "dates": {
-        "creation": "2011-07-07T00:00:00Z",
-        "reception": "2011-07-07T00:00:00Z"
-    },
-    "involved_datasets": [
-        {
-            "dataset_id": "QfO:2011-07-07_TreeFam-A_M",
-            "role": "incoming"
-        },
-        {
-            "dataset_id": "QfO:2011-07-07_P_InParanoid",
-            "role": "incoming"
-        },
-        {
-            "dataset_id": "QfO:2011-07-07_TreeFam-A_A_TreeFam-A_TPR_InParanoid",
-            "role": "outgoing"
-        }
-    ],
-    "test_contact_ids": [
-        "Christophe.Dessimoz",
-        "Paul.Thomas",
-        "Toni.Gabaldon",
-        "Erik.Sonnhammer"
-    ],
-    "agent_id": "QfO:InParanoid"
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:ab506eb06dfdd3c0ef516cd83d20ed926a4ca216c6e5ebe2e1a0df31a3b8210b
+size 918

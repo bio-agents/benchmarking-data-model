@@ -1,7 +1,3 @@
-{
-		"_id": "10.1093/bioinformatics/btr350",
-		"_schema": "https://www.iechor-europe.org/excelerate/WP2/json-schemas/0.3/Reference",
-		"title": "Improving protein fold recognition and template-based modeling by employing probabilistic-based matching between predicted one-dimensional structural properties of query and corresponding native properties of templates", 
-		"pubmed_id":21666270 
-
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:50bcf8086796fd1f8460128ba21cfbf4179ee4cd7f475fe76ae17d5906ecc3d9
+size 393

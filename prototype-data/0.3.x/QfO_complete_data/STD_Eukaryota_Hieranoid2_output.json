@@ -1,35 +1,3 @@
-{
-    "_id": "QfO:QfO4_STD_Eukaryota_Hieranoid2_output",
-    "_schema": "https://www.iechor-europe.org/excelerate/WP2/json-schemas/0.3/Dataset",
-    "dataset_contact_id": [
-        "unknown"
-    ],
-    "dates": {
-        "creation": "2015-01-01T00:00:01Z",
-        "modification": "2015-01-01T00:00:01Z"
-    },
-    "description": "Output dataset for the Hieranoid2 agent in the 'Species Tree Discordance' benchmark event with the correspondent metrics generated from it",
-    "metrics": [
-        {
-            "metrics_id": "QfO:STD-recall1",
-            "result": {
-                "value": 10038
-            }
-        },
-        {
-            "metrics_id": "QfO:STD-precision",
-            "result": {
-                "value": 0.0585
-            }
-        },
-        {
-            "metrics_id": "QfO:precision_error",
-            "result": {
-                "value": 0.0032
-            }
-        }
-    ],
-    "name": "Hieranoid2.tar.gz",
-    "type": "Output",
-    "version": "Eukaryota"
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:84cb8c9368c9c1e94fbab796c9a27c2da870f069cb4ab1c3d1c7a2483a8e09f1
+size 991

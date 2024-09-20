@@ -1,21 +1,3 @@
-{
-	"_id": "Odile.Lecompte",
-	"_schema": "https://www.iechor-europe.org/excelerate/WP2/json-schemas/0.4/Contact",
-	"contact_type": "person",
-	"givenName": "Odile",
-	"surname": "Lecompte",
-	"email": [
-		"odile.lecompte@unistra.fr"
-	],
-	"notes": "Contact for any questions about OrthoInspector in general or collaborations",
-	"links": [
-		{
-			"label": "MainSite",
-			"uri": "http://icube-cstb.unistra.fr/fr/index.php/Odile_Lecompte"
-		},
-		{
-			"label": "LinkedIn",
-			"uri": "https://www.linkedin.com/in/odile-lecompte-48611186/"
-		}
-	]
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:85cf96a409c1265f9e2fcdd9fdb9b0dea28b812ad258e616a81564908d67446c
+size 538

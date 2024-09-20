@@ -1,27 +1,3 @@
-{
-    "_id": "QfO:2015-01-01_SwissTree_testEvent_InParanoidCore",
-    "_schema": "https://www.iechor-europe.org/excelerate/WP2/json-schemas/0.4/TestAction",
-    "action_type": "TestEvent",
-    "challenge_id": "QfO:2015-01-01_SwissTree",
-    "dates": {
-        "creation": "2015-01-01T00:00:01Z",
-        "reception": "2015-01-01T00:00:01Z"
-    },
-    "received_datasets": [
-        {
-            "dataset_id": "QfO:2015-01-01_I",
-            "role": "input"
-        },
-        {
-            "dataset_id": "QfO:2015-01-01_P_InParanoidCore",
-            "role": "participant"
-        }
-    ],
-    "test_contact_ids": [
-        "Christophe.Dessimoz",
-        "Paul.Thomas",
-        "Toni.Gabaldon",
-        "Erik.Sonnhammer"
-    ],
-    "agent_id": "QfO:InParanoidCore"
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:b2b6925f86a997104b4ee29c3b4535000efc28677be3b8e98199f36b53a426e9
+size 767

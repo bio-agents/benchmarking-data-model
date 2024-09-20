@@ -1,5 +1,3 @@
-{
-	"_id": "TBD",
-	"_schema": "https://www.iechor-europe.org/excelerate/WP2/json-schemas/0.3/CommunityStatus",
-	"description": "Dummy community status called 'To Be Done'"
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:6c080ea58206d70d123319be7de79249bab8aad4a656208c492b1c084b5131a1
+size 173

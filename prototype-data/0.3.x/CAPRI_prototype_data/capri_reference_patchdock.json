@@ -1,6 +1,3 @@
-{
-		"_id": "10.1093/nar/gki481",
-		"_schema": "https://www.iechor-europe.org/excelerate/WP2/json-schemas/0.3/Reference",
-		"title": "PatchDock and SymmDock: servers for rigid and symmetric docking",
-		"pubmed_id": 15980490
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:a787462cefc4cc873ef415e7d8c9338a8b6f788642a5e44720b1ab943a802b81
+size 225

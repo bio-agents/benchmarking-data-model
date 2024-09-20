@@ -1,5 +1,3 @@
-{
-	"_id": "QfO:unknown",
-	"_schema": "https://www.iechor-europe.org/excelerate/WP2/json-schemas/0.3/AgentStatus",
-	"description": "The current status of the agent is not available or is not applicable"
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:682631dcea1aada2ad9a32544cc53cd53dc8282ad6a16f418c2c1770368c91d8
+size 204

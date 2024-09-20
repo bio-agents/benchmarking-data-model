@@ -1,21 +1,3 @@
-{
-	"_id": "Toni.Gabaldon",
-	"_schema": "https://www.iechor-europe.org/excelerate/WP2/json-schemas/0.3/Contact",
-	"contact_type": "person",
-	"givenName": "Toni",
-	"surname": "Gabaldon",
-	"email": [
-		"toni.gabaldon@crg.eu"
-	],
-	"notes": "QfO4 organizer",
-	"links": [
-		{
-			"label": "MainSite",
-			"uri": "http://www.crg.eu/es/programmes-groups/comparative-genomics"
-		},
-		{
-			"label": "ORCID",
-			"uri": "https://orcid.org/0000-0003-0019-1735"
-		}
-	]
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:3be9cef9e40fd9ed448500bd96ab21ef2fc091831d8b796016c46db835d27b7e
+size 455

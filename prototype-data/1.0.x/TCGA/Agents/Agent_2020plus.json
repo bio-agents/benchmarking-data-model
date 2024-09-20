@@ -1,21 +1,3 @@
-{
-    "_id":"TCGA:2020plus",
-    "_schema": "https://www.iechor-europe.org/excelerate/WP2/json-schemas/1.0/Agent",
-    "activation": "2018-04-05T00:00:00Z",
-    "description": "Cancer Driver Genes prediction",
-    "is_automated": true,
-    "name": "2020plus",
-    "references": [
-        "doi:10.1073/pnas.1616440113"
-    ],
-    "status": "unknown",
-    "agent_access": [
-        {
-            "agent_access_type": "other"
-        }
-    ],
-    "agent_contact_ids": [
-        "Collin.Tokheim"
-    ],
-    "community_ids": ["OEBC001"]
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:d48b2b79e1c79f4071b92d4e2dc852a8d28518bdc59b5dcc8591efbb654e6103
+size 534

@@ -1,11 +1,3 @@
-{
-	"_id": "QfO:QfO4_PANTHER-LDO",
-	"_schema": "https://www.iechor-europe.org/excelerate/WP2/json-schemas/0.3/TestEvent",
-	"agent_id": "QfO:PANTHER-LDO",
-	"input_dataset_id": "QfO:QfO4_input_seqXML",
-	"output_dataset_id": "QfO:QfO4_output_PANTHER-LDO",
-	"benchmarking_event_id": "QfO:QfO4",
-	"dates": {
-		"creation": "2015-04-14T23:59:59Z"
-	}
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:c31fb2a459b255337739884369217fc97f59779f480e066f8d883950f3d9e02f
+size 344

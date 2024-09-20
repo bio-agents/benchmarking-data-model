@@ -1,27 +1,3 @@
-{
-    "_id": "QfO:2011-07-07_testEvent_STD_Eukaryota_PANTHER-LDO",
-    "_schema": "https://www.iechor-europe.org/excelerate/WP2/json-schemas/1.0/TestAction",
-    "action_type": "TestEvent",
-    "challenge_id": "QfO:2011-07-07_STD_Eukaryota",
-    "dates": {
-        "creation": "2011-07-07T00:00:00Z",
-        "reception": "2011-07-07T00:00:00Z"
-    },
-    "involved_datasets": [
-        {
-            "dataset_id": "QfO:2011-07-07_I",
-            "role": "incoming"
-        },
-        {
-            "dataset_id": "QfO:2011-07-07_P_PANTHER-LDO",
-            "role": "outgoing"
-        }
-    ],
-    "test_contact_ids": [
-        "Christophe.Dessimoz",
-        "Paul.Thomas",
-        "Toni.Gabaldon",
-        "Erik.Sonnhammer"
-    ],
-    "agent_id": "QfO:PANTHER-LDO"
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:d8a5e03880d4181983352408a6fea07dda7d9f616a74dc33cca76c90a0d44611
+size 766

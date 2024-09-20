@@ -1,31 +1,3 @@
-{
-    "_id": "QfO:2011-07-07_G_STD_LUCA_metricsEvent_EnsemblCompara-e56_STD_incorrect_trees",
-    "_schema": "https://www.iechor-europe.org/excelerate/WP2/json-schemas/1.0/TestAction",
-    "action_type": "MetricsEvent",
-    "challenge_id": "QfO:2011-07-07_G_STD_LUCA",
-    "dates": {
-        "creation": "2011-07-07T00:00:00Z",
-        "reception": "2011-07-07T00:00:00Z"
-    },
-    "involved_datasets": [
-        {
-            "dataset_id": "QfO:2011-07-07_G_STD_LUCA_M",
-            "role": "incoming"
-        },
-        {
-            "dataset_id": "QfO:2011-07-07_P_EnsemblCompara-e56",
-            "role": "incoming"
-        },
-        {
-            "dataset_id": "QfO:2011-07-07_G_STD_LUCA_A_STD_incorrect_trees_EnsemblCompara-e56",
-            "role": "outgoing"
-        }
-    ],
-    "test_contact_ids": [
-        "Christophe.Dessimoz",
-        "Paul.Thomas",
-        "Toni.Gabaldon",
-        "Erik.Sonnhammer"
-    ],
-    "agent_id": "QfO:EnsemblCompara-e56"
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:d933d0f40d819b3441003a65e80024e500b130b49003913e02d332f7e45faf8b
+size 966

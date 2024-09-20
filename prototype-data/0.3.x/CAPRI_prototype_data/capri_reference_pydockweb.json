@@ -1,6 +1,3 @@
-{
-		"_id": "10.1093/bioinformatics/btt262",
-		"_schema": "https://www.iechor-europe.org/excelerate/WP2/json-schemas/0.3/Reference",
-		"title": "pyDockWEB: a web server for rigid-body protein-protein docking using electrostatics and desolvation scoring",
-		"pubmed_id": 23661696
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:cb7792b6d439173b0d8528ebe0f366497dfffea272ed2c566c2e04f959953d3c
+size 280

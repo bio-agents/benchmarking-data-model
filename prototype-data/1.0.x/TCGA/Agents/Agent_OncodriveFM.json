@@ -1,21 +1,3 @@
-{
-    "_id":"TCGA:OncodriveFM",
-    "_schema": "https://www.iechor-europe.org/excelerate/WP2/json-schemas/1.0/Agent",
-    "activation": "2018-04-05T00:00:00Z",
-    "description": "Cancer Driver Genes prediction",
-    "is_automated": true,
-    "name": "OncodriveFM",
-    "references": [
-        "doi:10.1186/s13059-016-0994-0"
-    ],
-    "status": "unknown",
-    "agent_access": [
-        {
-            "agent_access_type": "other"
-        }
-    ],
-    "agent_contact_ids": [
-        "Loris.Mularoni"
-    ],
-    "community_ids": ["OEBC001"]
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:4d7a46b058b04248bad541f2b5b4aef91981e0697c43e84b195b74deb40a9aaa
+size 542

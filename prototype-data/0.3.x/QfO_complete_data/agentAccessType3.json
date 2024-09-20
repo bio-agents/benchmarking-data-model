@@ -1,5 +1,3 @@
-{
-	"_id": "QfO:Web-code",
-	"_schema": "https://www.iechor-europe.org/excelerate/WP2/json-schemas/0.3/AgentAccessType",
-	"description": "Access via Web through the implementation of scripts/programs"
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:8f97b118e2b23176050abd7fff31302cfec721bef1cda1ec094e8f517f8f046f
+size 201

@@ -1,10 +1,3 @@
-{
-    "_id" : "Jeffrey.Gray",
-    "surname" : "Jeffrey",
-    "givenName" : "Gray",
-    "email" : ["jgray@jhu.edu"],
-    "notes" : "",
-    "links" : [],
-    "_schema" : "https://www.iechor-europe.org/excelerate/WP2/json-schemas/0.3/Contact",
-    "contact_type" : "person"
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:3e1667a81b53faaf10048b59422e047f1b9e7862abe0e2a7f38bc0acccc05d4b
+size 273

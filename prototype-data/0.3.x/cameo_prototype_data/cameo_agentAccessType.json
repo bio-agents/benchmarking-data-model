@@ -1,5 +1,3 @@
-{
-		"_id": "Web",
-		"_schema": "https://www.iechor-europe.org/excelerate/WP2/json-schemas/0.3/AgentAccessType",
-		"description": "Prediction Method is accessible via its web interface"
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:cf79bd7eee3aa598f8d5c533e1892a001be93dbaec4cd2c989983f71f85e80d0
+size 187

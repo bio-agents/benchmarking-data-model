@@ -1,22 +1,3 @@
-{
-	"_id": "BioCreative:MaxMatcher",
-	"_schema": "https://www.iechor-europe.org/excelerate/WP2/json-schemas/0.3/Agent",
-	"name": "MaxMatcher",
-	"description": "MaxMatcher is a biological concept extractor agent using dicitonary-based approximate matching. UMLS 2004AA version is used as the dictionary. The precision and recall on GENIA3.02 corpus are 71.60% and 75.18%, respectively.",
-	"is_automated": false,
-	"community_id": ["BioCreative"],
-	"agent_contact_id": [
-		"Xiaohua.Zhou"
-	],
-	"status_id": "implemented",
-	"references": [
-		"10.1109/ICTAI.2007.117",
-		"10.1007/978-3-540-36668-3_150"
-	],
-	"agent_access": [
-		{
-			"agent_access_type_id": "Standalone-application",
-			"link": "http://dragon.ischool.drexel.edu/example/maxmatcher.zip"
-		}
-	]
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:a56417dc3ac94f3979a44b20067e4b5f7e3039e9c56e33ba3298ed90cb81b367
+size 754

@@ -1,11 +1,3 @@
-{
-    "_id": "QfO:QfO4_STD_Eukaryota_OMA-GETHOGs",
-    "_schema": "https://www.iechor-europe.org/excelerate/WP2/json-schemas/0.3/TestEvent",
-    "benchmarking_event_id": "QfO:QfO4_STD",
-    "dates": {
-        "creation": "2015-04-14T23:59:59Z"
-    },
-    "input_dataset_id": "QfO:QfO4_input_seqXML",
-    "output_dataset_id": "QfO:QfO4_STD_Eukaryota_OMA-GETHOGs_output",
-    "agent_id": "QfO:OMA-GETHOGs"
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:e5fb1ee0a988269ddb7c2f303f3f0a6edcbb22f1fe32a73d5ca80517431f3ecf
+size 405

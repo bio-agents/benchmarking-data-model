@@ -1,7 +1,3 @@
-{
-		"_id": "10.1093/bioinformatics/btt473",
-		"_schema": "https://www.iechor-europe.org/excelerate/WP2/json-schemas/0.3/Reference",
-		"title": "lDDT: a local superposition-free score for comparing protein structures and models using distance difference tests",
-		"pubmed_id": 23986568
-
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:dc2311b737e71f6caee315329487ffcb7a9aba958aaf64b61d77de3a0067ffa9
+size 288

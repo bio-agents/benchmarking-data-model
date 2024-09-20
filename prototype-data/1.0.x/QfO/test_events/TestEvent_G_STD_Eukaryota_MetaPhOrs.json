@@ -1,27 +1,3 @@
-{
-    "_id": "QfO:2011-07-07_testEvent_G_STD_Eukaryota_MetaPhOrs",
-    "_schema": "https://www.iechor-europe.org/excelerate/WP2/json-schemas/1.0/TestAction",
-    "action_type": "TestEvent",
-    "challenge_id": "QfO:2011-07-07_G_STD_Eukaryota",
-    "dates": {
-        "creation": "2011-07-07T00:00:00Z",
-        "reception": "2011-07-07T00:00:00Z"
-    },
-    "involved_datasets": [
-        {
-            "dataset_id": "QfO:2011-07-07_I",
-            "role": "incoming"
-        },
-        {
-            "dataset_id": "QfO:2011-07-07_P_MetaPhOrs",
-            "role": "outgoing"
-        }
-    ],
-    "test_contact_ids": [
-        "Christophe.Dessimoz",
-        "Paul.Thomas",
-        "Toni.Gabaldon",
-        "Erik.Sonnhammer"
-    ],
-    "agent_id": "QfO:MetaPhOrs"
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:1f4b5e8d6b706c39056bc31456973b6c22ca4feb91caec1816f5240645b31769
+size 764

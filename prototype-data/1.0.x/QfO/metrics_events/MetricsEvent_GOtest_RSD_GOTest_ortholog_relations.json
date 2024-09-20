@@ -1,31 +1,3 @@
-{
-    "_id": "QfO:2011-07-07_GOtest_metricsEvent_RSD_GOTest_ortholog_relations",
-    "_schema": "https://www.iechor-europe.org/excelerate/WP2/json-schemas/1.0/TestAction",
-    "action_type": "MetricsEvent",
-    "challenge_id": "QfO:2011-07-07_GOtest",
-    "dates": {
-        "creation": "2011-07-07T00:00:00Z",
-        "reception": "2011-07-07T00:00:00Z"
-    },
-    "involved_datasets": [
-        {
-            "dataset_id": "QfO:2011-07-07_GOtest_M",
-            "role": "incoming"
-        },
-        {
-            "dataset_id": "QfO:2011-07-07_P_RSD",
-            "role": "incoming"
-        },
-        {
-            "dataset_id": "QfO:2011-07-07_GOtest_A_GOTest_ortholog_relations_RSD",
-            "role": "outgoing"
-        }
-    ],
-    "test_contact_ids": [
-        "Christophe.Dessimoz",
-        "Paul.Thomas",
-        "Toni.Gabaldon",
-        "Erik.Sonnhammer"
-    ],
-    "agent_id": "QfO:RSD"
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:972d34c3a7bba55f613f4d9e9f3318449065c6f652432c8ff1824211ca661ff5
+size 902

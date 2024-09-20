@@ -1,11 +1,3 @@
-{
-    "_id": "QfO:QfO4_G_STD_LUCA_MetaPhOrs",
-    "_schema": "https://www.iechor-europe.org/excelerate/WP2/json-schemas/0.3/TestEvent",
-    "benchmarking_event_id": "QfO:QfO4_G_STD",
-    "dates": {
-        "creation": "2015-04-14T23:59:59Z"
-    },
-    "input_dataset_id": "QfO:QfO4_input_seqXML",
-    "output_dataset_id": "QfO:QfO4_G_STD_LUCA_MetaPhOrs_output",
-    "agent_id": "QfO:MetaPhOrs"
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:8cf99e0bbb88d09e2d3b18f911dad679b3f48a2e38c84cbe896704a0e361e304
+size 395

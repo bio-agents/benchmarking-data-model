@@ -1,32 +1,3 @@
-{
-    "_id": "QfO:2015-01-01_STD_Fungi_metricsEvent_PANTHER-all_precision",
-    "_schema": "https://www.iechor-europe.org/excelerate/WP2/json-schemas/0.4/TestAction",
-    "action_type": "MetricsEvent",
-    "challenge_id": "QfO:2015-01-01_STD_Fungi",
-    "dates": {
-        "creation": "2015-01-01T00:00:01Z",
-        "modification": "2015-01-01T00:00:01Z"
-    },
-    "metrics_id": "QfO:STD-precision",
-    "received_datasets": [
-        {
-            "dataset_id": "QfO:2015-01-01_STD_Fungi_M",
-            "role": "metrics_reference"
-        },
-        {
-            "dataset_id": "QfO:2015-01-01_P_PANTHER-all",
-            "role": "participant"
-        },
-        {
-            "dataset_id": "QfO:2015-01-01_STD_Fungi_A_precision_PANTHER-all",
-            "role": "assessment"
-        }
-    ],
-    "test_contact_ids": [
-        "Christophe.Dessimoz",
-        "Paul.Thomas",
-        "Toni.Gabaldon",
-        "Erik.Sonnhammer"
-    ],
-    "agent_id": "QfO:PANTHER-all"
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:a095d3023422189c819284a9ccd6aa8737a327e91ad498c42ccf29f23a006976
+size 970

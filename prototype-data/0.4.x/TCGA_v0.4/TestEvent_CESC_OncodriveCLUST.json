@@ -1,26 +1,3 @@
-{
-    "_id": "TCGA:2018-04-05_CESC_testEvent_OncodriveCLUST",
-    "_schema": "https://www.iechor-europe.org/excelerate/WP2/json-schemas/0.4/TestAction",
-    "action_type": "TestEvent",
-    "challenge_id": "TCGA:2018-04-05_CESC",
-    "dates": {
-        "creation": "2018-04-05T00:00:00Z",
-        "reception": "2018-04-05T00:00:00Z"
-    },
-    "received_datasets": [
-        {
-            "dataset_id": "TCGA:2018-04-05_CESC_I",
-            "role": "input"
-        },
-        {
-            "dataset_id": "TCGA:2018-04-05_CESC_P_OncodriveCLUST",
-            "role": "participant"
-        }
-    ],
-    "test_contact_ids": [
-        "Matthew.Bailey",
-        "Eduard.Porta",
-        "Collin.Tokheim"
-    ],
-    "agent_id": "TCGA:OncodriveCLUST"
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:1ed15be05db9b4125950eadb579e670c42e805bbfc5dc96d442a9eba13063488
+size 742

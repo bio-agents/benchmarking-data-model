@@ -1,11 +1,3 @@
-{
-    "_id": "QfO:QfO4_G_STD_LUCA_EggNOG",
-    "_schema": "https://www.iechor-europe.org/excelerate/WP2/json-schemas/0.3/TestEvent",
-    "benchmarking_event_id": "QfO:QfO4_G_STD",
-    "dates": {
-        "creation": "2015-04-14T23:59:59Z"
-    },
-    "input_dataset_id": "QfO:QfO4_input_seqXML",
-    "output_dataset_id": "QfO:QfO4_G_STD_LUCA_EggNOG_output",
-    "agent_id": "QfO:EggNOG"
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:c643c1a89b9aeb902c5a936b31f5f6e8beb3a08d97c72c642bdf25eb0ecee081
+size 386

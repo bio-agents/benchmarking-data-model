@@ -1,26 +1,3 @@
-{
-    "_id": "TCGA:2018-04-05_ALL_testEvent_OncodriveFM",
-    "_schema": "https://www.iechor-europe.org/excelerate/WP2/json-schemas/1.0/TestAction",
-    "action_type": "TestEvent",
-    "challenge_id": "TCGA:2018-04-05_ALL",
-    "dates": {
-        "creation": "2018-04-05T00:00:00Z",
-        "reception": "2018-04-05T00:00:00Z"
-    },
-    "involved_datasets": [
-        {
-            "dataset_id": "TCGA:2018-04-05_input",
-            "role": "incoming"
-        },
-        {
-            "dataset_id": "TCGA:2018-04-05_ALL_P_OncodriveFM",
-            "role": "outgoing"
-        }
-    ],
-    "test_contact_ids": [
-        "Matthew.Bailey",
-        "Eduard.Porta",
-        "Collin.Tokheim"
-    ],
-    "agent_id": "TCGA:OncodriveFM"
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:2987dd7c313b61ce8a00e0324cf75c150622b9ee4d449d1bb7d3a82abac6565e
+size 729

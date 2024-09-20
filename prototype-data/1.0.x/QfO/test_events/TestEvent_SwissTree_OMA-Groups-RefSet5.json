@@ -1,27 +1,3 @@
-{
-    "_id": "QfO:2011-07-07_testEvent_SwissTree_OMA-Groups-RefSet5",
-    "_schema": "https://www.iechor-europe.org/excelerate/WP2/json-schemas/1.0/TestAction",
-    "action_type": "TestEvent",
-    "challenge_id": "QfO:2011-07-07_SwissTree",
-    "dates": {
-        "creation": "2011-07-07T00:00:00Z",
-        "reception": "2011-07-07T00:00:00Z"
-    },
-    "involved_datasets": [
-        {
-            "dataset_id": "QfO:2011-07-07_I",
-            "role": "incoming"
-        },
-        {
-            "dataset_id": "QfO:2011-07-07_P_OMA-Groups-RefSet5",
-            "role": "outgoing"
-        }
-    ],
-    "test_contact_ids": [
-        "Christophe.Dessimoz",
-        "Paul.Thomas",
-        "Toni.Gabaldon",
-        "Erik.Sonnhammer"
-    ],
-    "agent_id": "QfO:OMA-Groups-RefSet5"
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:30c8c605af41205370e8570cf2f8d87bf6ad0ceab7fa0c9cd6e2b6dd33848a12
+size 779

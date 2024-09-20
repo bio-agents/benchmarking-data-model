@@ -1,12 +1,3 @@
-{
-   "_id":"Michael.Lawrence",
-   "givenName":"Michael",
-   "surname":"Lawrence",
-   "email":[
-      "lawrence@broadinstitute.org"
-   ],
-   "notes":"Unknown",
-   "_schema":"https://www.iechor-europe.org/excelerate/WP2/json-schemas/1.0/Contact",
-   "contact_type":"person",
-   "community_id": "OEBC001"
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:4be1a7fede40ff22fd0857e72ef928d105f324a001ed0b67b494645a7ec08ed0
+size 304

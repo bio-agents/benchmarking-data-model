@@ -1,27 +1,3 @@
-{
-    "_id": "QfO:2011-07-07_testEvent_GOtest_OrthoFinder-2.0-MSA",
-    "_schema": "https://www.iechor-europe.org/excelerate/WP2/json-schemas/1.0/TestAction",
-    "action_type": "TestEvent",
-    "challenge_id": "QfO:2011-07-07_GOtest",
-    "dates": {
-        "creation": "2011-07-07T00:00:00Z",
-        "reception": "2011-07-07T00:00:00Z"
-    },
-    "involved_datasets": [
-        {
-            "dataset_id": "QfO:2011-07-07_I",
-            "role": "incoming"
-        },
-        {
-            "dataset_id": "QfO:2011-07-07_P_OrthoFinder-2.0-MSA",
-            "role": "outgoing"
-        }
-    ],
-    "test_contact_ids": [
-        "Christophe.Dessimoz",
-        "Paul.Thomas",
-        "Toni.Gabaldon",
-        "Erik.Sonnhammer"
-    ],
-    "agent_id": "QfO:OrthoFinder-2.0-MSA"
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:4fd573fbd699ed0a971eb509a8c153b658581894c9aab3208b5576be19c313b4
+size 776

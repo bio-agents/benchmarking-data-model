@@ -1,31 +1,3 @@
-{
-    "_id": "QfO:2011-07-07_TreeFam-A_metricsEvent_EnsemblCompara-e81_TreeFam-A_PPV",
-    "_schema": "https://www.iechor-europe.org/excelerate/WP2/json-schemas/1.0/TestAction",
-    "action_type": "MetricsEvent",
-    "challenge_id": "QfO:2011-07-07_TreeFam-A",
-    "dates": {
-        "creation": "2011-07-07T00:00:00Z",
-        "reception": "2011-07-07T00:00:00Z"
-    },
-    "involved_datasets": [
-        {
-            "dataset_id": "QfO:2011-07-07_TreeFam-A_M",
-            "role": "incoming"
-        },
-        {
-            "dataset_id": "QfO:2011-07-07_P_EnsemblCompara-e81",
-            "role": "incoming"
-        },
-        {
-            "dataset_id": "QfO:2011-07-07_TreeFam-A_A_TreeFam-A_PPV_EnsemblCompara-e81",
-            "role": "outgoing"
-        }
-    ],
-    "test_contact_ids": [
-        "Christophe.Dessimoz",
-        "Paul.Thomas",
-        "Toni.Gabaldon",
-        "Erik.Sonnhammer"
-    ],
-    "agent_id": "QfO:EnsemblCompara-e81"
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:6a43c6dd406538addb5096f522e711214e648f6ff3edced58d32431191cd2943
+size 950

@@ -1,30 +1,3 @@
-{
-    "_id": "TCGA:2018-04-05_KIRP_metricsEvent_e-Driver_precision",
-    "_schema": "https://www.iechor-europe.org/excelerate/WP2/json-schemas/1.0/TestAction",
-    "action_type": "MetricsEvent",
-    "challenge_id": "TCGA:2018-04-05_KIRP",
-    "dates": {
-        "creation": "2018-04-05T00:00:00Z",
-        "reception": "2018-04-05T00:00:00Z"
-    },
-    "involved_datasets": [
-        {
-            "dataset_id": "TCGA:2018-04-05_KIRP_M",
-            "role": "incoming"
-        },
-        {
-            "dataset_id": "TCGA:2018-04-05_KIRP_P_e-Driver",
-            "role": "incoming"
-        },
-        {
-            "dataset_id": "TCGA:2018-04-05_KIRP_A_precision_e-Driver",
-            "role": "outgoing"
-        }
-    ],
-    "test_contact_ids": [
-        "Matthew.Bailey",
-        "Eduard.Porta",
-        "Collin.Tokheim"
-    ],
-    "agent_id": "TCGA:e-Driver"
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:785da94ec45f64701469ba80066fcbdd1e91985aa227dc96ceaff2666536a586
+size 863

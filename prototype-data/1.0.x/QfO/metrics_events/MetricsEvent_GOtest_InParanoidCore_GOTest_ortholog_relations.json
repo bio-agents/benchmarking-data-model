@@ -1,31 +1,3 @@
-{
-    "_id": "QfO:2011-07-07_GOtest_metricsEvent_InParanoidCore_GOTest_ortholog_relations",
-    "_schema": "https://www.iechor-europe.org/excelerate/WP2/json-schemas/1.0/TestAction",
-    "action_type": "MetricsEvent",
-    "challenge_id": "QfO:2011-07-07_GOtest",
-    "dates": {
-        "creation": "2011-07-07T00:00:00Z",
-        "reception": "2011-07-07T00:00:00Z"
-    },
-    "involved_datasets": [
-        {
-            "dataset_id": "QfO:2011-07-07_GOtest_M",
-            "role": "incoming"
-        },
-        {
-            "dataset_id": "QfO:2011-07-07_P_InParanoidCore",
-            "role": "incoming"
-        },
-        {
-            "dataset_id": "QfO:2011-07-07_GOtest_A_GOTest_ortholog_relations_InParanoidCore",
-            "role": "outgoing"
-        }
-    ],
-    "test_contact_ids": [
-        "Christophe.Dessimoz",
-        "Paul.Thomas",
-        "Toni.Gabaldon",
-        "Erik.Sonnhammer"
-    ],
-    "agent_id": "QfO:InParanoidCore"
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:137e76522342432d4d698206ca67390837254d6c6a2ad0762727deb2752ee253
+size 946

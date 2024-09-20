@@ -1,11 +1,3 @@
-{
-	"_id": "Yong.Huang",
-	"_schema": "https://www.iechor-europe.org/excelerate/WP2/json-schemas/0.3/Contact",
-	"contact_type": "person",
-	"givenName": "Yong",
-	"surname": "Huang",
-	"email": [
-		"yong.huang@ucsf.edu"
-	],
-	"notes": "Contact / Maintainer for T2K Gene Tagger"
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:44f2d0676b123001d1c81c160e11d21effff50ed3ab70c8b0782500d768191b9
+size 274

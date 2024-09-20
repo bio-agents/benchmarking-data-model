@@ -1,5 +1,3 @@
-{
-	"_id": "Web-application",
-	"_schema": "https://www.iechor-europe.org/excelerate/WP2/json-schemas/0.3/AgentAccessType",
-	"description": "Client-server software application in which the client runs in a web browser"
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:af11e64e166cacd57a890c583772e275ba53139cccd5004a84a7f8599295ec6d
+size 219

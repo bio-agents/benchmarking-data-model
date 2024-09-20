@@ -1,32 +1,3 @@
-{
-    "_id": "QfO:2015-01-01_SwissTree_metricsEvent_Orthoinspector_recall",
-    "_schema": "https://www.iechor-europe.org/excelerate/WP2/json-schemas/0.4/TestAction",
-    "action_type": "MetricsEvent",
-    "challenge_id": "QfO:2015-01-01_SwissTree",
-    "dates": {
-        "creation": "2015-01-01T00:00:01Z",
-        "modification": "2015-01-01T00:00:01Z"
-    },
-    "metrics_id": "QfO:referenceSwissTree_recall",
-    "received_datasets": [
-        {
-            "dataset_id": "QfO:2015-01-01_SwissTree_M",
-            "role": "metrics_reference"
-        },
-        {
-            "dataset_id": "QfO:2015-01-01_P_Orthoinspector",
-            "role": "participant"
-        },
-        {
-            "dataset_id": "QfO:2015-01-01_SwissTree_A_recall_Orthoinspector",
-            "role": "assessment"
-        }
-    ],
-    "test_contact_ids": [
-        "Christophe.Dessimoz",
-        "Paul.Thomas",
-        "Toni.Gabaldon",
-        "Erik.Sonnhammer"
-    ],
-    "agent_id": "QfO:Orthoinspector"
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:6a5ae2bf7cd4bf2c26223e308db558c61b721ae9b764484891afb46e9b04dbde
+size 988

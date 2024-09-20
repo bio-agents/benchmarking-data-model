@@ -1,12 +1,3 @@
-{
-   "_id":"Collin.Tokheim",
-   "givenName":"Collin",
-   "surname":"Tokheim",
-   "email":[
-      "unknown@email.es"
-   ],
-   "notes":"Unknown",
-   "_schema":"https://www.iechor-europe.org/excelerate/WP2/json-schemas/1.0/Contact",
-   "contact_type":"person",
-   "community_id": "OEBC001"
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:23546ff764f0c756f4aee44238dfa403fa8ac29dedc8b33679b68f23a3658295
+size 289

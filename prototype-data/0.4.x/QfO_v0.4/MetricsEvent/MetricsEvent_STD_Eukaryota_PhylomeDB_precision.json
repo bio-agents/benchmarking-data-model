@@ -1,32 +1,3 @@
-{
-    "_id": "QfO:2015-01-01_STD_Eukaryota_metricsEvent_PhylomeDB_precision",
-    "_schema": "https://www.iechor-europe.org/excelerate/WP2/json-schemas/0.4/TestAction",
-    "action_type": "MetricsEvent",
-    "challenge_id": "QfO:2015-01-01_STD_Eukaryota",
-    "dates": {
-        "creation": "2015-01-01T00:00:01Z",
-        "modification": "2015-01-01T00:00:01Z"
-    },
-    "metrics_id": "QfO:STD-precision",
-    "received_datasets": [
-        {
-            "dataset_id": "QfO:2015-01-01_STD_Eukaryota_M",
-            "role": "metrics_reference"
-        },
-        {
-            "dataset_id": "QfO:2015-01-01_P_PhylomeDB",
-            "role": "participant"
-        },
-        {
-            "dataset_id": "QfO:2015-01-01_STD_Eukaryota_A_precision_PhylomeDB",
-            "role": "assessment"
-        }
-    ],
-    "test_contact_ids": [
-        "Christophe.Dessimoz",
-        "Paul.Thomas",
-        "Toni.Gabaldon",
-        "Erik.Sonnhammer"
-    ],
-    "agent_id": "QfO:PhylomeDB"
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:be5ef742c998dafa515f3cf0c141274b8e6c97ae6f41959cafdf9395ba59362d
+size 978

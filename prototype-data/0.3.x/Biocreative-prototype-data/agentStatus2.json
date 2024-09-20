@@ -1,5 +1,3 @@
-{
-	"_id": "inoperative",
-	"_schema": "https://www.iechor-europe.org/excelerate/WP2/json-schemas/0.3/AgentStatus",
-	"description": "The agent is not available or it is under construction"
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:ce8fb5f1b72ecb7ffa89be61774f90388190af31cdce48984bf91815a7375a11
+size 189

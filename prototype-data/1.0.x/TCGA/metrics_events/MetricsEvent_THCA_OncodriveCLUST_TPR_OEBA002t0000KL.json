@@ -1,30 +1,3 @@
-{
-    "_id": "TCGA:2018-04-05_THCA_metricsEvent_OncodriveCLUST_TPR",
-    "_schema": "https://www.iechor-europe.org/excelerate/WP2/json-schemas/1.0/TestAction",
-    "action_type": "MetricsEvent",
-    "challenge_id": "TCGA:2018-04-05_THCA",
-    "dates": {
-        "creation": "2018-04-05T00:00:00Z",
-        "reception": "2018-04-05T00:00:00Z"
-    },
-    "involved_datasets": [
-        {
-            "dataset_id": "TCGA:2018-04-05_THCA_M",
-            "role": "incoming"
-        },
-        {
-            "dataset_id": "TCGA:2018-04-05_THCA_P_OncodriveCLUST",
-            "role": "incoming"
-        },
-        {
-            "dataset_id": "TCGA:2018-04-05_THCA_A_TPR_OncodriveCLUST",
-            "role": "outgoing"
-        }
-    ],
-    "test_contact_ids": [
-        "Matthew.Bailey",
-        "Eduard.Porta",
-        "Collin.Tokheim"
-    ],
-    "agent_id": "TCGA:OncodriveCLUST"
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:0d44ec02213b8c4508f398a41412f6bc27e53e49056f385c8f74f7e19bde5f37
+size 875

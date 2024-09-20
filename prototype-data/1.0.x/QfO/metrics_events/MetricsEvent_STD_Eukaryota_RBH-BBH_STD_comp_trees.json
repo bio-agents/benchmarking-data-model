@@ -1,31 +1,3 @@
-{
-    "_id": "QfO:2011-07-07_STD_Eukaryota_metricsEvent_RBH-BBH_STD_comp_trees",
-    "_schema": "https://www.iechor-europe.org/excelerate/WP2/json-schemas/1.0/TestAction",
-    "action_type": "MetricsEvent",
-    "challenge_id": "QfO:2011-07-07_STD_Eukaryota",
-    "dates": {
-        "creation": "2011-07-07T00:00:00Z",
-        "reception": "2011-07-07T00:00:00Z"
-    },
-    "involved_datasets": [
-        {
-            "dataset_id": "QfO:2011-07-07_STD_Eukaryota_M",
-            "role": "incoming"
-        },
-        {
-            "dataset_id": "QfO:2011-07-07_P_RBH-BBH",
-            "role": "incoming"
-        },
-        {
-            "dataset_id": "QfO:2011-07-07_STD_Eukaryota_A_STD_comp_trees_RBH-BBH",
-            "role": "outgoing"
-        }
-    ],
-    "test_contact_ids": [
-        "Christophe.Dessimoz",
-        "Paul.Thomas",
-        "Toni.Gabaldon",
-        "Erik.Sonnhammer"
-    ],
-    "agent_id": "QfO:RBH-BBH"
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:3ca06c9f2cbb514e1ccf12e7117a2941e9a70c6725de1137176c240f75315c98
+size 924

@@ -1,12 +1,3 @@
-{
-   "_id":"Loris.Mularoni",
-   "givenName":"Loris",
-   "surname":"Mularoni",
-   "email":[
-      "loris.mularoni@irbbarcelona.org"
-   ],
-   "notes":"Unknown",
-   "_schema":"https://www.iechor-europe.org/excelerate/WP2/json-schemas/1.0/Contact",
-   "contact_type":"person",
-   "community_id": "OEBC001"
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:01d82a1951ef447fc7accb6c05e6e522821efc8120f00aeb133fdba9c8233001
+size 304

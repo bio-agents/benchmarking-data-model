@@ -1,30 +1,3 @@
-{
-    "_id": "TCGA:2018-04-05_PRAD_metricsEvent_compositeDriver_TPR",
-    "_schema": "https://www.iechor-europe.org/excelerate/WP2/json-schemas/1.0/TestAction",
-    "action_type": "MetricsEvent",
-    "challenge_id": "TCGA:2018-04-05_PRAD",
-    "dates": {
-        "creation": "2018-04-05T00:00:00Z",
-        "reception": "2018-04-05T00:00:00Z"
-    },
-    "involved_datasets": [
-        {
-            "dataset_id": "TCGA:2018-04-05_PRAD_M",
-            "role": "incoming"
-        },
-        {
-            "dataset_id": "TCGA:2018-04-05_PRAD_P_compositeDriver",
-            "role": "incoming"
-        },
-        {
-            "dataset_id": "TCGA:2018-04-05_PRAD_A_TPR_compositeDriver",
-            "role": "outgoing"
-        }
-    ],
-    "test_contact_ids": [
-        "Matthew.Bailey",
-        "Eduard.Porta",
-        "Collin.Tokheim"
-    ],
-    "agent_id": "TCGA:compositeDriver"
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:8f02b828f82f4407638cd20ba6c8892183f99cab2e523cc32a9a6543004609c4
+size 879

@@ -1,11 +1,3 @@
-{
-	"_id": "QfO:QfO4_RSD",
-	"_schema": "https://www.iechor-europe.org/excelerate/WP2/json-schemas/0.3/TestEvent",
-	"agent_id": "QfO:RSD",
-	"input_dataset_id": "QfO:QfO4_input_seqXML",
-	"output_dataset_id": "QfO:QfO4_output_RSD",
-	"benchmarking_event_id": "QfO:QfO4",
-	"dates": {
-		"creation": "2015-04-14T23:59:59Z"
-	}
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:329d6fc52fff3583c09f3120b4f50ceff08cfdad6037f29ba07cf808dae6afe2
+size 320

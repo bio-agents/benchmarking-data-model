@@ -1,14 +1,3 @@
-{
-	"_id": "QfO:STD_comp_trees",
-	"_schema": "https://www.iechor-europe.org/excelerate/WP2/json-schemas/1.0/Metrics",
-	"title": "Species Tree Discordance test / Recall (completed tree samples)",
-	"description": "Recall is measured in terms of the number of completed tree samples",
-	"metrics_contact_ids": ["Christophe.Dessimoz",
-            "Paul.Thomas",
-            "Toni.Gabaldon",
-            "Erik.Sonnhammer"],
-	"formal_definition": "Recall is measured in terms of the number of completed tree samplings out of 50,000 trials",
-	"references": [
-		"doi:10.1371/journal.pcbi.1000262"
-	]
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:d305059342e230c46c060cea544f54fa56f8d93c8a0687cdec28e2e0602c0861
+size 592

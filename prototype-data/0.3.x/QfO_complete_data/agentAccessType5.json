@@ -1,5 +1,3 @@
-{
-	"_id": "QfO:Standalone-application",
-	"_schema": "https://www.iechor-europe.org/excelerate/WP2/json-schemas/0.3/AgentAccessType",
-	"description": "Software package to install the application and run it locally"
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:78bab23f96dbdd24f6eede7fd45e78c2aecb0f2c37ea3d35afa87df52b447437
+size 216

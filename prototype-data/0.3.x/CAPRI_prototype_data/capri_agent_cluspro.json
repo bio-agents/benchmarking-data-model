@@ -1,28 +1,3 @@
-{
-    "_id": "ClusPro",
-    "_schema": "https://www.iechor-europe.org/excelerate/WP2/json-schemas/0.3/Agent",
-    "bioAgents_id": "ClusPro",
-    "name": "ClusPro",
-    "description": "ClusPro is a agent for automatically computing the docking of two protein structures supplied by the user (or as PDB IDs). The result set is a ranked list of putative complexes, ordered by clustering properties.",
-    "is_automated": true,
-    "community_id":
-      [
-        "CAPRI"
-      ],
-    "agent_contact_id": [
-      "Sandor.Vajda"
-    ],
-    "status_id": "active",
-    "references": [
-      "10.1093/nar/gkh354",
-      "10.1002/prot.22835",
-      "10.1002/prot.21117"
-    ],
-    "agent_access":
-      [
-        {
-          "agent_access_type_id":"Web/API",
-          "link":"http://cluspro.bu.edu/login.php"
-        }
-      ]
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:a21eac021dd3b9c5a28011198a8a7dde5aefb556333ae87f09e13a9dd9847c15
+size 821

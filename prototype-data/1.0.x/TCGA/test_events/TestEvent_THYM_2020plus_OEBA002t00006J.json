@@ -1,26 +1,3 @@
-{
-    "_id": "TCGA:2018-04-05_THYM_testEvent_2020plus",
-    "_schema": "https://www.iechor-europe.org/excelerate/WP2/json-schemas/1.0/TestAction",
-    "action_type": "TestEvent",
-    "challenge_id": "TCGA:2018-04-05_THYM",
-    "dates": {
-        "creation": "2018-04-05T00:00:00Z",
-        "reception": "2018-04-05T00:00:00Z"
-    },
-    "involved_datasets": [
-        {
-            "dataset_id": "TCGA:2018-04-05_input",
-            "role": "incoming"
-        },
-        {
-            "dataset_id": "TCGA:2018-04-05_THYM_P_2020plus",
-            "role": "outgoing"
-        }
-    ],
-    "test_contact_ids": [
-        "Matthew.Bailey",
-        "Eduard.Porta",
-        "Collin.Tokheim"
-    ],
-    "agent_id": "TCGA:2020plus"
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:1333ef09f908e0832ed34037b4a2aa226ee1ce4a58a9cf2154139ebc52b6eded
+size 723

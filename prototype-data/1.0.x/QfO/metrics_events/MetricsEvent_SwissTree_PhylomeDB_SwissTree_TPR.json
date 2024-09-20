@@ -1,31 +1,3 @@
-{
-    "_id": "QfO:2011-07-07_SwissTree_metricsEvent_PhylomeDB_SwissTree_TPR",
-    "_schema": "https://www.iechor-europe.org/excelerate/WP2/json-schemas/1.0/TestAction",
-    "action_type": "MetricsEvent",
-    "challenge_id": "QfO:2011-07-07_SwissTree",
-    "dates": {
-        "creation": "2011-07-07T00:00:00Z",
-        "reception": "2011-07-07T00:00:00Z"
-    },
-    "involved_datasets": [
-        {
-            "dataset_id": "QfO:2011-07-07_SwissTree_M",
-            "role": "incoming"
-        },
-        {
-            "dataset_id": "QfO:2011-07-07_P_PhylomeDB",
-            "role": "incoming"
-        },
-        {
-            "dataset_id": "QfO:2011-07-07_SwissTree_A_SwissTree_TPR_PhylomeDB",
-            "role": "outgoing"
-        }
-    ],
-    "test_contact_ids": [
-        "Christophe.Dessimoz",
-        "Paul.Thomas",
-        "Toni.Gabaldon",
-        "Erik.Sonnhammer"
-    ],
-    "agent_id": "QfO:PhylomeDB"
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:606d6538291c8207e5ae7043b188bab022796e1148150854c83bc3cd44031510
+size 914

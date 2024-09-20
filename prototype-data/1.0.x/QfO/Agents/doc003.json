@@ -1,1 +1,3 @@
-{"description":"PhylomeDB is a public database for complete catalogs of gene phylogenies (phylomes).","_schema":"https://www.iechor-europe.org/excelerate/WP2/json-schemas/1.0/Agent","references":["doi:10.1093/nar/gkt1177","doi:10.1093/nar/gkq1109","doi:10.1093/nar/gkm899"],"name":"PhylomeDB","is_automated":true,"agent_access":[{"agent_access_type":"REST/OpenAPI","link":"http://beta.phylomedb.org/web_api"}],"status":"online","_id":"QfO:PhylomeDB","registry_agent_id":"bioagents:phylomedb_v3.0","agent_contact_ids":["Toni.Gabaldon"],"community_ids":["OEBC002"]}
+version https://git-lfs.github.com/spec/v1
+oid sha256:4c09b6835d13ef6b70733ed3e2f828edcb0326e97f5514aaaba43df0379a9686
+size 564

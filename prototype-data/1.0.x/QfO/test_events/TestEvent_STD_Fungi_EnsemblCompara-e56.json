@@ -1,27 +1,3 @@
-{
-    "_id": "QfO:2011-07-07_testEvent_STD_Fungi_EnsemblCompara-e56",
-    "_schema": "https://www.iechor-europe.org/excelerate/WP2/json-schemas/1.0/TestAction",
-    "action_type": "TestEvent",
-    "challenge_id": "QfO:2011-07-07_STD_Fungi",
-    "dates": {
-        "creation": "2011-07-07T00:00:00Z",
-        "reception": "2011-07-07T00:00:00Z"
-    },
-    "involved_datasets": [
-        {
-            "dataset_id": "QfO:2011-07-07_I",
-            "role": "incoming"
-        },
-        {
-            "dataset_id": "QfO:2011-07-07_P_EnsemblCompara-e56",
-            "role": "outgoing"
-        }
-    ],
-    "test_contact_ids": [
-        "Christophe.Dessimoz",
-        "Paul.Thomas",
-        "Toni.Gabaldon",
-        "Erik.Sonnhammer"
-    ],
-    "agent_id": "QfO:EnsemblCompara-e56"
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:c6c8d374650342a9b8022bf685996100a13fa9db5ceb1378c7f7be5c543daa70
+size 779

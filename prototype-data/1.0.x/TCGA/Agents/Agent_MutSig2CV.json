@@ -1,21 +1,3 @@
-{
-    "_id":"TCGA:MutSig2CV",
-    "_schema": "https://www.iechor-europe.org/excelerate/WP2/json-schemas/1.0/Agent",
-    "activation": "2018-04-05T00:00:00Z",
-    "description": "Cancer Driver Genes prediction",
-    "is_automated": true,
-    "name": "MutSig2CV",
-    "references": [
-        "doi:10.1038/nature12912"
-    ],
-    "status": "unknown",
-    "agent_access": [
-        {
-            "agent_access_type": "other"
-        }
-    ],
-    "agent_contact_ids": [
-        "Eduard.Porta"
-    ],
-    "community_ids": ["OEBC001"]
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:9622cef4b786eeebcd66a6af219e997c7ec917e1f8d94734182505c37e5955c7
+size 530

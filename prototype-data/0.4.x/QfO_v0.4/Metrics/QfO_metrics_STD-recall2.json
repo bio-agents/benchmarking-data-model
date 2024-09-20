@@ -1,8 +1,3 @@
-{
-	"_id": "QfO:STD-recall2",
-	"_schema": "https://www.iechor-europe.org/excelerate/WP2/json-schemas/0.4/Metrics",
-	"title": "Species Tree Discordance test / Recall (orthologous relations)",
-	"description": "Recall is measured in terms of the number of uploaded orthologous relations",
-	"metrics_contact_id": ["unknown"],
-	"formal_definition": "Recall is measured in terms of the number of uploaded orthologous relations"
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:72e8eac5dbb1221864d261c5527d4ca51b255ba4300706f11dd87e57fb6184df
+size 423

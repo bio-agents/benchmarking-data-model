@@ -1,11 +1,3 @@
-{
-    "_id": "QfO:QfO4_G_STD_Vertebrata_InParanoidCore",
-    "_schema": "https://www.iechor-europe.org/excelerate/WP2/json-schemas/0.3/TestEvent",
-    "benchmarking_event_id": "QfO:QfO4_G_STD",
-    "dates": {
-        "creation": "2015-04-14T23:59:59Z"
-    },
-    "input_dataset_id": "QfO:QfO4_input_seqXML",
-    "output_dataset_id": "QfO:QfO4_G_STD_Vertebrata_InParanoidCore_output",
-    "agent_id": "QfO:InParanoidCore"
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:8b72de5f6e1818ac201911f286ec63c44260c24ca18dec4a5eb37accc3b81015
+size 422

@@ -1,16 +1,3 @@
-{
-	"_id": "QfO:QfO4_output_PANTHER-all",
-	"_schema": "https://www.iechor-europe.org/excelerate/WP2/json-schemas/0.3/Dataset",
-	"name": "PANTHER_8.0_all-.325.rels",
-	"version": "v1.0",
-	"description": "Output data set  (pairwise orthologs predictions) for PANTHER 8.0 (all) agent",
-	"dates": {
-		"creation": "2013-02-16T02:11:22Z",
-		"modification": "2013-02-16T02:11:22Z"
-	},
-	"type": "Output",
-	"datalink": "http://orthology.benchmarkservice.org/raw/PANTHER_8.0_all-.325.rels.raw.gz",
-	"dataset_contact_id": [
-		"Paul.Thomas"
-	]
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:a1f4c5e45f75c9787f646faf57349ac824b6b2960fb598d412cae7885e5a8b16
+size 532

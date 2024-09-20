@@ -1,26 +1,3 @@
-{
-    "_id": "TCGA:2018-04-05_UCEC_testEvent_MutSig2CV",
-    "_schema": "https://www.iechor-europe.org/excelerate/WP2/json-schemas/1.0/TestAction",
-    "action_type": "TestEvent",
-    "challenge_id": "TCGA:2018-04-05_UCEC",
-    "dates": {
-        "creation": "2018-04-05T00:00:00Z",
-        "reception": "2018-04-05T00:00:00Z"
-    },
-    "involved_datasets": [
-        {
-            "dataset_id": "TCGA:2018-04-05_input",
-            "role": "incoming"
-        },
-        {
-            "dataset_id": "TCGA:2018-04-05_UCEC_P_MutSig2CV",
-            "role": "outgoing"
-        }
-    ],
-    "test_contact_ids": [
-        "Matthew.Bailey",
-        "Eduard.Porta",
-        "Collin.Tokheim"
-    ],
-    "agent_id": "TCGA:MutSig2CV"
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:dbb3b39e2884ca5fa9ee7be155c886c906896b26eaeab84f2e960d5b7fae699a
+size 726

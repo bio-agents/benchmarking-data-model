@@ -1,35 +1,3 @@
-{
-    "_id": "TCGA:2018-04-05_COAD_P_MuSiC",
-    "_schema": "https://www.iechor-europe.org/excelerate/WP2/json-schemas/0.4/Dataset",
-    "access": "unknown",
-    "community_id": "TCGA",
-    "datalink": {
-        "attrs": [
-            "archive"
-        ],
-        "status": "ok",
-        "uri": "https://portal.gdc.cancer.gov/",
-        "validation_date": "2018-04-05T00:00:00Z"
-    },
-    "dataset_contact_ids": [
-        "Matthew.Bailey",
-        "Eduard.Porta",
-        "Collin.Tokheim"
-    ],
-    "dates": {
-        "creation": "2018-04-05T00:00:00Z",
-        "modification": "2018-04-05T14:00:00Z"
-    },
-    "depends_on": {
-        "rel_dataset_ids": [
-            {
-                "dataset_id": "TCGA:2018-04-05_COAD_I"
-            }
-        ],
-        "agent_id": "TCGA:MuSiC"
-    },
-    "description": "List of Cancer Driver Genes predicted by agent MuSiC in Colon Adenocarcinoma",
-    "name": "Cancer Driver Genes in Colon Adenocarcinoma",
-    "type": "participant",
-    "version": "unknown"
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:195e83a23c3daa316080f626b188d7d7157c989dfeb4dfe8ad885f173af3dd2b
+size 1004

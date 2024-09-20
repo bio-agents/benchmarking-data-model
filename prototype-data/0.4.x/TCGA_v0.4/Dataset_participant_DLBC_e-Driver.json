@@ -1,35 +1,3 @@
-{
-    "_id": "TCGA:2018-04-05_DLBC_P_e-Driver",
-    "_schema": "https://www.iechor-europe.org/excelerate/WP2/json-schemas/0.4/Dataset",
-    "access": "unknown",
-    "community_id": "TCGA",
-    "datalink": {
-        "attrs": [
-            "archive"
-        ],
-        "status": "ok",
-        "uri": "https://portal.gdc.cancer.gov/",
-        "validation_date": "2018-04-05T00:00:00Z"
-    },
-    "dataset_contact_ids": [
-        "Matthew.Bailey",
-        "Eduard.Porta",
-        "Collin.Tokheim"
-    ],
-    "dates": {
-        "creation": "2018-04-05T00:00:00Z",
-        "modification": "2018-04-05T14:00:00Z"
-    },
-    "depends_on": {
-        "rel_dataset_ids": [
-            {
-                "dataset_id": "TCGA:2018-04-05_DLBC_I"
-            }
-        ],
-        "agent_id": "TCGA:e-Driver"
-    },
-    "description": "List of Cancer Driver Genes predicted by agent e-Driver in Lymphoid Neoplasm Diffuse Large B-cell Lymphoma",
-    "name": "Cancer Driver Genes in Lymphoid Neoplasm Diffuse Large B-cell Lymphoma",
-    "type": "participant",
-    "version": "unknown"
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:fa2f6111fe92ad384aa90aa62326c6b0e452f38c569df69343a7a50f635f7841
+size 1067

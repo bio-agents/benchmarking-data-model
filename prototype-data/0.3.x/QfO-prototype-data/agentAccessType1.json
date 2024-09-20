@@ -1,5 +1,3 @@
-{
-	"_id": "QfO:SOAP-Web-API",
-	"_schema": "https://www.iechor-europe.org/excelerate/WP2/json-schemas/0.3/AgentAccessType",
-	"description": "Programmatic access via Web (SOAP protocol) through the Application Programming Interface provided by the agent's developers"
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:0be523803f4f95d1575450cce2ecf96dbffd2468e30741bfb3fc6412fda48b88
+size 268

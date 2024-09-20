@@ -1,7 +1,3 @@
-{
-		"_id": "10.1002/prot.24172",
-		"_schema": "https://www.iechor-europe.org/excelerate/WP2/json-schemas/0.3/Reference",
-		"title": "CAD-score: a superposition-free score for comparing protein structures and models employing contact areas",
-		"pubmed_id": 22933340 
-
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:bd5ce490fbaa0af3d5acbf01bd0878593082828152de5e963687ee27ddab1785
+size 269

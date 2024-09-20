@@ -1,6 +1,3 @@
-{
-		"_id": "active",
-		"_schema": "https://www.iechor-europe.org/excelerate/WP2/json-schemas/0.3/AgentStatus",
-		"description": "weekly benchmarks",
-    "status_date": "2018-02-07T12:00:00z"
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:b57be1fb5ba9fe22cc66bc088a088b5c806e476bb65a8dff394b4e28d6cff986
+size 193

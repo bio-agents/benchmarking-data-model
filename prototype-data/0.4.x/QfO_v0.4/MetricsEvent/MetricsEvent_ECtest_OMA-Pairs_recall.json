@@ -1,32 +1,3 @@
-{
-    "_id": "QfO:2015-01-01_ECtest_metricsEvent_OMA-Pairs_recall",
-    "_schema": "https://www.iechor-europe.org/excelerate/WP2/json-schemas/0.4/TestAction",
-    "action_type": "MetricsEvent",
-    "challenge_id": "QfO:2015-01-01_ECtest",
-    "dates": {
-        "creation": "2015-01-01T00:00:01Z",
-        "modification": "2015-01-01T00:00:01Z"
-    },
-    "metrics_id": "QfO:ECConservationTest-recall",
-    "received_datasets": [
-        {
-            "dataset_id": "QfO:2015-01-01_ECtest_M",
-            "role": "metrics_reference"
-        },
-        {
-            "dataset_id": "QfO:2015-01-01_P_OMA-Pairs",
-            "role": "participant"
-        },
-        {
-            "dataset_id": "QfO:2015-01-01_ECtest_A_recall_OMA-Pairs",
-            "role": "assessment"
-        }
-    ],
-    "test_contact_ids": [
-        "Christophe.Dessimoz",
-        "Paul.Thomas",
-        "Toni.Gabaldon",
-        "Erik.Sonnhammer"
-    ],
-    "agent_id": "QfO:OMA-Pairs"
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:2ed7f6e52beb610b2cd9985604f86514bb5f696696b43cca47a16e0f9fb4bba6
+size 956

@@ -1,30 +1,3 @@
-{
-    "_id": "TCGA:2018-04-05_CHOL_metricsEvent_e-Driver_TPR",
-    "_schema": "https://www.iechor-europe.org/excelerate/WP2/json-schemas/1.0/TestAction",
-    "action_type": "MetricsEvent",
-    "challenge_id": "TCGA:2018-04-05_CHOL",
-    "dates": {
-        "creation": "2018-04-05T00:00:00Z",
-        "reception": "2018-04-05T00:00:00Z"
-    },
-    "involved_datasets": [
-        {
-            "dataset_id": "TCGA:2018-04-05_CHOL_M",
-            "role": "incoming"
-        },
-        {
-            "dataset_id": "TCGA:2018-04-05_CHOL_P_e-Driver",
-            "role": "incoming"
-        },
-        {
-            "dataset_id": "TCGA:2018-04-05_CHOL_A_TPR_e-Driver",
-            "role": "outgoing"
-        }
-    ],
-    "test_contact_ids": [
-        "Matthew.Bailey",
-        "Eduard.Porta",
-        "Collin.Tokheim"
-    ],
-    "agent_id": "TCGA:e-Driver"
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:4969d09d0827fe38c57b9ec90fc6253d581d6622e5975583006a19cd31f54f56
+size 851

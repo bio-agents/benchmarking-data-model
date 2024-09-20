@@ -1,16 +1,3 @@
-{
-    "_id":"TCGA:TPR",
-    "_schema": "https://www.iechor-europe.org/excelerate/WP2/json-schemas/0.4/Metrics",
-    "title":"True Positive Rate (TPR)",
-    "description":"Agreement (sensitivity) with Consensus Driver Genes List, measured through the True Positives Rate (TPR)",
-    "metrics_contact_id":[
-       "Matthew.Bailey",
-      "Eduard.Porta",
-      "Collin.Tokheim"
-    ],
-    "formal_definition":"TPR = TP / (TP + FN)",
-    "references":[
-        "10.1016/j.cell.2018.02.060"
-     ]
-
- }
+version https://git-lfs.github.com/spec/v1
+oid sha256:73e7f7840f09c171726df55555c06011fa356461fba33492dde1cf3b59d52c3e
+size 497

@@ -1,17 +1,3 @@
-{
-	"_id": "Albert.Vilella",
-	"_schema": "https://www.iechor-europe.org/excelerate/WP2/json-schemas/0.4/Contact",
-	"contact_type": "person",
-	"givenName": "Albert",
-	"surname": "Vilella",
-	"email": [
-		"avilella@gmail.com"
-	],
-	"notes": "Contact for Ensembl Compara agent",
-	"links": [
-		{
-			"label": "MainSite",
-			"uri": "https://github.com/avilella"
-		}
-	]
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:bfdbc1db0ec8707db02e04d958c65e1b6adb5803192ed06b420729d41ee86063
+size 362

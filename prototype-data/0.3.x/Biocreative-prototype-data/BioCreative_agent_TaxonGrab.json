@@ -1,27 +1,3 @@
-{
-	"_id": "BioCreative:TaxonGrab",
-	"_schema": "https://www.iechor-europe.org/excelerate/WP2/json-schemas/0.3/Agent",
-	"name": "TaxonGrab",
-	"description": "Identification of organism names in biological texts is essential for the management of archival resources to facilitate comparative biological investigation. Because organism nomenclature conforms closely to prescribed rules, automated techniques may be useful for identifying organism names from existing documents, and may also support the completion of comprehensive indices of taxonomic names; such comprehensive lists are not yet available. Using a combination of contextual rules and a language lexicon, we have developed a set of simple computational techniques for extracting taxonomic names from biological text. Our proposed method consistently performs at greater than 96% Precision and 94% Recall, and at a much higher speed than manual extraction techniques. An implementation of the described method is available as a Web based agent written in PHP. Additionally, the PHP source code is available from SourceForge: http://sourceforge.net/projects/taxongrab, and the project website is http://research.amnh.org/informatics/taxlit/apps/",
-	"is_automated": false,
-	"community_id": ["BioCreative"],
-	"agent_contact_id": [
-		"Thomas.Moritz"
-	],
-	"status_id": "inoperative",
-	"references": [
-		"10.17161/bi.v2i0.17"
-	],
-	"agent_access": [
-		{
-			"agent_access_type_id": "Web-application",
-			"link": "http://research.amnh.org/informatics/taxlit/apps/",
-			"techdocs": [
-				{
-					"uri": "https://sourceforge.net/projects/taxongrab/",
-					"label": "source"
-				}
-			]
-		}
-	]
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:27cfb8260d474230b73c53116666d12c47341798acaa03c63d33c80d00b4ae8a
+size 1644

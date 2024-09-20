@@ -1,27 +1,3 @@
-{
-    "_id": "QfO:2015-01-01_STD_Fungi_testEvent_Hieranoid2",
-    "_schema": "https://www.iechor-europe.org/excelerate/WP2/json-schemas/0.4/TestAction",
-    "action_type": "TestEvent",
-    "challenge_id": "QfO:2015-01-01_STD_Fungi",
-    "dates": {
-        "creation": "2015-01-01T00:00:01Z",
-        "reception": "2015-01-01T00:00:01Z"
-    },
-    "received_datasets": [
-        {
-            "dataset_id": "QfO:2015-01-01_I",
-            "role": "input"
-        },
-        {
-            "dataset_id": "QfO:2015-01-01_P_Hieranoid2",
-            "role": "participant"
-        }
-    ],
-    "test_contact_ids": [
-        "Christophe.Dessimoz",
-        "Paul.Thomas",
-        "Toni.Gabaldon",
-        "Erik.Sonnhammer"
-    ],
-    "agent_id": "QfO:Hieranoid2"
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:2a9911e0e02bb320cd255fee43285b8ecf2f1e602a95caaa1b54b14c3c4c87fb
+size 755

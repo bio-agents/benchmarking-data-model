@@ -1,31 +1,3 @@
-{
-    "_id": "QfO:2011-07-07_SwissTree_metricsEvent_RSD_SwissTree_TPR",
-    "_schema": "https://www.iechor-europe.org/excelerate/WP2/json-schemas/1.0/TestAction",
-    "action_type": "MetricsEvent",
-    "challenge_id": "QfO:2011-07-07_SwissTree",
-    "dates": {
-        "creation": "2011-07-07T00:00:00Z",
-        "reception": "2011-07-07T00:00:00Z"
-    },
-    "involved_datasets": [
-        {
-            "dataset_id": "QfO:2011-07-07_SwissTree_M",
-            "role": "incoming"
-        },
-        {
-            "dataset_id": "QfO:2011-07-07_P_RSD",
-            "role": "incoming"
-        },
-        {
-            "dataset_id": "QfO:2011-07-07_SwissTree_A_SwissTree_TPR_RSD",
-            "role": "outgoing"
-        }
-    ],
-    "test_contact_ids": [
-        "Christophe.Dessimoz",
-        "Paul.Thomas",
-        "Toni.Gabaldon",
-        "Erik.Sonnhammer"
-    ],
-    "agent_id": "QfO:RSD"
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:7ba6fb3b47e6fafc52b1996517c714fc8593ba4db76fa791ed5cba167e885d71
+size 890

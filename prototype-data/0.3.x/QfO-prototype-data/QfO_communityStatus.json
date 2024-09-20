@@ -1,5 +1,3 @@
-{
-	"_id": "QfO:Active",
-	"_schema": "https://www.iechor-europe.org/excelerate/WP2/json-schemas/0.3/CommunityStatus",
-	"description": "Continuous challenge: active"
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:81371359a1e59177b594d73de0f225651aa569f12a18f3f5ac92701d5bc80248
+size 166

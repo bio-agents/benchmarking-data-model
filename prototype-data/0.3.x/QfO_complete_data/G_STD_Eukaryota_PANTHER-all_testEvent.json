@@ -1,11 +1,3 @@
-{
-    "_id": "QfO:QfO4_G_STD_Eukaryota_PANTHER-all",
-    "_schema": "https://www.iechor-europe.org/excelerate/WP2/json-schemas/0.3/TestEvent",
-    "benchmarking_event_id": "QfO:QfO4_G_STD",
-    "dates": {
-        "creation": "2015-04-14T23:59:59Z"
-    },
-    "input_dataset_id": "QfO:QfO4_input_seqXML",
-    "output_dataset_id": "QfO:QfO4_G_STD_Eukaryota_PANTHER-all_output",
-    "agent_id": "QfO:PANTHER-all"
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:0493ebdc8d470cb097a1b98d268152d46e1a527990905662d7ea6d875d642ffa
+size 411

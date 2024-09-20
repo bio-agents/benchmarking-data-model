@@ -1,32 +1,3 @@
-{
-    "_id": "QfO:2015-01-01_STD_Fungi_metricsEvent_RSD_precision",
-    "_schema": "https://www.iechor-europe.org/excelerate/WP2/json-schemas/0.4/TestAction",
-    "action_type": "MetricsEvent",
-    "challenge_id": "QfO:2015-01-01_STD_Fungi",
-    "dates": {
-        "creation": "2015-01-01T00:00:01Z",
-        "modification": "2015-01-01T00:00:01Z"
-    },
-    "metrics_id": "QfO:STD-precision",
-    "received_datasets": [
-        {
-            "dataset_id": "QfO:2015-01-01_STD_Fungi_M",
-            "role": "metrics_reference"
-        },
-        {
-            "dataset_id": "QfO:2015-01-01_P_RSD",
-            "role": "participant"
-        },
-        {
-            "dataset_id": "QfO:2015-01-01_STD_Fungi_A_precision_RSD",
-            "role": "assessment"
-        }
-    ],
-    "test_contact_ids": [
-        "Christophe.Dessimoz",
-        "Paul.Thomas",
-        "Toni.Gabaldon",
-        "Erik.Sonnhammer"
-    ],
-    "agent_id": "QfO:RSD"
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:6efe59cd01b8d5e3443d1cb5803a5cb746c61b937e0c04e69784293fe713ef9c
+size 938

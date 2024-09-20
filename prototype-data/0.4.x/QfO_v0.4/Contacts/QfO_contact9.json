@@ -1,21 +1,3 @@
-{
-	"_id": "Adrian.Altenhoff",
-	"_schema": "https://www.iechor-europe.org/excelerate/WP2/json-schemas/0.4/Contact",
-	"contact_type": "person",
-	"givenName": "Adrian",
-	"surname": "Altenhoff",
-	"email": [
-		"adrian.altenhoff@inf.ethz.ch"
-	],
-	"notes": "OMA contact",
-	"links": [
-		{
-			"label": "MainSite",
-			"uri": "http://people.inf.ethz.ch/adriaal/"
-		},
-		{
-			"label": "LinkedIn",
-			"uri": "https://www.linkedin.com/in/adrian-altenhoff-596a874/"
-		}
-	]
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:35b1e3386f18cb20cb42df68403516ad04b12e9bcc1ce61797dd96fffc4185de
+size 460

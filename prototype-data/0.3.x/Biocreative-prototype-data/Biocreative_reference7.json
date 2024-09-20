@@ -1,7 +1,3 @@
-{
-	"_id": "10.1109/ICTAI.2007.117",
-	"_schema": "https://www.iechor-europe.org/excelerate/WP2/json-schemas/0.3/Reference",
-	"title": "Dragon Agentkit: Incorporating Auto-Learned Semantic Knowledge into Large-Scale Text Retrieval and Mining",
-	"doi": "10.1109/ICTAI.2007.117",
-	"abstract": "The majority of text retrieval and mining techniques are still based on exact feature (e.g. words) matching and unable to incorporate text semantics. Many researchers believe that the extension with semantic knowledge could improve the results and various methods (most of them are heuristic) have been proposed to account for concept hierarchy, synonymy, and other semantic relationships. However, the results with such semantic extension have been mixed, ranging from slight improvements to decreases in effectiveness, mostly likely due to the lack of a formal framework. Instead, we propose a novel method to address the semantic extension within the framework of language modeling. Our method extracts explicit topic signatures from documents and then statistically maps them into single- word features. The incorporation of semantic knowledge then reduces to the smoothing of unigram language models using semantic knowledge. The dragon agentkit reflects our method and its effectiveness is demonstrated by three tasks, text retrieval, text classification, and text clustering."
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:c011e8de32c59c71737f9610ae6f0dc55b994ddcfc77c6f9f6613c1aa95ebae0
+size 1376

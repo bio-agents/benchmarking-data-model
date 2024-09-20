@@ -1,24 +1,3 @@
-{
-    "_id": "QfO:OrthoFinder-2.0-MSA",
-    "_schema": "https://www.iechor-europe.org/excelerate/WP2/json-schemas/1.0/Agent",
-    "activation": "2011-07-07T00:00:00Z",
-    "community_ids": [
-        "OEBC002"
-    ],
-    "description": "OrthoFinder 2.0 using BLAST and multiple sequence alignment tree.Command: \"orthofinder -S blast -f -M msa 2011_04_reference_proteomes/\"",
-    "is_automated": true,
-    "name": "OrthoFinder-2.0-MSA",
-    "references": [
-        "doi:10.1038/nmeth.3830"
-    ],
-    "status": "unknown",
-    "agent_access": [
-        {
-            "link": "http://https://github.com/davidemms/OrthoFinder",
-            "agent_access_type": "other"
-        }
-    ],
-    "agent_contact_ids": [
-        "Christophe.Dessimoz"
-    ]
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:64fdfb65c2b492b30995c2118d90c9c4b12d413c56741902eda0926a885f45d1
+size 747

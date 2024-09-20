@@ -1,8 +1,3 @@
-{
-	"_id": "QfO:precision_error",
-	"_schema": "https://www.iechor-europe.org/excelerate/WP2/json-schemas/0.3/Metrics",
-	"title": "Precision error",
-	"description": "95% confidence interval for the precision metric",
-	"metrics_contact_id": ["unknown"]
-
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:cb799167905731808dbe3bfe54b1c88ce6adf058d26932f4a32ee8d380e44038
+size 253

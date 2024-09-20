@@ -1,5 +1,3 @@
-{
-	"_id": "QfO:VM",
-	"_schema": "https://www.iechor-europe.org/excelerate/WP2/json-schemas/0.3/AgentAccessType",
-	"description": "Virtual machine pre-packaged and pre-configured the agent's API"
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:ddaed8ca512902035c2770ab06bd3a0437943f8722729f38fb332b2c3dbc9725
+size 197

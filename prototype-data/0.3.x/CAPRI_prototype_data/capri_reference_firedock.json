@@ -1,6 +1,3 @@
-{
-		"_id": "10.1093/nar/gkn186",
-		"_schema": "https://www.iechor-europe.org/excelerate/WP2/json-schemas/0.3/Reference",
-		"title": "FireDock: a web server for fast interaction refinement in molecular docking",
-		"pubmed_id": 18424796
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:9e567a51ad0a27ba740ff07011cc9341db8db4e2b791dbf5199f67c16bf67f21
+size 237

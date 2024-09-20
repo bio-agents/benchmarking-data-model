@@ -1,17 +1,3 @@
-{
-	"_id": "Benjamin.Linard",
-	"_schema": "https://www.iechor-europe.org/excelerate/WP2/json-schemas/0.4/Contact",
-	"contact_type": "person",
-	"givenName": "Benjamin",
-	"surname": "Linard",
-	"email": [
-		"benjamin.linard@gmail.com"
-	],
-	"notes": "Contact for any bug reports",
-	"links": [
-		{
-			"label": "LinkedIn",
-			"uri": "https://www.linkedin.com/in/benjamin-linard-68a3bb65/"
-		}
-	]
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:d052ab770d89e9f6724deb5610061cca8ca9c8e924f27b1e0ed7163bdc47cdbf
+size 391

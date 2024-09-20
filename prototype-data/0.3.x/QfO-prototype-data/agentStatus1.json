@@ -1,5 +1,3 @@
-{
-	"_id": "QfO:active",
-	"_schema": "https://www.iechor-europe.org/excelerate/WP2/json-schemas/0.3/AgentStatus",
-	"description": "Active for continuous benchmarking"
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:3caadab01cd188e089366a29c1aac722f9314aa525ec140cf5551992ab6f907b
+size 168

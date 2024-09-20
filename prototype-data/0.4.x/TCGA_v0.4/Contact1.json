@@ -1,11 +1,3 @@
-{
-   "_id":"Matthew.Bailey",
-   "givenName":"Matthew",
-   "surname":"Bailey",
-   "email":[
-      "unknown@email.es"
-   ],
-   "notes":"Unknown",
-   "_schema":"https://www.iechor-europe.org/excelerate/WP2/json-schemas/0.4/Contact",
-   "contact_type":"person"
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:1b40afeae976eb4ea9cf623588338e88898d17e0e5c24265a22e88fda478aaa2
+size 259

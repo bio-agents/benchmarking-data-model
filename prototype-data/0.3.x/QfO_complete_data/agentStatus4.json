@@ -1,6 +1,3 @@
-{
-	"_id": "QfO:implemented",
-	"_schema": "https://www.iechor-europe.org/excelerate/WP2/json-schemas/0.3/AgentStatus",
-	"description": "The algorithm or method has been implemented, there is a package containing its source code and/or scripts to run it, but there is not a agent or service providing direct access to use it",
-	"status_date": "2015-01-01T00:00:01Z"
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:0151eea6f026d4b12fbb1f67a5fab2d1b703fc570a4d1cabd049a2e5f0c8137d
+size 366

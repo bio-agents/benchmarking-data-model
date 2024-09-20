@@ -1,11 +1,3 @@
-{
-    "_id": "QfO:QfO4_GOtest_OMA-Groups",
-    "_schema": "https://www.iechor-europe.org/excelerate/WP2/json-schemas/0.3/TestEvent",
-    "benchmarking_event_id": "QfO:QfO4_GOtest",
-    "dates": {
-        "creation": "2015-04-14T23:59:59Z"
-    },
-    "input_dataset_id": "QfO:QfO4_input_seqXML",
-    "output_dataset_id": "QfO:QfO4_GOtest_OMA-Groups_output",
-    "agent_id": "QfO:OMA-Groups"
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:935db3745679d6606dac0f5216a1b1740eb49523abcabcfe3ed9c59677f9db69
+size 391

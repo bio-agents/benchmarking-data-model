@@ -1,24 +1,3 @@
-{
-    "_id": "QfO:SonicParanoid_fast",
-    "_schema": "https://www.iechor-europe.org/excelerate/WP2/json-schemas/1.0/Agent",
-    "activation": "2011-07-07T00:00:00Z",
-    "community_ids": [
-        "OEBC002"
-    ],
-    "description": "version: 1.0.9 mode: sensitive Length difference threshold = 0.5 ",
-    "is_automated": true,
-    "name": "SonicParanoid_fast",
-    "references": [
-        "doi:10.1038/nmeth.3830"
-    ],
-    "status": "unknown",
-    "agent_access": [
-        {
-            "link": "http://iwasakilab.bs.s.u-tokyo.ac.jp/sonicparanoid",
-            "agent_access_type": "other"
-        }
-    ],
-    "agent_contact_ids": [
-        "Christophe.Dessimoz"
-    ]
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:acdd21db11f0b88140091d7d830ead309a68dcc3ac608efc15b760df889bd4c0
+size 676

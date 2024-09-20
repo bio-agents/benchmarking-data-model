@@ -1,31 +1,3 @@
-{
-    "_id": "QfO:2011-07-07_STD_Fungi_metricsEvent_SonicParanoid_fast_STD_num_orthologs",
-    "_schema": "https://www.iechor-europe.org/excelerate/WP2/json-schemas/1.0/TestAction",
-    "action_type": "MetricsEvent",
-    "challenge_id": "QfO:2011-07-07_STD_Fungi",
-    "dates": {
-        "creation": "2011-07-07T00:00:00Z",
-        "reception": "2011-07-07T00:00:00Z"
-    },
-    "involved_datasets": [
-        {
-            "dataset_id": "QfO:2011-07-07_STD_Fungi_M",
-            "role": "incoming"
-        },
-        {
-            "dataset_id": "QfO:2011-07-07_P_SonicParanoid_fast",
-            "role": "incoming"
-        },
-        {
-            "dataset_id": "QfO:2011-07-07_STD_Fungi_A_STD_num_orthologs_SonicParanoid_fast",
-            "role": "outgoing"
-        }
-    ],
-    "test_contact_ids": [
-        "Christophe.Dessimoz",
-        "Paul.Thomas",
-        "Toni.Gabaldon",
-        "Erik.Sonnhammer"
-    ],
-    "agent_id": "QfO:SonicParanoid_fast"
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:f673efa642fbffa7712a4a68c1ff060335d993b2bce051bcb3078d74da0bec71
+size 958

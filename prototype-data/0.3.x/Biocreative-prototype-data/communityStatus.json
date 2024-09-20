@@ -1,5 +1,3 @@
-{
-	"_id": "Active",
-	"_schema": "https://www.iechor-europe.org/excelerate/WP2/json-schemas/0.3/CommunityStatus",
-	"description": "Active"
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:c801896c3dae536ab3e9adee4dc9f45ce17a0c68acdf9b02b5082c9a8d7bfec3
+size 140

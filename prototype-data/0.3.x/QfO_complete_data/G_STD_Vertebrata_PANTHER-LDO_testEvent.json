@@ -1,11 +1,3 @@
-{
-    "_id": "QfO:QfO4_G_STD_Vertebrata_PANTHER-LDO",
-    "_schema": "https://www.iechor-europe.org/excelerate/WP2/json-schemas/0.3/TestEvent",
-    "benchmarking_event_id": "QfO:QfO4_G_STD",
-    "dates": {
-        "creation": "2015-04-14T23:59:59Z"
-    },
-    "input_dataset_id": "QfO:QfO4_input_seqXML",
-    "output_dataset_id": "QfO:QfO4_G_STD_Vertebrata_PANTHER-LDO_output",
-    "agent_id": "QfO:PANTHER-LDO"
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:454bbdffccd4cd592cda534d03a866224be6825f75d10edc16224cf8bac0320e
+size 413

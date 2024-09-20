@@ -1,16 +1,3 @@
-{
-    "_id":"TCGA:PPV",
-    "_schema": "https://www.iechor-europe.org/excelerate/WP2/json-schemas/0.4/Metrics",
-    "title":"Precision / Positive Predictive Value (PPV)",
-    "description":"Agreement (specificity) with Consensus Driver Genes List over the total set of predicted genes, measured through the precision/PPV",
-    "metrics_contact_id":[
-       "Matthew.Bailey",
-      "Eduard.Porta",
-      "Collin.Tokheim"
-    ],
-    "formal_definition":"PPV = TP / (TP + FP)",
-    "references":[
-        "10.1016/j.cell.2018.02.060"
-     ]
-
- }
+version https://git-lfs.github.com/spec/v1
+oid sha256:be9a5681f3f117db8f3823b3a0708388cdbdff5f598f2bd5d782910bc6012fee
+size 542

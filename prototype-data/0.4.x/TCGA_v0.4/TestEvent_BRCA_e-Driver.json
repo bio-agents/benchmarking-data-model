@@ -1,26 +1,3 @@
-{
-    "_id": "TCGA:2018-04-05_BRCA_testEvent_e-Driver",
-    "_schema": "https://www.iechor-europe.org/excelerate/WP2/json-schemas/0.4/TestAction",
-    "action_type": "TestEvent",
-    "challenge_id": "TCGA:2018-04-05_BRCA",
-    "dates": {
-        "creation": "2018-04-05T00:00:00Z",
-        "reception": "2018-04-05T00:00:00Z"
-    },
-    "received_datasets": [
-        {
-            "dataset_id": "TCGA:2018-04-05_BRCA_I",
-            "role": "input"
-        },
-        {
-            "dataset_id": "TCGA:2018-04-05_BRCA_P_e-Driver",
-            "role": "participant"
-        }
-    ],
-    "test_contact_ids": [
-        "Matthew.Bailey",
-        "Eduard.Porta",
-        "Collin.Tokheim"
-    ],
-    "agent_id": "TCGA:e-Driver"
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:e946b22ae48f8802947087d0ed22d4515ee30c8e8d1df62f75eab2e8a8bb0f18
+size 724

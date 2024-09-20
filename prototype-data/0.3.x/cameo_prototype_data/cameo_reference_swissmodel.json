@@ -1,7 +1,3 @@
-{
-		"_id": "10.1093/database/bat031",
-		"_schema": "https://www.iechor-europe.org/excelerate/WP2/json-schemas/0.3/Reference",
-		"title": "The Protein Model Portal--a comprehensive resource for protein structure and model information",
-		"pubmed_id": 23624946
-
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:affd4b0254915ce12ea2888c5b3267e04c64f00c2c8d30c8bfb97196a32bba32
+size 262

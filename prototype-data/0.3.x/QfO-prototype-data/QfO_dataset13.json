@@ -1,17 +1,3 @@
-{
-	"_id": "QfO:QfO4_output_InParanoidCore",
-	"_schema": "https://www.iechor-europe.org/excelerate/WP2/json-schemas/0.3/Dataset",
-	"name": "InParanoidCore-.725.rels",
-	"version": "v1.0",
-	"description": "Output data set (predicted orthologous groups) for InParanoidCore agent. The orthologs pairs are stored in OrthoXML format",
-	"dates": {
-		"creation": "2011-06-14T14:15:46Z",
-		"modification": "2011-06-14T14:15:46Z"
-	},
-	"type": "Output",
-	"datalink": "http://orthology.benchmarkservice.org/raw/InParanoidCore-.725.rels.raw.gz",
-	"dataset_contact_id": [
-		"Erik.Sonnhammer",
-		"Inparanoid.MailingList"
-	]
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:886fbf12ee32eadb1cf7c6280793b5ab8396fd6d8ca37ba6b405df8f201f5a04
+size 610

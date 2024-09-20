@@ -1,6 +1,3 @@
-{
-		"_id": "10.1002/prot.21117",
-		"_schema": "https://www.iechor-europe.org/excelerate/WP2/json-schemas/0.3/Reference",
-		"title": "PIPER: an FFT-based protein docking program with pairwise potentials",
-		"pubmed_id": 16933295
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:9737e41be17c0b7e84811ed65955f54423849c4c663ab6bddbd4362ec64ed4a4
+size 230

@@ -1,31 +1,3 @@
-{
-	"_id": "BioCreative:ABNER",
-	"_schema": "https://www.iechor-europe.org/excelerate/WP2/json-schemas/0.3/Agent",
-	"name": "ABNER",
-	"description": "Machine-learning-based NER system for tagging biological entities (genes, proteins, cell lines, cell types, RNA, DNA) in text. It is based on conditional random fields (CRFs) and trained on the NLPBA and BioCreative corpora. It is implemented in Java and can be used locally.",
-	"is_automated": false,
-	"community_id": ["BioCreative"],
-	"agent_contact_id": [
-		"Burr.Settles"
-	],
-	"status_id": "active",
-	"references": [
-		"10.1093/bioinformatics/bti475"
-	],
-	"agent_access": [
-		{
-			"agent_access_type_id": "Standalone-application",
-			"link": "http://pages.cs.wisc.edu/~bsettles/abner/abner.jar",
-			"techdocs": [
-				{
-					"uri": "http://pages.cs.wisc.edu/~bsettles/abner/abner-1.5.tar.gz",
-					"label": "source"
-				},
-				{
-					"uri": "http://pages.cs.wisc.edu/~bsettles/abner/javadoc/",
-					"label": "doc"
-				}
-			]
-		}
-	]
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:6eefde8ac80bc9305ca8fbe8d4cf6fbf674dd958872636b2de17867fb2d90ec8
+size 986

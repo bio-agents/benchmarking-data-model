@@ -1,9 +1,3 @@
-{
-	"_id":"doi:10.1186/gb-2009-10-9-403",
-	"_schema": "https://www.iechor-europe.org/excelerate/WP2/json-schemas/1.0/Reference",
-	"title": "Joining forces in the quest for orthologs",
-	"bibliographic_ids":["doi:10.1186/gb-2009-10-9-403"],
-	"abstract": "Better orthology-prediction resources would be beneficial for the whole biological community. A recent meeting discussed how to coordinate and leverage current efforts."
-}
-
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:e171843c3d5d6785aa51f916286c6bd8c1c25ef0a1e7daa433c4f03358dd7fc8
+size 426

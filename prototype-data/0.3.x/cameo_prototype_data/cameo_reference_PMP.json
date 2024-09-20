@@ -1,7 +1,3 @@
-{
-		"_id": "10.1093/nar/gku340",
-		"_schema": "https://www.iechor-europe.org/excelerate/WP2/json-schemas/0.3/Reference",
-		"title": "SWISS-MODEL: modelling protein tertiary and quaternary structure using evolutionary information",
-		"pubmed_id": 24782522
-
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:b062e899cc5a5f6298a0749f3d650bfbe66de1edd2f385a4995232e6e98d224c
+size 258

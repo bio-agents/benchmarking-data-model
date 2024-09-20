@@ -1,30 +1,3 @@
-{
-    "_id": "TCGA:2018-04-05_PRAD_metricsEvent_e-Driver_precision",
-    "_schema": "https://www.iechor-europe.org/excelerate/WP2/json-schemas/1.0/TestAction",
-    "action_type": "MetricsEvent",
-    "challenge_id": "TCGA:2018-04-05_PRAD",
-    "dates": {
-        "creation": "2018-04-05T00:00:00Z",
-        "reception": "2018-04-05T00:00:00Z"
-    },
-    "involved_datasets": [
-        {
-            "dataset_id": "TCGA:2018-04-05_PRAD_M",
-            "role": "incoming"
-        },
-        {
-            "dataset_id": "TCGA:2018-04-05_PRAD_P_e-Driver",
-            "role": "incoming"
-        },
-        {
-            "dataset_id": "TCGA:2018-04-05_PRAD_A_precision_e-Driver",
-            "role": "outgoing"
-        }
-    ],
-    "test_contact_ids": [
-        "Matthew.Bailey",
-        "Eduard.Porta",
-        "Collin.Tokheim"
-    ],
-    "agent_id": "TCGA:e-Driver"
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:92c65c04d2265bfe1c78f960189f6da5edb1d788677de7dcda8832d2b709f52f
+size 863

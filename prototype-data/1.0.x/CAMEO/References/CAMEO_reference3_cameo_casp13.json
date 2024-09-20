@@ -1,6 +1,3 @@
-{
-  "_id": "doi:10.1002/prot.25815",
-  "_schema": "https://www.iechor-europe.org/excelerate/WP2/json-schemas/1.0/Reference",
-  "title": "Introducing “best single template” models as reference baseline for the Continuous Automated Model Evaluation (CAMEO)",
-  "bibliographic_ids": ["doi:10.1002/prot.25815"]
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:1730cdb3a317869204eec501153e19764d57230dc5cbfa72209e2c97c1f0d0de
+size 313

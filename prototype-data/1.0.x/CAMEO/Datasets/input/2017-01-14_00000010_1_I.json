@@ -1,21 +1,3 @@
-{
-  "_id": "CAMEO:2017-01-14_00000010_1_I",
-  "_schema": "https://www.iechor-europe.org/excelerate/WP2/json-schemas/1.0/Dataset",
-  "type": "input",
-  "challenge_ids": ["CAMEO:CAMEO-3D_2017-01-14"],
-  "name": "Crystal structure of phosphoribulokinase from Methanospirillum hungatei",
-  "description": "Target 10_1 of week 2017-01-14",
-  "version": "1",
-  "visibility": "public",
-  "datalink": {
-    "uri": "https://www.cameo3d.org/sp/targets/3-months/target/2017-01-14/5B3F_B/fasta/",
-    "attrs": ["inline"]
-  },
-  "dates": {
-    "creation": "2017-01-14T00:00:00Z",
-    "modification": "2017-01-18T00:00:00Z"
-  },
-  "dataset_contact_ids": [
-    "help.CAMEO-3D"
-  ]
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:1795b317f12a5aaddac1de1aa8461ee6b93e18429f3a443d2073fa57fdb488d5
+size 668
